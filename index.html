@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mapa de Unidades Médicas ISSSTE</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header class="header">
+    <div class="header-brand">
+      <div class="logo-marca">
+        <img src="assets/logos/issste.svg" alt="ISSSTE">
+      </div>
+
+      <div class="header-title">
+        <h1>Mapa de Unidades Médicas</h1>
+        <p>Localiza unidades médicas del ISSSTE</p>
+      </div>
+    </div>
+
+    <button id="btnUnidadCercana" class="btn-header" type="button">
+    Encuentra la unidad más cercana a ti
+    </button>
+  </header>
+
+<section class="toolbar">
+
+  <div class="filtro-grupo">
+    <label for="filtroEntidad">Entidad</label>
+    <div class="control-con-icono">
+      <span class="icono-control" style="--icon: url('assets/icons/ubicacion.svg');" aria-hidden="true"></span>
+      <select id="filtroEntidad">
+        <option value="TODOS">Todas las entidades</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="filtro-grupo">
+    <label for="filtroMunicipio">Municipio</label>
+    <div class="control-con-icono">
+      <span class="icono-control" style="--icon: url('assets/icons/ubicacion.svg');" aria-hidden="true"></span>
+      <select id="filtroMunicipio">
+        <option value="TODOS">Todos los municipios</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="filtro-grupo">
+    <label for="filtroTipo">Tipo de unidad</label>
+    <div class="control-con-icono">
+      <span class="icono-control" style="--icon: url('assets/icons/tipo-unidad.svg');" aria-hidden="true"></span>
+      <select id="filtroTipo">
+        <option value="TODOS">Todos los tipos</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="filtro-grupo">
+    <label for="filtroNivel">Nivel de atención</label>
+    <div class="control-con-icono">
+      <span class="icono-control" style="--icon: url('assets/icons/nivel-atencion.svg');" aria-hidden="true"></span>
+      <select id="filtroNivel">
+        <option value="TODOS">Todos los niveles</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="filtro-grupo filtro-busqueda">
+    <label for="busqueda">&nbsp;</label>
+    <div class="control-con-icono">
+      <input id="busqueda" type="text" placeholder="Buscar por nombre, CLUES o dirección">
+      <span class="icono-control icono-derecha" style="--icon: url('assets/icons/busqueda.svg');" aria-hidden="true"></span>
+    </div>
+  </div>
+
+  <button id="btnLimpiar" class="btn-limpiar" type="button">
+    <span class="icono-boton" style="--icon: url('assets/icons/limpiar.svg');" aria-hidden="true"></span>
+    Limpiar filtros
+  </button>
+
+  <span id="contadorResultados" class="contador-resultados">
+    <span class="icono-contador icono-hospital" aria-hidden="true"></span>
+    <span id="contadorTexto">0 unidades</span>
+  </span>
+
+</section>
+
+  <main class="map-container">
+
+    <div class="floating-tools">
+
+      <button id="btnUbicacion" class="floating-btn" type="button">
+        <span class="floating-icon svg-inline-icon" data-src="assets/icons/ubicacion2.svg" aria-hidden="true"></span>
+        <span>Mi ubicación</span>
+      </button>
+
+      <button id="btnNearestToggle" class="floating-btn" type="button">
+        <span class="floating-icon svg-inline-icon" data-src="assets/icons/tipo-unidad.svg" aria-hidden="true"></span>
+        <span>Unidad cercana</span>
+      </button>
+
+      <button id="btnVista" class="floating-btn" type="button">
+        <span class="floating-icon svg-inline-icon" data-src="assets/icons/recargar.svg" aria-hidden="true"></span>
+        <span>Ver todo</span>
+      </button>
+
+    </div>
+
+    <div class="zoom-custom">
+
+      <button id="zoomInBtn" class="zoom-btn" type="button" aria-label="Acercar mapa">
+
+        <span
+          class="zoom-icon svg-inline-icon"
+          data-src="assets/icons/zoom-in.svg"
+          aria-hidden="true">
+        </span>
+
+      </button>
+
+      <button id="zoomOutBtn" class="zoom-btn" type="button" aria-label="Alejar mapa">
+
+        <span
+          class="zoom-icon svg-inline-icon"
+          data-src="assets/icons/zoom-out.svg"
+          aria-hidden="true">
+        </span>
+
+      </button>
+
+    </div>
+
+    <div id="nearestMenu" class="nearest-menu" hidden>
+      <p>Buscar unidad más cercana</p>
+
+      <button type="button" data-nivel="Primer Nivel">Primer Nivel</button>
+      <button type="button" data-nivel="Segundo Nivel">Segundo Nivel</button>
+      <button type="button" data-nivel="Tercer Nivel">Tercer Nivel</button>
+    </div>
+
+    <div id="map"></div>
+
+    <div id="mensajeVacio" class="mensaje-vacio" hidden>
+        <div>
+            <h3>No se encontraron unidades</h3>
+            <p>Intenta cambiar los filtros o limpiar la búsqueda.</p>
+            <button id="btnRestablecer">Restablecer filtros</button>
+        </div>
+    </div>
+
+    <aside id="panelInfo" class="panel">
+      <button id="cerrarPanel" class="cerrar" type="button" aria-label="Cerrar panel">✕</button>
+
+      <div class="panel-header">
+        <div id="panelIconoNivel" class="panel-icono-nivel"></div>
+
+        <div class="panel-header-texto">
+          <h2 id="panelNombre">Selecciona una unidad</h2>
+
+          <div class="panel-badges">
+            <span id="panelTipoBadge" class="panel-badge panel-badge-tipo">-</span>
+            <span id="panelNivel" class="panel-badge panel-badge-soft">-</span>
+            <span id="panelEstatus" class="panel-badge panel-badge-ok">-</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel-detalles">
+        <div class="panel-row">
+          <span class="panel-row-icon svg-inline-icon" data-src="assets/icons/clues.svg" aria-hidden="true"></span>
+          <span class="panel-row-label">CLUES:</span>
+          <span id="panelClues" class="panel-row-value">-</span>
+        </div>
+
+        <div class="panel-row">
+          <span class="panel-row-icon svg-inline-icon" data-src="assets/icons/tipo-unidad.svg" aria-hidden="true"></span>
+          <span class="panel-row-label">Tipo:</span>
+          <span id="panelTipo" class="panel-row-value">-</span>
+        </div>
+
+        <div class="panel-row">
+          <span class="panel-row-icon svg-inline-icon" data-src="assets/icons/nivel-atencion.svg" aria-hidden="true"></span>
+          <span class="panel-row-label">Nivel:</span>
+          <span id="panelNivelTexto" class="panel-row-value">-</span>
+        </div>
+
+        <div class="panel-row">
+          <span class="panel-row-icon svg-inline-icon" data-src="assets/icons/ubicacion.svg" aria-hidden="true"></span>
+          <span class="panel-row-label">Ubicación:</span>
+          <span id="panelUbicacion" class="panel-row-value">-</span>
+        </div>
+
+        <div class="panel-row">
+          <span class="panel-row-icon svg-inline-icon" data-src="assets/icons/ubicacion.svg" aria-hidden="true"></span>
+          <span class="panel-row-label">Dirección:</span>
+          <span id="panelDireccion" class="panel-row-value">-</span>
+        </div>
+
+        <div class="panel-row panel-row-derechohabientes">
+          <span class="panel-row-icon svg-inline-icon" data-src="assets/icons/derechohabientes.svg" aria-hidden="true"></span>
+          <span class="panel-row-label">Derechohabientes:</span>
+          <span id="panelDerechohabientes" class="panel-row-value">-</span>
+        </div>
+      </div>
+
+      <div class="panel-actions">
+        <a id="panelRuta" class="btn-ruta" target="_blank" rel="noopener noreferrer">
+          <span class="btn-icon svg-inline-icon" data-src="assets/icons/ubicacion2.svg" aria-hidden="true"></span>
+          <span>Cómo llegar</span>
+        </a>
+
+        <button id="btnCopiarDireccion" class="btn-panel-secundario" type="button">
+          <span class="btn-icon svg-inline-icon" data-src="assets/icons/copiar.svg" aria-hidden="true"></span>
+          <span id="btnCopiarDireccionTexto">Copiar dirección</span>
+        </button>
+      </div>
+
+      <div class="panel-servicios">
+        <div class="panel-servicios-titulo">
+          <span class="panel-servicios-icono svg-inline-icon" data-src="assets/icons/servicios.svg" aria-hidden="true"></span>
+          <h3>Servicios disponibles</h3>
+        </div>
+
+        <div id="panelServiciosIconos" class="servicios-iconos">
+          <span class="servicio-placeholder">Próximamente</span>
+        </div>
+
+        <button class="btn-ver-mas" type="button">
+
+          <span>Ver más</span>
+
+          <span
+            class="btn-ver-mas-icono svg-inline-icon"
+            data-src="assets/icons/flecha-abajo.svg"
+            aria-hidden="true">
+          </span>
+
+        </button>
+      </div>
+    </aside>
+  </main>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

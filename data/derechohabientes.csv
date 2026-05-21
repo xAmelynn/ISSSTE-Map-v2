@@ -1,0 +1,1122 @@
+﻿id_unidad,clues,clave_presupuestal,nombre_corto,derechohabientes_primer_nivel,derechohabientes_segundo_nivel,derechohabientes_tercer_nivel
+U_ISSSTE_01,ASIST000016,001-204-00,HG Aguascalientes,No aplica,"179,549",No aplica
+U_ISSSTE_02,ASIST000021,001-205-00,CMF Aguascalientes,"87,196",No aplica,No aplica
+U_ISSSTE_03,ASIST000050,001-205-01,UMF Calvillo,"4,187",No aplica,No aplica
+U_ISSSTE_04,ASIST000033,001-205-03,UMF Pabellón de Arteaga,"9,147",No aplica,No aplica
+U_ISSSTE_05,ASIST000045,001-205-04,UMF Rincón de Romos,"11,054",No aplica,No aplica
+U_ISSSTE_06,ASIST000074,001-205-05,UMF Villa Juárez,"5,427",No aplica,No aplica
+U_ISSSTE_07,ASIST000103,001-205-08,CAF San José de Gracia,"1,713",No aplica,No aplica
+U_ISSSTE_08,ASIST000115,001-205-09,CAF Cosío,"1,840",No aplica,No aplica
+U_ISSSTE_09,ASIST000120,001-205-10,CAF Palo Alto,"1,765",No aplica,No aplica
+U_ISSSTE_10,ASIST000131,001-205-11,CAF San Francisco de los Romo,"2,804",No aplica,No aplica
+U_ISSSTE_11,ASIST000062,001-206-00,CMF Ojocaliente,"49,866",No aplica,No aplica
+U_ISSSTE_12,BCIST000040,002-204-00,"HG 5 de Diciembre, Mexicali","74,069","83,730",No aplica
+U_ISSSTE_13,BCIST000076,002-204-01,UMF Los Algodones,"2,711",No aplica,No aplica
+U_ISSSTE_14,BCIST000052,002-204-02,CAF Estación Delta,"5,677",No aplica,No aplica
+U_ISSSTE_15,BCIST000064,002-204-03,UMF San Felipe,"1,273",No aplica,No aplica
+U_ISSSTE_16,BCIST000011,002-206-00,CH Ensenada,"37,370","45,091",No aplica
+U_ISSSTE_17,BCIST000023,002-206-02,CAF Isla de Cedros,324,No aplica,No aplica
+U_ISSSTE_18,BCIST000035,002-206-03,UMF San Quintín,"6,740",No aplica,No aplica
+U_ISSSTE_19,BCIST000105,002-206-04,CAF San Vicente,327,No aplica,No aplica
+U_ISSSTE_20,BCIST000110,002-206-05,CAF Valle de la Trinidad,120,No aplica,No aplica
+U_ISSSTE_21,BCIST000122,002-206-08,CAF El Rosario,210,No aplica,No aplica
+U_ISSSTE_22,BCIST000146,002-208-00,CMF Mesa de Otay,"84,753",No aplica,No aplica
+U_ISSSTE_23,BCIST000093,002-209-00,"HG Fray Junípero Serra, Tijuana",No aplica,"97,722",No aplica
+U_ISSSTE_24,BCIST000134,002-209-01,CAF Rosarito,"5,020",No aplica,No aplica
+U_ISSSTE_25,BCIST000081,002-209-02,UMF Tecate,"7,949",No aplica,No aplica
+U_ISSSTE_26,BSIST000014,003-205-00,CH Cd. Constitución,"16,214","26,833",No aplica
+U_ISSSTE_27,BSIST000113,003-205-01,UMF Loreto,"6,645",No aplica,No aplica
+U_ISSSTE_28,BSIST000130,003-205-02,CAF Puerto Adolfo López Mateos,396,No aplica,No aplica
+U_ISSSTE_29,BSIST000031,003-205-03,UMF Puerto San Carlos,577,No aplica,No aplica
+U_ISSSTE_30,BSIST000166,003-205-04,CAF San Isidro,427,No aplica,No aplica
+U_ISSSTE_31,BSIST000142,003-205-05,CAF San José de Comondú,42,No aplica,No aplica
+U_ISSSTE_32,BSIST000026,003-205-06,UMF Villa Insurgentes,"2,192",No aplica,No aplica
+U_ISSSTE_33,BSIST000154,003-205-07,CAF Ignacio Zaragoza,382,No aplica,No aplica
+U_ISSSTE_34,BSIST000043,003-206-00,CH Santa Rosalía,"7,948","16,111",No aplica
+U_ISSSTE_35,BSIST000171,003-206-01,CAF Bahía Asunción,377,No aplica,No aplica
+U_ISSSTE_36,BSIST000183,003-206-02,CAF Bahía Tortugas,523,No aplica,No aplica
+U_ISSSTE_37,BSIST000055,003-206-03,UMF Guerrero Negro,"2,735",No aplica,No aplica
+U_ISSSTE_38,BSIST000195,003-206-04,CAF Mulegé,"1,058",No aplica,No aplica
+U_ISSSTE_39,BSIST000200,003-206-05,CAF Punta Abreojos,411,No aplica,No aplica
+U_ISSSTE_40,BSIST000212,003-206-06,CAF San Ignacio,751,No aplica,No aplica
+U_ISSSTE_41,BSIST000060,003-206-07,UMF Sebastián Vizcaíno,"2,308",No aplica,No aplica
+U_ISSSTE_42,BSIST000330,003-207-00,HG La Paz,No aplica,"98,401",No aplica
+U_ISSSTE_43,BSIST000270,003-207-02,CAF El Pescadero,176,No aplica,No aplica
+U_ISSSTE_44,BSIST000265,003-207-03,"CAF UH. FOVISSSTE Catra, La Paz.","50,592",No aplica,No aplica
+U_ISSSTE_45,BSIST000294,003-207-04,CAF La Ribera,703,No aplica,No aplica
+U_ISSSTE_46,BSIST000241,003-207-05,CAF Los Barriles,385,No aplica,No aplica
+U_ISSSTE_47,BSIST000306,003-207-06,CAF San Antonio,454,No aplica,No aplica
+U_ISSSTE_48,BSIST000282,003-207-07,CAF Miraflores,985,No aplica,No aplica
+U_ISSSTE_49,BSIST000236,003-207-09,CAF San Juan de los Planes,703,No aplica,No aplica
+U_ISSSTE_50,BSIST000311,003-207-10,CAF Santiago,"1,337",No aplica,No aplica
+U_ISSSTE_51,BSIST000084,003-207-11,UMF Todos Santos,"1,601",No aplica,No aplica
+U_ISSSTE_52,BSIST000224,003-207-12,"CAF UH. FOVISSSTE Cihuatán Costa Azul, La Paz","4,270",No aplica,No aplica
+U_ISSSTE_53,BSIST000253,003-207-13,CAF Las Pocitas,215,No aplica,No aplica
+U_ISSSTE_54,BSIST000101,003-208-00,CH San José del Cabo,"22,779","25,804",No aplica
+U_ISSSTE_55,BSIST000321,003-209-00,CMF La Paz,"41,740",No aplica,No aplica
+U_ISSSTE_56,BSIST000352,003-211-00,CH Cabo San Lucas,"16,174","17,951",No aplica
+U_ISSSTE_57,CCIST000021,004-204-00,"CH Dr. Patricio Trueba Regil, Camp.","56,523","96,324",No aplica
+U_ISSSTE_58,CCIST000016,004-204-01,UMF Calkiní,"15,951",No aplica,No aplica
+U_ISSSTE_59,CCIST000086,004-204-02,CAF Candelaria,"1,033",No aplica,No aplica
+U_ISSSTE_60,CCIST000045,004-204-03,UMF Champotón,"3,204",No aplica,No aplica
+U_ISSSTE_61,CCIST000074,004-204-04,UMF Escárcega,"6,391",No aplica,No aplica
+U_ISSSTE_62,CCIST000050,004-204-05,UMF Hecelchakán,"6,981",No aplica,No aplica
+U_ISSSTE_63,CCIST000062,004-204-06,UMF Hopelchén,"3,253",No aplica,No aplica
+U_ISSSTE_64,CCIST000091,004-204-07,CAF Seybaplaya,"1,906",No aplica,No aplica
+U_ISSSTE_65,CCIST000115,004-204-08,CAF Tenabo,"1,082",No aplica,No aplica
+U_ISSSTE_66,CCIST000033,004-205-00,CH Cd. del Carmen,"14,416","14,871",No aplica
+U_ISSSTE_67,CCIST000103,004-205-01,CAF Palizada,455,No aplica,No aplica
+U_ISSSTE_68,CLIST000065,005-206-00,CH Monclova,"40,386","47,788",No aplica
+U_ISSSTE_69,CLIST000210,005-206-01,CAF Castaños,"1,659",No aplica,No aplica
+U_ISSSTE_70,CLIST000036,005-206-02,UMF Cuatrociénegas de Carranza,"1,940",No aplica,No aplica
+U_ISSSTE_71,CLIST000321,005-206-03,CAF La Esmeralda,100,No aplica,No aplica
+U_ISSSTE_72,CLIST000251,005-206-04,CAF Ocampo,268,No aplica,No aplica
+U_ISSSTE_73,CLIST000304,005-206-05,CAF San Buenaventura,"3,535",No aplica,No aplica
+U_ISSSTE_74,CLIST000094,005-207-00,CH Piedras Negras,"24,932","44,251",No aplica
+U_ISSSTE_75,CLIST000024,005-207-01,UMF Cd. Allende,"2,741",No aplica,No aplica
+U_ISSSTE_76,CLIST000135,005-207-03,UMF Zaragoza,"1,602",No aplica,No aplica
+U_ISSSTE_77,CLIST000012,005-208-00,CMF Cd. Acuña,"14,976",No aplica,No aplica
+U_ISSSTE_78,CLIST000193,005-209-00,"CH Dr. Francisco Z Cruz, Nueva Rosita","8,749","14,321",No aplica
+U_ISSSTE_79,CLIST000070,005-209-01,UMF Cd. Melchor Muzquiz,"5,572",No aplica,No aplica
+U_ISSSTE_80,CLIST000181,005-210-00,"CH Dra. Esperanza Flores Alvarado, Cd. Sabinas","8,743","8,743",No aplica
+U_ISSSTE_81,CLIST000111,005-211-00,CH San Pedro de las Colonias,"17,878","25,431",No aplica
+U_ISSSTE_82,CLIST000041,005-211-01,UMF Francisco I. Madero,"7,553",No aplica,No aplica
+U_ISSSTE_83,CLIST000140,005-216-00,CMFEQ Torreón,"108,727","120,692",No aplica
+U_ISSSTE_84,CLIST000053,005-216-01,UMF Matamoros,"11,865",No aplica,No aplica
+U_ISSSTE_85,CLIST000333,005-220-00,HG Saltillo,No aplica,"138,287",No aplica
+U_ISSSTE_86,CLIST000222,005-220-01,CAF General Cepeda,636,No aplica,No aplica
+U_ISSSTE_87,CLIST000275,005-220-02,CAF UH. FOVISSSTE Chapultepec,"13,975",No aplica,No aplica
+U_ISSSTE_88,CLIST000292,005-220-05,CAF UHF. Lomas del Bosque,"17,774",No aplica,No aplica
+U_ISSSTE_89,CLIST000263,005-220-06,CAF Ramos Arizpe,"4,660",No aplica,No aplica
+U_ISSSTE_90,CLIST000082,005-220-07,UMF Parras de la Fuente,"6,616",No aplica,No aplica
+U_ISSSTE_91,CLIST000106,005-221-00,CMF Saltillo,"93,277",No aplica,No aplica
+U_ISSSTE_92,CMIST000010,006-204-00,"CH Dr. Miguel Trejo Ochoa, Colima","68,125","79,843",No aplica
+U_ISSSTE_93,CMIST000046,006-204-01,CAF Armería,"1,539",No aplica,No aplica
+U_ISSSTE_94,CMIST000051,006-204-02,CAF Minatitlán,386,No aplica,No aplica
+U_ISSSTE_95,CMIST000034,006-204-03,UMF Tecomán,"6,521",No aplica,No aplica
+U_ISSSTE_96,CMIST000022,006-205-00,CH Manzanillo,"16,662","17,693",No aplica
+U_ISSSTE_97,CSIST000251,007-204-00,"HG Dr. Belisario Domínguez, Tuxtla Gutiérrez.",No aplica,"225,072",No aplica
+U_ISSSTE_98,CSIST000210,007-205-00,"CH Dr. Roberto Nettel F., Tapachula","60,496","88,804",No aplica
+U_ISSSTE_99,CSIST000041,007-205-01,UMF Cacahoatán,"6,237",No aplica,No aplica
+U_ISSSTE_100,CSIST000205,007-205-02,UMF Cd. Hidalgo,"1,235",No aplica,No aplica
+U_ISSSTE_101,CSIST000106,007-205-03,UMF Huixtla,"6,881",No aplica,No aplica
+U_ISSSTE_102,CSIST000123,007-205-04,UMF Mapastepec,"1,781",No aplica,No aplica
+U_ISSSTE_103,CSIST000135,007-205-05,UMF Motozintla de Mendoza,"6,925",No aplica,No aplica
+U_ISSSTE_104,CSIST000012,007-205-06,UMF Acapetahua,"3,214",No aplica,No aplica
+U_ISSSTE_105,CSIST000403,007-205-07,CAF Pijijiapan,"2,035",No aplica,No aplica
+U_ISSSTE_106,CSIST000193,007-206-00,CH San Cristóbal de las Casas,"61,863","76,441",No aplica
+U_ISSSTE_107,CSIST000140,007-206-01,UMF Ocosingo,"14,139",No aplica,No aplica
+U_ISSSTE_108,CSIST000275,007-206-03,UMF Yajalón,"10,748",No aplica,No aplica
+U_ISSSTE_109,CSIST000181,007-206-04,UMF Salto de Agua,"2,305",No aplica,No aplica
+U_ISSSTE_110,CSIST000350,007-206-05,CAF Altamirano,439,No aplica,No aplica
+U_ISSSTE_111,CSIST000065,007-207-00,CH Comitán de Domínguez,"34,729","44,308",No aplica
+U_ISSSTE_112,CSIST000094,007-207-01,UMF Frontera Comalapa,"4,830",No aplica,No aplica
+U_ISSSTE_113,CSIST000391,007-207-02,UMF Las Margaritas,"4,749",No aplica,No aplica
+U_ISSSTE_114,CSIST000246,007-208-00,CMF Tuxtla Gutiérrez,"140,547",No aplica,No aplica
+U_ISSSTE_115,CSIST000024,007-208-01,UMF Arriaga,"4,981",No aplica,No aplica
+U_ISSSTE_116,CSIST000036,007-208-02,UMF Bochil,"7,404",No aplica,No aplica
+U_ISSSTE_117,CSIST000053,007-208-03,UMF Cintalapa de Figueroa,"8,973",No aplica,No aplica
+U_ISSSTE_118,CSIST000070,007-208-05,UMF Copainalá,"4,664",No aplica,No aplica
+U_ISSSTE_119,CSIST000082,007-208-06,UMF Chiapa de Corzo,"10,613",No aplica,No aplica
+U_ISSSTE_120,CSIST000111,007-208-08,UMF Jiquipilas,"2,674",No aplica,No aplica
+U_ISSSTE_121,CSIST000152,007-208-09,UMF Ocozocoautla de Espinosa,"4,636",No aplica,No aplica
+U_ISSSTE_122,CSIST000176,007-208-11,UMF Pichucalco,"8,112",No aplica,No aplica
+U_ISSSTE_123,CSIST000222,007-208-16,UMF Tapilula,"2,382",No aplica,No aplica
+U_ISSSTE_124,CSIST000234,007-208-17,UMF Tonalá,"10,599",No aplica,No aplica
+U_ISSSTE_125,CSIST000304,007-208-18,CAF Venustiano Carranza,"3,253",No aplica,No aplica
+U_ISSSTE_126,CSIST000263,007-208-20,UMF Villa Flores,"16,814",No aplica,No aplica
+U_ISSSTE_127,CSIST000432,007-208-22,CMCT Palacio Federal (Tuxtla Gutiérrez),No disponible,No disponible,No disponible
+U_ISSSTE_128,CSIST000444,007-208-23,CMCT SAGARPA,No disponible,No disponible,No disponible
+U_ISSSTE_129,CSIST000456,007-208-24,CMCT Bienestar,No disponible,No disponible,No disponible
+U_ISSSTE_130,CSIST000461,007-208-25,CMCT SECH (SEF),No disponible,No disponible,No disponible
+U_ISSSTE_131,CSIST000321,007-208-26,CAF Reforma,"1,650",No aplica,No aplica
+U_ISSSTE_132,CSIST000473,007-208-28,CAF UH. FOVISSSTE Paraíso,"1,460",No aplica,No aplica
+U_ISSSTE_133,CSIST000420,007-208-30,CAF Simojovel,"1,831",No aplica,No aplica
+U_ISSSTE_134,CSIST000362,007-208-32,CAF Berriozábal,"1,196",No aplica,No aplica
+U_ISSSTE_135,CSIST000490,007-208-33,CAF Villa Corzo,"3,045",No aplica,No aplica
+U_ISSSTE_136,CSIST000514,007-211-00,CH Palenque ,"16,641","44,865",No aplica
+U_ISSSTE_137,CHIST000030,008-204-00,"HG Presidente Gral. Lázaro Cárdenas, Chihuahua",No aplica,"122,008",No aplica
+U_ISSSTE_138,CHIST000310,008-204-01,CAF Dr. Belisario Domínguez,638,No aplica,No aplica
+U_ISSSTE_139,CHIST000182,008-204-04,CAF Villa Aldama,"1,097",No aplica,No aplica
+U_ISSSTE_140,CHIST000153,008-204-08,UMF Ojinaga,"3,828",No aplica,No aplica
+U_ISSSTE_141,CHIST000112,008-205-00,HG Cd. Juárez,No aplica,"109,838",No aplica
+U_ISSSTE_142,CHIST000515,008-206-00,CH Cd. Delicias,No aplica,"30,993",No aplica
+U_ISSSTE_143,CHIST000095,008-207-00,CH Hidalgo del Parral,"18,059","39,149",No aplica
+U_ISSSTE_144,CHIST000223,008-207-01,CAF Balleza,"1,086",No aplica,No aplica
+U_ISSSTE_145,CHIST000334,008-207-03,CAF Guadalupe y Calvo,"4,202",No aplica,No aplica
+U_ISSSTE_146,CHIST000066,008-207-04,UMF Guachochi,"8,226",No aplica,No aplica
+U_ISSSTE_147,CHIST000450,008-207-05,CAF San Francisco del Oro,514,No aplica,No aplica
+U_ISSSTE_148,CHIST000462,008-207-06,CAF Santa Bárbara,756,No aplica,No aplica
+U_ISSSTE_149,CHIST000194,008-207-07,CAF Valle de Allende,880,No aplica,No aplica
+U_ISSSTE_150,CHIST000491,008-207-08,CAF Valle de Zaragoza,298,No aplica,No aplica
+U_ISSSTE_151,CHIST000136,008-207-09,UMF Villa Matamoros,121,No aplica,No aplica
+U_ISSSTE_152,CHIST000100,008-207-13,UMF Cd. Jiménez,"5,007",No aplica,No aplica
+U_ISSSTE_153,CHIST000025,008-210-00,CH Cd. Cuauhtémoc,"20,369","34,060",No aplica
+U_ISSSTE_154,CHIST000474,008-210-01,CAF Bahuichivo,743,No aplica,No aplica
+U_ISSSTE_155,CHIST000404,008-210-03,CAF El Terrero,585,No aplica,No aplica
+U_ISSSTE_156,CHIST000305,008-210-04,CAF Chínipas,687,No aplica,No aplica
+U_ISSSTE_157,CHIST000240,008-210-06,CAF San Juanito,"1,532",No aplica,No aplica
+U_ISSSTE_158,CHIST000392,008-210-09,CAF Matachí,118,No aplica,No aplica
+U_ISSSTE_159,CHIST000071,008-210-10,UMF Adolfo López Mateos (La Junta),511,No aplica,No aplica
+U_ISSSTE_160,CHIST000083,008-210-11,UMF Cd. Guerrero,"2,122",No aplica,No aplica
+U_ISSSTE_161,CHIST000124,008-210-13,UMF Madera,"2,145",No aplica,No aplica
+U_ISSSTE_162,CHIST000346,008-210-16,CAF Tomochi,475,No aplica,No aplica
+U_ISSSTE_163,PENDIENTE,008-210-17,CAF Gómez Farias,664,No aplica,No aplica
+U_ISSSTE_164,CHIST000416,008-210-18,CAF Óscar Soto Maynez,465,No aplica,No aplica
+U_ISSSTE_165,CHIST000276,008-210-19,CAF Carichí,369,No aplica,No aplica
+U_ISSSTE_166,CHIST000235,008-210-20,CAF Creel,"2,298",No aplica,No aplica
+U_ISSSTE_167,CHIST000380,008-210-21,CAF El Largo Maderal,293,No aplica,No aplica
+U_ISSSTE_168,CHIST000486,008-210-23,CAF San Rafael Urique,"1,094",No aplica,No aplica
+U_ISSSTE_169,CHIST000520,008-210-25,CAF Témoris,277,No aplica,No aplica
+U_ISSSTE_170,CHIST000363,008-211-00,CMF Cd. Juárez,"98,270",No aplica,No aplica
+U_ISSSTE_171,CHIST000211,008-211-01,CAF Ascensión,986,No aplica,No aplica
+U_ISSSTE_172,CHIST000445,008-211-03,CAF Praxedis G. Guerrero,429,No aplica,No aplica
+U_ISSSTE_173,CHIST000206,008-211-04,CAF Gral. Rodrigo M. Quevedo (Palomas),179,No aplica,No aplica
+U_ISSSTE_174,CHIST000141,008-211-05,UMF Nuevo Casas Grandes,"8,136",No aplica,No aplica
+U_ISSSTE_175,CHIST000170,008-211-06,CAF Villa Ahumada,456,No aplica,No aplica
+U_ISSSTE_176,CHIST000264,008-211-07,CAF Ricardo Flores Magón,244,No aplica,No aplica
+U_ISSSTE_177,CHIST000252,008-211-08,CAF Valle de San Buenaventura,416,No aplica,No aplica
+U_ISSSTE_178,CHIST000351,008-211-09,CAF Ignacio Zaragoza,722,No aplica,No aplica
+U_ISSSTE_179,CHIST000054,008-213-00,CMF Cd. Delicias,"21,822",No aplica,No aplica
+U_ISSSTE_180,CHIST000165,008-213-02,UMF Saucillo,"2,897",No aplica,No aplica
+U_ISSSTE_181,CHIST000013,008-213-03,UMF Cd. Camargo,"6,274",No aplica,No aplica
+U_ISSSTE_182,CHIST000293,008-217-00,CMF Chihuahua,"116,445",No aplica,No aplica
+U_ISSSTE_183,DGIST000042,010-204-00,"HG Dr. Santiago Ramon y Cajal, Dgo.",No aplica,"230,186",No aplica
+U_ISSSTE_184,DGIST000346,010-205-00,CMF Cd. Lerdo,"23,463",No aplica,No aplica
+U_ISSSTE_185,DGIST000054,010-206-00,CH Gómez Palacio,"54,042","95,021",No aplica
+U_ISSSTE_186,DGIST000025,010-206-01,UMF Cuencamé,"2,312",No aplica,No aplica
+U_ISSSTE_187,DGIST000136,010-206-03,UMF Rodeo,"1,928",No aplica,No aplica
+U_ISSSTE_188,DGIST000100,010-206-05,UMF Las Nieves,"2,042",No aplica,No aplica
+U_ISSSTE_189,DGIST000071,010-206-06,UMF Mapimí,"1,095",No aplica,No aplica
+U_ISSSTE_190,DGIST000083,010-206-07,UMF Paso Nacional,"1,667",No aplica,No aplica
+U_ISSSTE_191,DGIST000380,010-206-08,CAF Peñón Blanco,851,No aplica,No aplica
+U_ISSSTE_192,DGIST000416,010-206-09,CAF San Juan de Guadalupe,331,No aplica,No aplica
+U_ISSSTE_193,DGIST000112,010-206-10,UMF Santa María del Oro,"2,830",No aplica,No aplica
+U_ISSSTE_194,DGIST000170,010-206-11,UMF Tlahualilo de Zaragoza,"2,362",No aplica,No aplica
+U_ISSSTE_195,DGIST000363,010-206-12,CAF Cd. Juárez,"1,666",No aplica,No aplica
+U_ISSSTE_196,DGIST000404,010-206-13,CAF Santa Clara,512,No aplica,No aplica
+U_ISSSTE_197,DGIST000351,010-206-14,CAF Bermejillo,482,No aplica,No aplica
+U_ISSSTE_198,DGIST000433,010-206-15,CAF General Simón Bolívar,289,No aplica,No aplica
+U_ISSSTE_199,DGIST000450,010-206-16,CAF San Bernardo,370,No aplica,No aplica
+U_ISSSTE_200,DGIST000030,010-207-00,CMF Durango,"183,002",No aplica,No aplica
+U_ISSSTE_201,DGIST000013,010-207-01,UMF Canatlán de las Manzanas,"4,925",No aplica,No aplica
+U_ISSSTE_202,DGIST000206,010-207-02,CAF Canelas,213,No aplica,No aplica
+U_ISSSTE_203,DGIST000124,010-207-03,UMF El Salto,"5,133",No aplica,No aplica
+U_ISSSTE_204,DGIST000223,010-207-04,CAF Francisco I. Madero,"1,459",No aplica,No aplica
+U_ISSSTE_205,DGIST000066,010-207-05,UMF Guadalupe Victoria,"5,295",No aplica,No aplica
+U_ISSSTE_206,DGIST000235,010-207-06,CAF Guanaceví,516,No aplica,No aplica
+U_ISSSTE_207,DGIST000445,010-207-07,UMF José Guadalupe Aguilera,655,No aplica,No aplica
+U_ISSSTE_208,DGIST000095,010-207-08,UMF Nombre de Dios,"2,337",No aplica,No aplica
+U_ISSSTE_209,DGIST000194,010-207-09,UMF Nuevo Ideal,"2,468",No aplica,No aplica
+U_ISSSTE_210,DGIST000141,010-207-10,UMF San Juan del Río,"1,681",No aplica,No aplica
+U_ISSSTE_211,DGIST000281,010-207-11,CAF San Lucas de Ocampo,261,No aplica,No aplica
+U_ISSSTE_212,DGIST000153,010-207-12,UMF Santiago Papasquíaro,"7,244",No aplica,No aplica
+U_ISSSTE_213,DGIST000293,010-207-13,CAF Súchil,925,No aplica,No aplica
+U_ISSSTE_214,DGIST000305,010-207-14,CAF Tamazula de Victoria,746,No aplica,No aplica
+U_ISSSTE_215,DGIST000310,010-207-15,CAF Tayoltita,566,No aplica,No aplica
+U_ISSSTE_216,DGIST000165,010-207-16,UMF Tepehuanes,"1,095",No aplica,No aplica
+U_ISSSTE_217,DGIST000322,010-207-17,CAF Topia,481,No aplica,No aplica
+U_ISSSTE_218,DGIST000182,010-207-18,UMF Vicente Guerrero,"3,064",No aplica,No aplica
+U_ISSSTE_219,DGIST000334,010-207-19,UMF Villa Unión,"3,587",No aplica,No aplica
+U_ISSSTE_220,DGIST000240,010-207-26,CAF Los Remedios,176,No aplica,No aplica
+U_ISSSTE_221,DGIST000252,010-207-29,CAF El Mezquital,"3,882",No aplica,No aplica
+U_ISSSTE_222,GTIST000086,011-204-00,CH Irapuato,"61,115","136,544",No aplica
+U_ISSSTE_223,GTIST000016,011-204-01,UMF Abasolo,"6,579",No aplica,No aplica
+U_ISSSTE_224,GTIST000260,011-204-02,CAF Cuerámaro,"2,195",No aplica,No aplica
+U_ISSSTE_225,GTIST000103,011-204-03,UMF Moroleón,"3,929",No aplica,No aplica
+U_ISSSTE_226,GTIST000115,011-204-04,UMF Pénjamo,"11,527",No aplica,No aplica
+U_ISSSTE_227,GTIST000185,011-204-05,UMF Uriangato,"3,513",No aplica,No aplica
+U_ISSSTE_228,GTIST000190,011-204-06,UMF Valle de Santiago,"11,221",No aplica,No aplica
+U_ISSSTE_229,GTIST000202,011-204-07,UMF Yuriria,"6,205",No aplica,No aplica
+U_ISSSTE_230,GTIST000243,011-204-08,UMF Cd. Manuel Doblado,"1,411",No aplica,No aplica
+U_ISSSTE_231,GTIST000313,011-204-09,CAF Romita,"6,279",No aplica,No aplica
+U_ISSSTE_232,GTIST000144,011-204-10,UMF San Francisco del Rincón,"8,777",No aplica,No aplica
+U_ISSSTE_233,GTIST000325,011-205-00,CMF Salamanca,"23,981",No aplica,No aplica
+U_ISSSTE_234,GTIST000074,011-206-00,"CH Guanajuato, Gto.","59,479","97,488",No aplica
+U_ISSSTE_235,GTIST000062,011-206-01,UMF Dolores Hidalgo,"12,461",No aplica,No aplica
+U_ISSSTE_236,GTIST000330,011-206-02,CAF San Diego de la Unión,"1,443",No aplica,No aplica
+U_ISSSTE_237,GTIST000161,011-206-03,UMF San Luís de La Paz,"10,762",No aplica,No aplica
+U_ISSSTE_238,GTIST000156,011-206-04,UMF San José Iturbide,"5,084",No aplica,No aplica
+U_ISSSTE_239,GTIST000383,011-206-05,CAF Tierra Blanca,"1,491",No aplica,No aplica
+U_ISSSTE_240,GTIST000395,011-206-06,UMF Villa Victoria,"2,684",No aplica,No aplica
+U_ISSSTE_241,GTIST000272,011-206-07,CAF Dr. Mora,"1,583",No aplica,No aplica
+U_ISSSTE_242,GTIST000412,011-206-08,CAF Xichú,554,No aplica,No aplica
+U_ISSSTE_243,GTIST000301,011-206-09,CAF Ocampo,"1,040",No aplica,No aplica
+U_ISSSTE_244,GTIST000132,011-206-10,UMF San Felipe Torres Mochas,"5,840",No aplica,No aplica
+U_ISSSTE_245,GTIST000173,011-206-11,UMF Silao,"12,789",No aplica,No aplica
+U_ISSSTE_246,GTIST000045,011-207-00,CH Celaya,"55,851","131,138",No aplica
+U_ISSSTE_247,GTIST000021,011-207-01,UMF Acámbaro,"12,288",No aplica,No aplica
+U_ISSSTE_248,GTIST000214,011-207-02,UMF Apaseo el Alto,"3,434",No aplica,No aplica
+U_ISSSTE_249,GTIST000226,011-207-03,UMF Apaseo el Grande,"4,073",No aplica,No aplica
+U_ISSSTE_250,GTIST000255,011-207-04,UMF Comonfort,"5,649",No aplica,No aplica
+U_ISSSTE_251,GTIST000050,011-207-05,UMF Cortázar,"6,744",No aplica,No aplica
+U_ISSSTE_252,GTIST000284,011-207-06,CAF Jaral del Progreso,"3,859",No aplica,No aplica
+U_ISSSTE_253,GTIST000296,011-207-07,CAF Jerécuaro,"2,822",No aplica,No aplica
+U_ISSSTE_254,GTIST000342,011-207-08,UMF Juventino Rosas,"5,943",No aplica,No aplica
+U_ISSSTE_255,GTIST000231,011-207-09,CAF Roque,792,No aplica,No aplica
+U_ISSSTE_256,GTIST000120,011-207-10,UMF Salvatierra,"10,211",No aplica,No aplica
+U_ISSSTE_257,GTIST000033,011-207-11,UMF San Miguel de Allende,"10,973",No aplica,No aplica
+U_ISSSTE_258,GTIST000354,011-207-12,CAF Santiago Maravatío,762,No aplica,No aplica
+U_ISSSTE_259,GTIST000366,011-207-13,CAF Tarandacuao,"1,131",No aplica,No aplica
+U_ISSSTE_260,GTIST000371,011-207-14,CAF Tarimoro,"2,082",No aplica,No aplica
+U_ISSSTE_261,GTIST000400,011-207-15,UMF Villagrán,"4,524",No aplica,No aplica
+U_ISSSTE_262,GTIST000423,011-209-00,CMFEQ León,"133,676","154,188",No aplica
+U_ISSSTE_263,GRIST000112,012-205-00,CH Chilpancingo de los Bravo,"152,281","192,782",No aplica
+U_ISSSTE_264,GRIST000100,012-205-01,UMF Chilapa de Álvarez,"16,525",No aplica,No aplica
+U_ISSSTE_265,GRIST000450,012-205-02,UMF Mochitlán,"2,904",No aplica,No aplica
+U_ISSSTE_266,GRIST000124,012-205-03,UMF El Ocotito,"1,963",No aplica,No aplica
+U_ISSSTE_267,GRIST000182,012-205-04,UMF Olinalá,"2,176",No aplica,No aplica
+U_ISSSTE_268,GRIST000170,012-205-05,UMF Tierra Colorada,"2,791",No aplica,No aplica
+U_ISSSTE_269,GRIST000281,012-205-06,UMF Tixtla de Guerrero,"16,318",No aplica,No aplica
+U_ISSSTE_270,GRIST000136,012-205-09,UMF Huamuxtitlán,"2,414",No aplica,No aplica
+U_ISSSTE_271,GRIST000433,012-205-10,CAF Malinaltepec,"3,871",No aplica,No aplica
+U_ISSSTE_272,GRIST000503,012-205-13,CAF Iliatenco,"1,152",No aplica,No aplica
+U_ISSSTE_273,GRIST000153,012-206-00,CH Iguala de la Independencia,"54,778","84,385",No aplica
+U_ISSSTE_274,GRIST000030,012-206-01,UMF Ajuchitlán del Progreso,"3,581",No aplica,No aplica
+U_ISSSTE_275,GRIST000363,012-206-03,UMF Apaxtla de Castrejón,"1,817",No aplica,No aplica
+U_ISSSTE_276,GRIST000042,012-206-04,UMF Arcelia,"7,982",No aplica,No aplica
+U_ISSSTE_277,GRIST000380,012-206-05,CAF Buenavista de Cuéllar,777,No aplica,No aplica
+U_ISSSTE_278,GRIST000095,012-206-06,UMF Coyuca de Catalán,"4,328",No aplica,No aplica
+U_ISSSTE_279,GRIST000404,012-206-07,CAF Cutzamala de Pinzón,"1,348",No aplica,No aplica
+U_ISSSTE_280,GRIST000141,012-206-08,UMF Huitzuco de los Figueroa,"6,377",No aplica,No aplica
+U_ISSSTE_281,GRIST000276,012-206-09,UMF Teloloapan,"9,453",No aplica,No aplica
+U_ISSSTE_282,GRIST000305,012-206-10,UMF Tlapehuala,"2,297",No aplica,No aplica
+U_ISSSTE_283,GRIST000491,012-206-12,CAF Zirándaro,689,No aplica,No aplica
+U_ISSSTE_284,GRIST000252,012-206-13,UMF Taxco de Alarcón,"11,183",No aplica,No aplica
+U_ISSSTE_285,GRIST000194,012-207-00,CMFEQ Ometepec,"23,762","36,034",No aplica
+U_ISSSTE_286,GRIST000013,012-208-00,CMF Acapulco,"138,519",No aplica,No aplica
+U_ISSSTE_287,GRIST000310,012-208-01,UMF Lic. Adolfo López Mateos,"1,523",No aplica,No aplica
+U_ISSSTE_288,GRIST000054,012-208-02,UMF Atoyac de Álvarez,"9,021",No aplica,No aplica
+U_ISSSTE_289,GRIST000322,012-208-03,CAF Cd. Renacimiento,"13,585",No aplica,No aplica
+U_ISSSTE_290,GRIST000066,012-208-04,UMF Ayutla de los Libres,"7,674",No aplica,No aplica
+U_ISSSTE_291,GRIST000083,012-208-05,UMF Coyuca de Benítez,"8,470",No aplica,No aplica
+U_ISSSTE_292,GRIST000416,012-208-06,CAF Cruz Grande,"4,424",No aplica,No aplica
+U_ISSSTE_293,GRIST000392,012-208-07,UMF Cuajinicuilapa,"2,180",No aplica,No aplica
+U_ISSSTE_294,GRIST000240,012-208-10,UMF Las Vigas,"1,437",No aplica,No aplica
+U_ISSSTE_295,GRIST000071,012-208-11,UMF Marquelia,"4,371",No aplica,No aplica
+U_ISSSTE_296,GRIST000206,012-208-12,UMF Petatlán,"3,709",No aplica,No aplica
+U_ISSSTE_297,GRIST000375,012-208-13,CAF San Jerónimo de Juárez,"3,391",No aplica,No aplica
+U_ISSSTE_298,GRIST000223,012-208-14,UMF San Luis Acatlán,"4,569",No aplica,No aplica
+U_ISSSTE_299,GRIST000235,012-208-15,UMF San Marcos,"3,453",No aplica,No aplica
+U_ISSSTE_300,GRIST000474,012-208-16,UMF Tecoanapa,"4,816",No aplica,No aplica
+U_ISSSTE_301,GRIST000351,012-208-18,CAF Xaltianguis,"2,334",No aplica,No aplica
+U_ISSSTE_302,GRIST000165,012-208-19,UMF Zihuatanejo,"13,943",No aplica,No aplica
+U_ISSSTE_303,GRIST000334,012-208-20,CAF UHF. Acapulco,"3,671",No aplica,No aplica
+U_ISSSTE_304,GRIST000346,012-208-21,CAF UHF. Vicente Guerrero 200,"1,297",No aplica,No aplica
+U_ISSSTE_305,GRIST000211,012-209-00,CMFEQ Cd. Altamirano,"13,528","33,753",No aplica
+U_ISSSTE_306,GRIST000264,012-210-00,CMFEQ Técpan de Galeana,"10,861","40,925",No aplica
+U_ISSSTE_307,GRIST000293,012-212-00,CMFEQ Tlapa de Comonfort,"30,005","38,466",No aplica
+U_ISSSTE_308,HGIST000106,013-204-00,"HG Dra. Columba Rivera Osorio, Pachuca",No aplica,"104,342",No aplica
+U_ISSSTE_309,HGIST000065,013-205-00,CH Ixmiquilpan,"23,220","75,348",No aplica
+U_ISSSTE_310,HGIST000053,013-205-03,UMF Huichapan,"3,630",No aplica,No aplica
+U_ISSSTE_311,HGIST000205,013-205-04,UMF Jacala,"1,758",No aplica,No aplica
+U_ISSSTE_312,HGIST000234,013-205-06,CAF Nopala,632,No aplica,No aplica
+U_ISSSTE_313,HGIST000275,013-205-08,UMF Tasquillo,"2,354",No aplica,No aplica
+U_ISSSTE_314,HGIST000280,013-205-09,UMF Tecozautla,"1,237",No aplica,No aplica
+U_ISSSTE_315,HGIST000362,013-205-10,CAF Zimapán,"2,973",No aplica,No aplica
+U_ISSSTE_316,HGIST000140,013-206-00,CMF Tulancingo,"31,381",No aplica,No aplica
+U_ISSSTE_317,HGIST000292,013-206-02,CAF Tenango de Doria,"5,707",No aplica,No aplica
+U_ISSSTE_318,HGIST000041,013-207-00,CH Huejutla de Reyes,"41,917","56,930",No aplica
+U_ISSSTE_319,HGIST000193,013-207-01,CAF Huautla,"3,032",No aplica,No aplica
+U_ISSSTE_320,HGIST000246,013-207-02,CAF San Felipe Orizatlán,"2,788",No aplica,No aplica
+U_ISSSTE_321,HGIST000321,013-207-03,UMF Tlanchinol,"1,912",No aplica,No aplica
+U_ISSSTE_322,HGIST000176,013-207-05,CAF Calnali,"1,801",No aplica,No aplica
+U_ISSSTE_323,HGIST000094,013-207-06,UMF Molango,"2,913",No aplica,No aplica
+U_ISSSTE_324,HGIST000345,013-207-09,CAF Xochicoatlán,602,No aplica,No aplica
+U_ISSSTE_325,HGIST000181,013-207-12,CAF Chapulhuacán,730,No aplica,No aplica
+U_ISSSTE_326,HGIST000082,013-208-00,CMF Mixquiahuala,"13,625",No aplica,No aplica
+U_ISSSTE_327,HGIST000036,013-208-01,UMF Tepatepec,"10,688",No aplica,No aplica
+U_ISSSTE_328,HGIST000111,013-208-02,UMF Tepeji del Río,"3,789",No aplica,No aplica
+U_ISSSTE_329,HGIST000316,013-208-03,UMF Tezontepec de Aldama,"5,456",No aplica,No aplica
+U_ISSSTE_330,HGIST000333,013-208-04,UMF Tlaxcoapan,"6,968",No aplica,No aplica
+U_ISSSTE_331,HGIST000135,013-208-05,UMF Tula de Allende,"9,775",No aplica,No aplica
+U_ISSSTE_332,HGIST000386,013-210-00,CMFE Pachuca,"164,782","166,093",No aplica
+U_ISSSTE_333,HGIST000012,013-210-01,UMF Actopan,"17,819",No aplica,No aplica
+U_ISSSTE_334,HGIST000024,013-210-02,UMF Apan,"4,609",No aplica,No aplica
+U_ISSSTE_335,HGIST000164,013-210-03,CAF Atotonilco el Grande,"2,651",No aplica,No aplica
+U_ISSSTE_336,HGIST000070,013-210-04,UMF Metztitlán,"2,270",No aplica,No aplica
+U_ISSSTE_337,HGIST000210,013-210-05,UMF Mineral del Monte,"3,157",No aplica,No aplica
+U_ISSSTE_338,HGIST000304,013-210-06,UMF Tepeapulco,"5,523",No aplica,No aplica
+U_ISSSTE_339,HGIST000123,013-210-07,UMF Tizayuca,"13,140",No aplica,No aplica
+U_ISSSTE_340,HGIST000152,013-210-08,UMF Zacualtipán,"5,818",No aplica,No aplica
+U_ISSSTE_341,HGIST000350,013-210-09,CAF Zapotlán de Juárez,"1,311",No aplica,No aplica
+U_ISSSTE_342,HGIST000251,013-210-10,CMCT Servicio Geológico Mexicano (Los Arcos),No disponible,No disponible,No disponible
+U_ISSSTE_343,HGIST000263,013-210-11,CMCT Pensionados y Jubilados (ISSSTE),No disponible,No disponible,No disponible
+U_ISSSTE_344,JCIST000074,014-204-00,"CMF Dr. Arturo Glez, Guadalajara No. 1","70,389",No aplica,No aplica
+U_ISSSTE_345,JCIST000161,014-204-01,UMF Ahualulco de Mercado,"3,866",No aplica,No aplica
+U_ISSSTE_346,JCIST000016,014-204-02,UMF Ameca,"9,294",No aplica,No aplica
+U_ISSSTE_347,JCIST000272,014-204-03,CAF Colotlán,"5,224",No aplica,No aplica
+U_ISSSTE_348,JCIST000820,014-204-04,CAF Villa Guerrero,520,No aplica,No aplica
+U_ISSSTE_349,JCIST000511,014-204-05,CAF Magdalena,"2,622",No aplica,No aplica
+U_ISSSTE_350,JCIST000680,014-204-06,CAF Tala,"3,484",No aplica,No aplica
+U_ISSSTE_351,JCIST000342,014-204-07,CMCT Palacio Federal (Guadalajara),No disponible,No disponible,No disponible
+U_ISSSTE_352,JCIST000436,014-204-08,CAF Huejúcar,326,No aplica,No aplica
+U_ISSSTE_353,JCIST000144,014-204-09,CAF Tequila,"3,145",No aplica,No aplica
+U_ISSSTE_354,JCIST000330,014-204-10,CAF Etzatlán,"2,605",No aplica,No aplica
+U_ISSSTE_355,JCIST000441,014-204-11,CAF Huejuquilla El Alto,961,No aplica,No aplica
+U_ISSSTE_356,JCIST000354,014-204-12,CMCT FSTSE (Guadalajara),No disponible,No disponible,No disponible
+U_ISSSTE_357,JCIST000185,014-204-14,CAF El Arenal,"1,113",No aplica,No aplica
+U_ISSSTE_358,JCIST000226,014-204-15,CAF Bolaños,"1,123",No aplica,No aplica
+U_ISSSTE_359,JCIST000540,014-204-16,CAF Mezquitic,"1,580",No aplica,No aplica
+U_ISSSTE_360,JCIST000296,014-204-17,CAF Cuquío,"2,132",No aplica,No aplica
+U_ISSSTE_361,JCIST000366,014-205-00,CMF Guadalajara No. 2,"90,073",No aplica,No aplica
+U_ISSSTE_362,JCIST000091,014-205-02,UMF Tecolotlán,"2,495",No aplica,No aplica
+U_ISSSTE_363,JCIST000050,014-205-04,UMF Cocula,"3,359",No aplica,No aplica
+U_ISSSTE_364,JCIST000856,014-205-09,CAF UHF. Estatuto Jurídico Tuzania,"29,408",No aplica,No aplica
+U_ISSSTE_365,JCIST000371,014-205-10,CAF UH. FOVISSSTE Miravalle,"15,502",No aplica,No aplica
+U_ISSSTE_366,JCIST000383,014-205-11,CMCT Secretaría de Educación del Estado de Jalisco-SEP,No disponible,No disponible,No disponible
+U_ISSSTE_367,JCIST000156,014-205-15,CAF Acatlán de Juárez,"2,621",No aplica,No aplica
+U_ISSSTE_368,JCIST000651,014-205-16,CAF San Martín Hidalgo,"1,362",No aplica,No aplica
+U_ISSSTE_369,JCIST000844,014-205-19,CAF Zacoalco de Torres,"2,055",No aplica,No aplica
+U_ISSSTE_370,JCIST000885,014-205-20,CMCT SAT,No disponible,No disponible,No disponible
+U_ISSSTE_371,JCIST000890,014-205-21,CMCT TFJA,No disponible,No disponible,No disponible
+U_ISSSTE_372,JCIST000901,014-205-22,CAF Guachinango,304,No aplica,No aplica
+U_ISSSTE_373,JCIST000931,014-205-24,CMCT Sindicato Nacional de Trabajadores de la Secretaría de Salud,No disponible,No disponible,No disponible
+U_ISSSTE_374,JCIST000395,014-206-00,CMF Guadalajara No. 3,"49,767",No aplica,No aplica
+U_ISSSTE_375,JCIST000465,014-206-01,UMF Atequiza,"5,725",No aplica,No aplica
+U_ISSSTE_376,JCIST000301,014-206-02,CAF Chapala,"2,748",No aplica,No aplica
+U_ISSSTE_377,JCIST000494,014-206-03,CAF Jocotepec,"2,512",No aplica,No aplica
+U_ISSSTE_378,JCIST000033,014-206-04,UMF La Barca,"8,685",No aplica,No aplica
+U_ISSSTE_379,JCIST000564,014-206-05,UMF Ocotlán,"9,865",No aplica,No aplica
+U_ISSSTE_380,JCIST000861,014-206-06,CAF Zapotlanejo,"3,816",No aplica,No aplica
+U_ISSSTE_381,JCIST000190,014-206-07,CAF Atotonilco el Alto,"3,257",No aplica,No aplica
+U_ISSSTE_382,JCIST000115,014-206-08,UMF Tepatitlán de Morelos,"9,141",No aplica,No aplica
+U_ISSSTE_383,JCIST000622,014-206-09,CAF El Salto,"4,247",No aplica,No aplica
+U_ISSSTE_384,JCIST000750,014-206-11,UMF San Martín de las Flores,"4,807",No aplica,No aplica
+U_ISSSTE_385,JCIST000733,014-206-12,CAF Tizapán el Alto,"1,699",No aplica,No aplica
+U_ISSSTE_386,JCIST000173,014-206-13,CAF Arandas,"4,790",No aplica,No aplica
+U_ISSSTE_387,JCIST000202,014-206-14,CAF Ayotlán,"1,208",No aplica,No aplica
+U_ISSSTE_388,JCIST000400,014-206-15,CMCT SNTE (Guadalajara),No disponible,No disponible,No disponible
+U_ISSSTE_389,JCIST000593,014-206-17,CAF Poncitlán,"2,357",No aplica,No aplica
+U_ISSSTE_390,JCIST000482,014-206-18,CAF Jesús María,611,No aplica,No aplica
+U_ISSSTE_391,JCIST000832,014-206-19,UMF Yahualica de González Gallo,"3,973",No aplica,No aplica
+U_ISSSTE_392,JCIST000745,014-206-21,CMCT SAGARPA (El Álamo),No disponible,No disponible,No disponible
+U_ISSSTE_393,JCIST000313,014-206-23,CAF Degollado,748,No aplica,No aplica
+U_ISSSTE_394,JCIST000424,014-206-27,CAF UHF. Unidad Modelo,"4,341",No aplica,No aplica
+U_ISSSTE_395,JCIST000506,014-207-00,CMF Lagos de Moreno,"13,867",No aplica,No aplica
+U_ISSSTE_396,JCIST000325,014-207-01,CAF Encarnación de Díaz,"1,534",No aplica,No aplica
+U_ISSSTE_397,JCIST000470,014-207-02,CAF Jalostotitlán,"1,566",No aplica,No aplica
+U_ISSSTE_398,JCIST000576,014-207-03,CAF Ojuelos de Jalisco,"2,004",No aplica,No aplica
+U_ISSSTE_399,JCIST000634,014-207-04,CAF San Juan de los Lagos,"2,663",No aplica,No aplica
+U_ISSSTE_400,JCIST000663,014-207-05,UMF San Miguel el Alto,"1,347",No aplica,No aplica
+U_ISSSTE_401,JCIST000103,014-207-06,UMF Teocaltiche,"3,016",No aplica,No aplica
+U_ISSSTE_402,JCIST000646,014-207-07,CAF San Julián,"1,440",No aplica,No aplica
+U_ISSSTE_403,JCIST000045,014-208-00,CH Cd. Guzmán,"24,785","41,294",No aplica
+U_ISSSTE_404,JCIST000791,014-208-01,UMF Tuxpan,"2,977",No aplica,No aplica
+U_ISSSTE_405,JCIST000721,014-208-02,CAF Tecalitlán,948,No aplica,No aplica
+U_ISSSTE_406,JCIST000704,014-208-03,CAF Tamazula de Gordiano,"2,093",No aplica,No aplica
+U_ISSSTE_407,JCIST000535,014-208-04,CAF Mazamitla,"1,757",No aplica,No aplica
+U_ISSSTE_408,JCIST000716,014-208-05,CAF Tapalpa,"1,169",No aplica,No aplica
+U_ISSSTE_409,JCIST000675,014-208-08,CAF Sayula,"4,281",No aplica,No aplica
+U_ISSSTE_410,JCIST000815,014-208-09,CAF San Gabriel,576,No aplica,No aplica
+U_ISSSTE_411,JCIST000021,014-209-00,CMF Autlán de Navarro,"9,609",No aplica,No aplica
+U_ISSSTE_412,JCIST000214,014-209-01,CAF Ayutla,794,No aplica,No aplica
+U_ISSSTE_413,JCIST000062,014-209-02,UMF El Grullo,"2,708",No aplica,No aplica
+U_ISSSTE_414,JCIST000453,014-209-03,UMF La Huerta,"1,522",No aplica,No aplica
+U_ISSSTE_415,JCIST000925,014-209-04,UMF Unión de Tula,"1,527",No aplica,No aplica
+U_ISSSTE_416,JCIST000255,014-209-07,CAF Cihuatlán,473,No aplica,No aplica
+U_ISSSTE_417,JCIST000610,014-209-12,CAF Villa Purificación,632,No aplica,No aplica
+U_ISSSTE_418,JCIST000260,014-209-13,CAF San Patricio Melaque,558,No aplica,No aplica
+U_ISSSTE_419,JCIST000243,014-209-14,CAF Casimiro Castillo,978,No aplica,No aplica
+U_ISSSTE_420,JCIST000284,014-209-15,CAF Cuautitlán,"1,083",No aplica,No aplica
+U_ISSSTE_421,JCIST000086,014-210-00,CH Puerto Vallarta,"26,369","35,504",No aplica
+U_ISSSTE_422,JCIST000120,014-210-01,UMF Tomatlán,"3,489",No aplica,No aplica
+U_ISSSTE_423,JCIST000762,014-210-02,CAF Tomatlán Campamento SAGARPA,90,No aplica,No aplica
+U_ISSSTE_424,JCIST000231,014-210-04,CAF El Tuito,369,No aplica,No aplica
+U_ISSSTE_425,JCIST000692,014-210-05,CAF Talpa de Allende,805,No aplica,No aplica
+U_ISSSTE_426,JCIST000523,014-210-06,UMF Mascota,"1,569",No aplica,No aplica
+U_ISSSTE_427,JCIST000873,014-213-00,CEQ Guadalajara,No disponible,No disponible,No disponible
+U_ISSSTE_428,PENDIENTE,014-219-00,"HG Dr. Valentín Gómez Farías, Zapopan",No aplica,"392,970",No aplica
+U_ISSSTE_429,MCIST000215,015-204-00,HG Toluca,No aplica,"246,159",No aplica
+U_ISSSTE_430,MCIST000075,015-205-00,CMF Ecatepec de Morelos,"105,338",No aplica,No aplica
+U_ISSSTE_431,MCIST000174,015-205-01,UMF San Juan Teotihuacán,"10,503",No aplica,No aplica
+U_ISSSTE_432,MCIST000220,015-205-02,UMF Zumpango de Ocampo,"14,159",No aplica,No aplica
+U_ISSSTE_433,MCIST000010,015-205-03,UMF Tepexpan,"13,735",No aplica,No aplica
+U_ISSSTE_434,MCIST000396,015-205-04,CAF UH. FOVISSSTE Ecatepec de Morelos,"1,820",No aplica,No aplica
+U_ISSSTE_435,MCIST000116,015-206-00,CMF Valle de Aragón,"100,169",No aplica,No aplica
+U_ISSSTE_436,MCIST000355,015-207-00,CMF Satélite Naucalpan,"63,600",No aplica,No aplica
+U_ISSSTE_437,MCIST000203,015-208-00,CMF Tlalnepantla,"98,028",No aplica,No aplica
+U_ISSSTE_438,MCIST000186,015-210-00,CMF Texcoco de Mora,"76,996",No aplica,No aplica
+U_ISSSTE_439,MCIST000022,015-210-01,UMF Amecameca de Juárez,"19,784",No aplica,No aplica
+U_ISSSTE_440,MCIST000051,015-210-02,UMF Chalco de Díaz Covarrubias,"112,667",No aplica,No aplica
+U_ISSSTE_441,MCIST000063,015-211-00,CMFEQ Xalostoc,"91,432","91,432",No aplica
+U_ISSSTE_442,MCIST000401,015-213-00,CMF Nueva Oxtotitlán,"124,689",No aplica,No aplica
+U_ISSSTE_443,MCIST000034,015-213-02,UMF Atlacomulco de Fabela,"19,025",No aplica,No aplica
+U_ISSSTE_444,MCIST000290,015-213-03,CAF Ixtapan de la Sal,"4,097",No aplica,No aplica
+U_ISSSTE_445,MCIST000080,015-213-04,UMF Ixtlahuaca de Rayón,"12,164",No aplica,No aplica
+U_ISSSTE_446,MCIST000092,015-213-05,UMF Jilotepec de Abasolo,"9,279",No aplica,No aplica
+U_ISSSTE_447,MCIST000162,015-213-06,UMF Tenancingo de Degollado,"12,819",No aplica,No aplica
+U_ISSSTE_448,MCIST000133,015-213-08,UMF Polotitlán de Ilustración,"1,049",No aplica,No aplica
+U_ISSSTE_449,MCIST000145,015-213-09,UMF San Felipe del Progreso,"7,111",No aplica,No aplica
+U_ISSSTE_450,MCIST000191,015-213-10,UMF Santiago Tianguistengo,"7,787",No aplica,No aplica
+U_ISSSTE_451,MCIST000273,015-213-11,CAF San Pedro Limón,"1,638",No aplica,No aplica
+U_ISSSTE_452,MCIST000150,015-213-12,UMF Tejupilco de Hidalgo,"9,564",No aplica,No aplica
+U_ISSSTE_453,MCIST000413,015-213-13,CAF Texcaltitlán,"2,427",No aplica,No aplica
+U_ISSSTE_454,MCIST000471,015-213-14,CAF Valle de Bravo,"6,396",No aplica,No aplica
+U_ISSSTE_455,MCIST000104,015-213-16,UMF Lerma de Villada (Villa Carmela),"14,394",No aplica,No aplica
+U_ISSSTE_456,MCIST000256,015-213-17,CAF Villa Cuauhtémoc,"9,056",No aplica,No aplica
+U_ISSSTE_457,MCIST000121,015-213-18,UMF San Jerónimo Acazulco,"3,043",No aplica,No aplica
+U_ISSSTE_458,MCIST000046,015-213-19,UMF Capulhuac de Mirafuentes,"1,621",No aplica,No aplica
+U_ISSSTE_459,MCIST000244,015-213-20,CMCT SAGARPA (Zinacantepec),No disponible,No disponible,No disponible
+U_ISSSTE_460,PENDIENTE,015-213-23,CMCT Delegación del ISSSTE en el Estado de México,No disponible,No disponible,No disponible
+U_ISSSTE_461,MCIST000454,015-213-24,CMCT Conalep,No disponible,No disponible,No disponible
+U_ISSSTE_462,MCIST000384,015-214-00,CMF Pantitlán,"101,150",No aplica,No aplica
+U_ISSSTE_463,MCIST000442,015-216-00,CMF Cuautitlán Izcalli,"41,135",No aplica,No aplica
+U_ISSSTE_464,MCIST000331,015-216-01,CAF Cuautitlán de Romero Rubio,"33,456",No aplica,No aplica
+U_ISSSTE_465,MCIST000326,015-216-02,CAF Villa Nicolás Romero,"17,903",No aplica,No aplica
+U_ISSSTE_466,MCIST000483,015-219-00,CMFEQ Héroes Tecámac,"32,516","32,516",No aplica
+U_ISSSTE_467,MCIST000495,015-220-00,CMFEQ Juana Belén Gutiérrez de Mendoza,"27,783","27,783",No aplica
+U_ISSSTE_468,MNIST000202,016-205-00,CH Uruapan del Progreso,"52,435","72,493",No aplica
+U_ISSSTE_469,MNIST000366,016-205-02,CAF Gabriel Zamora,"2,650",No aplica,No aplica
+U_ISSSTE_470,MNIST000552,016-205-05,CAF Tingambato,"4,405",No aplica,No aplica
+U_ISSSTE_471,MNIST000330,016-205-06,CAF Cherán,"1,756",No aplica,No aplica
+U_ISSSTE_472,MNIST000441,016-205-07,CAF Nahuatzen,"3,121",No aplica,No aplica
+U_ISSSTE_473,MNIST000465,016-205-08,UMF Paracho de Verduzco,"8,126",No aplica,No aplica
+U_ISSSTE_474,PENDIENTE,016-205-09,CAF Nuevo Parangaricutiro,No disponible,No disponible,No disponible
+U_ISSSTE_475,MNIST000016,016-206-00,CH Apatzingán de la Constitución,"27,828","40,936",No aplica
+U_ISSSTE_476,MNIST000243,016-206-01,CAF Aguililla,"1,006",No aplica,No aplica
+U_ISSSTE_477,MNIST000284,016-206-02,CAF Coalcomán de Matamoros,957,No aplica,No aplica
+U_ISSSTE_478,MNIST000540,016-206-03,UMF Tepalcatepec,"1,384",No aplica,No aplica
+U_ISSSTE_479,MNIST000132,016-206-04,UMF Nueva Italia de Ruiz,"7,426",No aplica,No aplica
+U_ISSSTE_480,MNIST000062,016-206-07,UMF La Huacana,"3,232",No aplica,No aplica
+U_ISSSTE_481,MNIST000156,016-207-00,CMF La Piedad de Cabadas,"18,951",No aplica,No aplica
+U_ISSSTE_482,MNIST000255,016-207-01,CAF Angamacútiro de la Unión,593,No aplica,No aplica
+U_ISSSTE_483,MNIST000675,016-207-02,CAF Pastor Ortíz,"1,034",No aplica,No aplica
+U_ISSSTE_484,MNIST000470,016-207-03,CAF Penjamillo de Degollado,241,No aplica,No aplica
+U_ISSSTE_485,MNIST000535,016-207-04,CAF Tanhuato de Guerrero,"1,101",No aplica,No aplica
+U_ISSSTE_486,MNIST000646,016-207-05,CAF Yurécuaro No. 1,"1,865",No aplica,No aplica
+U_ISSSTE_487,MNIST000231,016-208-00,CH Zitácuaro,"35,530","59,872",No aplica
+U_ISSSTE_488,MNIST000260,016-208-01,CAF Angangueo,"1,050",No aplica,No aplica
+U_ISSSTE_489,MNIST000605,016-208-07,CAF Tuxpan,"2,436",No aplica,No aplica
+U_ISSSTE_490,MNIST000050,016-208-09,UMF Cd. Hidalgo,"10,743",No aplica,No aplica
+U_ISSSTE_491,MNIST000074,016-208-10,UMF Huetamo de Nuñez ,"10,113",No aplica,No aplica
+U_ISSSTE_492,MNIST000226,016-209-00,CH Zamora,"29,953","69,864",No aplica
+U_ISSSTE_493,MNIST000325,016-209-01,CAF Cotija de la Paz,739,No aplica,No aplica
+U_ISSSTE_494,MNIST000045,016-209-02,UMF Chilchota,"6,615",No aplica,No aplica
+U_ISSSTE_495,MNIST000395,016-209-03,CAF Ixtlán de los Herbores,91,No aplica,No aplica
+U_ISSSTE_496,MNIST000173,016-209-04,UMF Los Reyes de Salgado,"6,973",No aplica,No aplica
+U_ISSSTE_497,MNIST000482,016-209-05,CAF Purépero,988,No aplica,No aplica
+U_ISSSTE_498,MNIST000523,016-209-06,CAF Tangancícuaro de Arista,"1,453",No aplica,No aplica
+U_ISSSTE_499,MNIST000634,016-209-07,CAF Vista Hermosa de Negrete,894,No aplica,No aplica
+U_ISSSTE_500,MNIST000144,016-210-00,CH Pátzcuaro,"28,890","41,110",No aplica
+U_ISSSTE_501,MNIST000342,016-210-01,CAF Churumuco de Morelos,60,No aplica,No aplica
+U_ISSSTE_502,MNIST000506,016-210-03,CAF Quiroga,950,No aplica,No aplica
+U_ISSSTE_503,MNIST000593,016-210-04,CAF Puruarán,557,No aplica,No aplica
+U_ISSSTE_504,MNIST000511,016-210-05,CAF Villa Escalante (Santa Clara),343,No aplica,No aplica
+U_ISSSTE_505,MNIST000190,016-210-06,UMF Tacámbaro de Codallos,"7,953",No aplica,No aplica
+U_ISSSTE_506,MNIST000021,016-210-07,UMF Ario de Rosales,"2,417",No aplica,No aplica
+U_ISSSTE_507,MNIST000185,016-211-00,CH Sahuayo,"9,336","18,046",No aplica
+U_ISSSTE_508,MNIST000086,016-211-01,UMF Jiquilpan de Juárez,"5,440",No aplica,No aplica
+U_ISSSTE_509,MNIST000453,016-211-02,CAF Pajacuarán,"1,003",No aplica,No aplica
+U_ISSSTE_510,MNIST000412,016-211-03,CAF San José de Gracia,812,No aplica,No aplica
+U_ISSSTE_511,MNIST000622,016-211-04,CAF Venustiano Carranza,"1,455",No aplica,No aplica
+U_ISSSTE_512,MNIST000103,016-212-00,"CH R. Flores Magón, Lázaro Cárdenas","31,714","37,013",No aplica
+U_ISSSTE_513,MNIST000033,016-212-01,UMF Arteaga,"5,299",No aplica,No aplica
+U_ISSSTE_514,MNIST000115,016-212-04,UMF El Ranchito,"2,315",No aplica,No aplica
+U_ISSSTE_515,MNIST000214,016-213-00,CH Zacapu,"14,251","18,171",No aplica
+U_ISSSTE_516,MNIST000301,016-213-01,CAF Coeneo de la Libertad,"2,265",No aplica,No aplica
+U_ISSSTE_517,MNIST000383,016-213-02,CAF Huaniqueo,28,No aplica,No aplica
+U_ISSSTE_518,MNIST000424,016-214-00,CMF Morelia,"218,382",No aplica,No aplica
+U_ISSSTE_519,MNIST000313,016-214-01,CAF Contepec,673,No aplica,No aplica
+U_ISSSTE_520,MNIST000091,016-214-02,UMF Maravatío de Ocampo,"10,492",No aplica,No aplica
+U_ISSSTE_521,MNIST000161,016-214-03,UMF Puruándiro,"4,717",No aplica,No aplica
+U_ISSSTE_522,MNIST000494,016-214-04,CAF Queréndaro,"1,188",No aplica,No aplica
+U_ISSSTE_523,MNIST000576,016-214-05,CAF Tlalpujahua,940,No aplica,No aplica
+U_ISSSTE_524,MNIST000436,016-214-06,CAF Villa Morelos,502,No aplica,No aplica
+U_ISSSTE_525,MNIST000663,016-214-08,CAF Zinapécuaro de Figueroa,"3,131",No aplica,No aplica
+U_ISSSTE_526,MNIST000354,016-214-09,CAF Epitacio Huerta,257,No aplica,No aplica
+U_ISSSTE_527,MNIST000371,016-214-10,CAF Huandacareo,952,No aplica,No aplica
+U_ISSSTE_528,PENDIENTE,016-214-11,CAF Acuitzio,No disponible,No disponible,No disponible
+U_ISSSTE_529,PENDIENTE,016-214-12,CAF Cuitzeo,No disponible,No disponible,No disponible
+U_ISSSTE_530,PENDIENTE,016-214-13,CMCT SEP (Morelia),No disponible,No disponible,No disponible
+U_ISSSTE_531,MSIST000025,017-205-00,"CH Dr. Rafael Barba Ocampo, Cuautla","47,048","97,680",No aplica
+U_ISSSTE_532,MSIST000071,017-205-01,UMF Jonacatepec,"5,471",No aplica,No aplica
+U_ISSSTE_533,MSIST000211,017-205-02,CAF Tepalcingo,"4,118",No aplica,No aplica
+U_ISSSTE_534,MSIST000252,017-205-03,CAF Tlayacapan,"3,055",No aplica,No aplica
+U_ISSSTE_535,MSIST000141,017-205-04,CAF Cd. Ayala,"8,149",No aplica,No aplica
+U_ISSSTE_536,MSIST000112,017-205-05,UMF Yautepec,"9,991",No aplica,No aplica
+U_ISSSTE_537,MSIST000276,017-205-06,UMF Yecapixtla,"4,908",No aplica,No aplica
+U_ISSSTE_538,MSIST000281,017-205-07,CAF Zacualpan de Amilpas,"6,541",No aplica,No aplica
+U_ISSSTE_539,MSIST000235,017-205-08,CAF Tetela del Volcán,"1,511",No aplica,No aplica
+U_ISSSTE_540,MSIST000136,017-205-09,CAF Axochiapan,"3,506",No aplica,No aplica
+U_ISSSTE_541,MSIST000310,017-205-11,CAF Atlatlahucan,"1,957",No aplica,No aplica
+U_ISSSTE_542,MSIST000322,017-205-12,CAF Ocuituco,"1,425",No aplica,No aplica
+U_ISSSTE_543,PENDIENTE,017-206-00,CMF Cuernavaca,"96,493",No aplica,No aplica
+U_ISSSTE_544,MSIST000165,017-206-02,CAF Emiliano Zapata,"8,960",No aplica,No aplica
+U_ISSSTE_545,MSIST000182,017-206-03,CAF Jiutepec,"18,325",No aplica,No aplica
+U_ISSSTE_546,MSIST000194,017-206-06,CAF Puente de Ixtla,"5,233",No aplica,No aplica
+U_ISSSTE_547,MSIST000153,017-206-07,CMCT SEP (Cuernavaca),No disponible,No disponible,No disponible
+U_ISSSTE_548,MSIST000083,017-206-08,UMF Temixco,"11,371",No aplica,No aplica
+U_ISSSTE_549,MSIST000223,017-206-09,CAF Tepoztlán,"4,951",No aplica,No aplica
+U_ISSSTE_550,MSIST000095,017-206-10,UMF Tetecala,"6,935",No aplica,No aplica
+U_ISSSTE_551,MSIST000170,017-206-13,CAF Tres Marías,"2,696",No aplica,No aplica
+U_ISSSTE_552,MSIST000264,017-206-14,CAF Xochitepec,"6,629",No aplica,No aplica
+U_ISSSTE_553,MSIST000054,017-208-00,CMFEQ Jojutla de Juárez,"15,581","50,163",No aplica
+U_ISSSTE_554,MSIST000013,017-208-01,UMF Amacuzac,"2,897",No aplica,No aplica
+U_ISSSTE_555,MSIST000100,017-208-02,UMF Tlaquiltenango,"3,839",No aplica,No aplica
+U_ISSSTE_556,MSIST000240,017-208-03,CAF Tlaltizapán,"4,828",No aplica,No aplica
+U_ISSSTE_557,MSIST000206,017-208-04,CAF Xoxocotla,"2,979",No aplica,No aplica
+U_ISSSTE_558,MSIST000124,017-208-05,UMF Zacatepec,"7,871",No aplica,No aplica
+U_ISSSTE_559,PENDIENTE,017-209-00,HG Dr. Carlos Calero Elorduy,No aplica,"149,425",No aplica
+U_ISSSTE_560,NTIST000260,018-204-00,HG Tepic,No aplica,"223,591",No aplica
+U_ISSSTE_561,NTIST000016,018-205-00,CMF Acaponeta,"9,136",No aplica,No aplica
+U_ISSSTE_562,NTIST000231,018-205-01,CAF San Felipe Aztatán,"1,370",No aplica,No aplica
+U_ISSSTE_563,NTIST000086,018-205-03,UMF Rosamorada,"1,948",No aplica,No aplica
+U_ISSSTE_564,NTIST000173,018-205-04,CAF Ruíz,"1,682",No aplica,No aplica
+U_ISSSTE_565,NTIST000115,018-205-05,UMF Tecuala,"3,132",No aplica,No aplica
+U_ISSSTE_566,NTIST000132,018-205-06,UMF Tuxpan,"5,466",No aplica,No aplica
+U_ISSSTE_567,NTIST000161,018-205-07,CAF Huajicori,313,No aplica,No aplica
+U_ISSSTE_568,NTIST000243,018-206-00,"CMF Dr. Joaquín Cánovas Puchades,Tepic","169,772",No aplica,No aplica
+U_ISSSTE_569,NTIST000021,018-206-01,UMF Ahuacatlán,"2,423",No aplica,No aplica
+U_ISSSTE_570,NTIST000156,018-206-02,CAF Amatlán de Cañas,"1,134",No aplica,No aplica
+U_ISSSTE_571,NTIST000033,018-206-03,UMF Compostela,"5,794",No aplica,No aplica
+U_ISSSTE_572,NTIST000062,018-206-04,UMF Ixtlán del Río,"5,621",No aplica,No aplica
+U_ISSSTE_573,NTIST000050,018-206-06,UMF Las Varas,"1,424",No aplica,No aplica
+U_ISSSTE_574,NTIST000074,018-206-07,UMF Jala,"2,402",No aplica,No aplica
+U_ISSSTE_575,NTIST000202,018-206-08,CAF San Blas,"1,393",No aplica,No aplica
+U_ISSSTE_576,NTIST000045,018-206-09,UMF Peñita de Jaltemba,"1,182",No aplica,No aplica
+U_ISSSTE_577,NTIST000144,018-206-10,UMF San Juan de Abajo,"2,813",No aplica,No aplica
+U_ISSSTE_578,NTIST000226,018-206-11,CAF Santa María del Oro,"1,695",No aplica,No aplica
+U_ISSSTE_579,NTIST000091,018-206-12,UMF Santiago Ixcuintla,"5,161",No aplica,No aplica
+U_ISSSTE_580,NTIST000103,018-206-13,UMF Villa Hidalgo,"1,926",No aplica,No aplica
+U_ISSSTE_581,NTIST000214,018-206-16,CAF San Pedro Lagunillas,617,No aplica,No aplica
+U_ISSSTE_582,PENDIENTE,018-206-17,CAF Islas Marías ,No disponible,No disponible,No disponible
+U_ISSSTE_583,NLIST000093,019-204-00,CH Constitución,"101,039","275,887",No aplica
+U_ISSSTE_584,NLIST000233,019-204-01,CAF Aramberri,844,No aplica,No aplica
+U_ISSSTE_585,NLIST000315,019-204-02,CAF Cd. Allende,"1,502",No aplica,No aplica
+U_ISSSTE_586,NLIST000146,019-204-03,CAF UHF. Col. Burócratas Federales,"9,065",No aplica,No aplica
+U_ISSSTE_587,NLIST000023,019-204-04,UMF Cadereyta de Jiménez,"4,540",No aplica,No aplica
+U_ISSSTE_588,NLIST000011,019-204-05,UMF Cd. Anáhuac,"1,962",No aplica,No aplica
+U_ISSSTE_589,NLIST000035,019-204-07,UMF Doctor Arroyo,"3,860",No aplica,No aplica
+U_ISSSTE_590,NLIST000040,019-204-08,UMF Galeana,"3,725",No aplica,No aplica
+U_ISSSTE_591,NLIST000064,019-204-09,UMF Gral. Bravo,827,No aplica,No aplica
+U_ISSSTE_592,NLIST000320,019-204-10,CAF Gral. Terán,952,No aplica,No aplica
+U_ISSSTE_593,NLIST000262,019-204-12,CAF Iturbide,136,No aplica,No aplica
+U_ISSSTE_594,NLIST000245,019-204-13,CAF La Ascensión,467,No aplica,No aplica
+U_ISSSTE_595,NLIST000303,019-204-14,CAF Lampazos de Naranjo,185,No aplica,No aplica
+U_ISSSTE_596,NLIST000081,019-204-16,UMF Montemorelos,"7,620",No aplica,No aplica
+U_ISSSTE_597,NLIST000274,019-204-17,CMCT Palacio Federal (Monterrey),No disponible,No disponible,No disponible
+U_ISSSTE_598,NLIST000180,019-204-18,CMCT SAT Administración Fiscal,No disponible,No disponible,No disponible
+U_ISSSTE_599,NLIST000110,019-204-19,UMF Sabinas Hidalgo,"5,671",No aplica,No aplica
+U_ISSSTE_600,NLIST000122,019-204-23,UMF Villa de Santiago,"2,215",No aplica,No aplica
+U_ISSSTE_601,NLIST000361,019-204-24,CAF Cerralvo,802,No aplica,No aplica
+U_ISSSTE_602,NLIST000332,019-204-25,CAF Hualahuises,712,No aplica,No aplica
+U_ISSSTE_603,PENDIENTE,019-204-26,CMCT Sindicato de SARH (SADER),No disponible,No disponible,No disponible
+U_ISSSTE_604,NLIST000052,019-204-27,UMF El Potosí,134,No aplica,No aplica
+U_ISSSTE_605,NLIST000175,019-204-29,CAF Villa Dorada,"10,599",No aplica,No aplica
+U_ISSSTE_606,NLIST000250,019-204-31,CAF San José de Raíces,156,No aplica,No aplica
+U_ISSSTE_607,NLIST000151,019-204-32,CMCT INEGI,No disponible,No disponible,No disponible
+U_ISSSTE_608,NLIST000076,019-205-00,CMFEQ Linares,"11,016","29,211",No aplica
+U_ISSSTE_609,NLIST000373,019-206-00,CMF Guadalupe Col. de Maestros,"73,910",No aplica,No aplica
+U_ISSSTE_610,NLIST000385,019-208-00,CMF Escobedo,"64,909",No aplica,No aplica
+U_ISSSTE_611,OCIST000136,020-204-00,CMF Salina Cruz,"15,297",No aplica,No aplica
+U_ISSSTE_612,OCIST000025,020-204-01,UMF Ciudad Ixtepec,"13,222",No aplica,No aplica
+U_ISSSTE_613,OCIST000066,020-204-02,UMF Juchitán de Zaragoza,"21,306",No aplica,No aplica
+U_ISSSTE_614,OCIST000585,020-204-03,UMF Unión Hidalgo,"4,770",No aplica,No aplica
+U_ISSSTE_615,OCIST000544,020-204-04,CAF Santiago Laollaga,"1,154",No aplica,No aplica
+U_ISSSTE_616,OCIST000515,020-204-05,CAF Santiago Astata,372,No aplica,No aplica
+U_ISSSTE_617,OCIST000322,020-204-06,CAF El Espinal,"4,299",No aplica,No aplica
+U_ISSSTE_618,OCIST000252,020-205-00,CH Tehuantepec,"18,626","95,954",No aplica
+U_ISSSTE_619,OCIST000083,020-205-01,UMF Matías Romero,"9,557",No aplica,No aplica
+U_ISSSTE_620,OCIST000211,020-205-02,UMF San Pedro Tapanatepec,"2,426",No aplica,No aplica
+U_ISSSTE_621,OCIST000141,020-205-03,UMF San Francisco Ixhuatán,"2,281",No aplica,No aplica
+U_ISSSTE_622,OCIST000392,020-205-04,CAF San Francisco del Mar,929,No aplica,No aplica
+U_ISSSTE_623,OCIST000346,020-205-05,CAF Palomares,643,No aplica,No aplica
+U_ISSSTE_624,OCIST000556,020-205-06,CAF Santo Domingo Zanatepec,"1,072",No aplica,No aplica
+U_ISSSTE_625,PENDIENTE,020-205-07,CAF San Pedro Comitancillo,No disponible,No disponible,No disponible
+U_ISSSTE_626,OCIST000165,020-206-00,CH Tuxtepec,"35,382","62,166",No aplica
+U_ISSSTE_627,OCIST000305,020-206-01,UMF Acatlán de Pérez Figueroa,"1,788",No aplica,No aplica
+U_ISSSTE_628,OCIST000071,020-206-02,UMF Loma Bonita,"3,177",No aplica,No aplica
+U_ISSSTE_629,OCIST000170,020-206-04,UMF San Lucas Ojitlán,"3,429",No aplica,No aplica
+U_ISSSTE_630,OCIST000182,020-206-05,UMF Temascal,"3,965",No aplica,No aplica
+U_ISSSTE_631,OCIST000590,020-206-06,CAF Valle Nacional,"2,697",No aplica,No aplica
+U_ISSSTE_632,OCIST000380,020-206-08,CAF San Felipe Usila,970,No aplica,No aplica
+U_ISSSTE_633,OCIST000042,020-207-00,CH Huajuapan de León,"27,262","34,732",No aplica
+U_ISSSTE_634,OCIST000532,020-207-02,CAF Juxtlahuaca,"2,998",No aplica,No aplica
+U_ISSSTE_635,OCIST000264,020-207-05,UMF Silacayoápam,577,No aplica,No aplica
+U_ISSSTE_636,OCIST000276,020-207-06,UMF Tamazulapam,"3,895",No aplica,No aplica
+U_ISSSTE_637,OCIST000124,020-207-08,UMF Putla Villa de Guerrero,"9,092",No aplica,No aplica
+U_ISSSTE_638,OCIST000462,020-208-00,CMFEQ Puerto Escondido,"17,578","36,818",No aplica
+U_ISSSTE_639,OCIST000206,020-208-02,UMF Pochutla,"7,560",No aplica,No aplica
+U_ISSSTE_640,OCIST000474,020-208-03,UMF Río Grande,"4,164",No aplica,No aplica
+U_ISSSTE_641,OCIST000223,020-208-04,UMF Santa Rosa de Lima,"1,666",No aplica,No aplica
+U_ISSSTE_642,OCIST000486,020-208-05,CAF Juquila,"1,540",No aplica,No aplica
+U_ISSSTE_643,OCIST000491,020-208-09,CAF Santa María Huatulco,"4,059",No aplica,No aplica
+U_ISSSTE_644,OCIST000503,020-208-12,CAF Santa Cruz Huatulco,251,No aplica,No aplica
+U_ISSSTE_645,OCIST000100,020-209-00,CMFEQ Oaxaca,"199,210","245,953",No aplica
+U_ISSSTE_646,OCIST000351,020-209-01,CAF Ayutla Mixe,"2,251",No aplica,No aplica
+U_ISSSTE_647,OCIST000404,020-209-02,CAF Cuicatlán,"2,869",No aplica,No aplica
+U_ISSSTE_648,OCIST000030,020-209-04,UMF Guelatao de Juárez,"2,884",No aplica,No aplica
+U_ISSSTE_649,OCIST000054,020-209-05,UMF Huautla de Jiménez,"5,883",No aplica,No aplica
+U_ISSSTE_650,OCIST000095,020-209-06,UMF Miahuatlán de Porfirio Díaz,"8,273",No aplica,No aplica
+U_ISSSTE_651,OCIST000363,020-209-07,CAF Ocotlán de Morelos,"5,197",No aplica,No aplica
+U_ISSSTE_652,OCIST000450,020-209-08,UMF San Pablo Huixtepec,"7,074",No aplica,No aplica
+U_ISSSTE_653,OCIST000281,020-209-10,UMF Teotitlán de Flores Magón,"4,792",No aplica,No aplica
+U_ISSSTE_654,OCIST000153,020-209-11,UMF Telixtlahuaca,"4,749",No aplica,No aplica
+U_ISSSTE_655,OCIST000573,020-209-12,CAF Tlacolula de Matamoros,"5,863",No aplica,No aplica
+U_ISSSTE_656,OCIST000013,020-209-14,UMF Asunción Nochixtlán,"5,728",No aplica,No aplica
+U_ISSSTE_657,OCIST000614,020-209-17,CAF Tamazulápam del Espíritu Santo,"1,855",No aplica,No aplica
+U_ISSSTE_658,OCIST000240,020-210-00,CH Pinotepa Nacional,"26,080","26,080",No aplica
+U_ISSSTE_659,PENDIENTE,020-210-01,CAF Cacahuatepec,No disponible,No disponible,No disponible
+U_ISSSTE_660,OCIST000235,020-211-00,CMFEQ Tlaxiaco,"16,112","27,289",No aplica
+U_ISSSTE_661,OCIST000310,020-211-01,CAF Chalcatongo de Hidalgo,"2,085",No aplica,No aplica
+U_ISSSTE_662,PLIST000014,021-205-00,CMF Acatlán de Osorio,"13,475",No aplica,No aplica
+U_ISSSTE_663,PLIST000026,021-206-00,CMF Atlixco,"17,241",No aplica,No aplica
+U_ISSSTE_664,PLIST000253,021-206-01,CAF Estación Atencingo,"2,786",No aplica,No aplica
+U_ISSSTE_665,PLIST000241,021-206-02,UMF Chiautla de Tapia,"3,387",No aplica,No aplica
+U_ISSSTE_666,PLIST000096,021-206-03,UMF Izúcar de Matamoros,"11,930",No aplica,No aplica
+U_ISSSTE_667,PLIST000072,021-207-00,CH Huauchinango,"20,060","44,048",No aplica
+U_ISSSTE_668,PLIST000311,021-207-01,CAF Pahuatlán del Valle,974,No aplica,No aplica
+U_ISSSTE_669,PLIST000195,021-207-02,UMF Xicotepec de Juárez,"6,841",No aplica,No aplica
+U_ISSSTE_670,PLIST000055,021-207-03,UMF Chignahuapan,"3,131",No aplica,No aplica
+U_ISSSTE_671,PLIST000393,021-207-04,CAF Tetela de Ocampo,"2,394",No aplica,No aplica
+U_ISSSTE_672,PLIST000200,021-207-05,UMF Zacatlán,"10,648",No aplica,No aplica
+U_ISSSTE_673,PLIST000154,021-208-00,CH Tehuacán,"43,352","59,922",No aplica
+U_ISSSTE_674,PLIST000043,021-208-01,UMF Cd. Serdán,"4,490",No aplica,No aplica
+U_ISSSTE_675,PLIST000060,021-208-02,UMF Esperanza,"1,405",No aplica,No aplica
+U_ISSSTE_676,PLIST000270,021-208-05,CAF Guadalupe Victoria,874,No aplica,No aplica
+U_ISSSTE_677,PLIST000125,021-209-00,CMF San Martín Texmelucan,"18,363",No aplica,No aplica
+U_ISSSTE_678,PLIST000282,021-209-01,CAF Huejotzingo,"5,505",No aplica,No aplica
+U_ISSSTE_679,PLIST000171,021-210-00,CH Teziutlán,"21,791","56,032",No aplica
+U_ISSSTE_680,PLIST000031,021-210-01,UMF Cuetzalan del Progreso,"5,497",No aplica,No aplica
+U_ISSSTE_681,PLIST000183,021-210-04,UMF Tlatlauquitepec,"12,522",No aplica,No aplica
+U_ISSSTE_682,PLIST000422,021-210-06,CAF Zacapoaxtla,"9,288",No aplica,No aplica
+U_ISSSTE_683,PLIST000460,021-210-07,UMF Zaragoza,"4,786",No aplica,No aplica
+U_ISSSTE_684,PLIST000480,021-210-11,CAF Huehuetla,"2,148",No aplica,No aplica
+U_ISSSTE_685,PLIST000212,021-214-00,CMFEQ Puebla,"181,310","245,327",No aplica
+U_ISSSTE_686,PLIST000381,021-214-04,CAF Villa Rafael Lara Grajales,"1,036",No aplica,No aplica
+U_ISSSTE_687,PLIST000306,021-214-05,CAF Libres,"3,062",No aplica,No aplica
+U_ISSSTE_688,PLIST000084,021-214-06,UMF San Juan Ixcaquixtla,"4,034",No aplica,No aplica
+U_ISSSTE_689,PLIST000142,021-214-07,UMF Tecamachalco,"6,528",No aplica,No aplica
+U_ISSSTE_690,PLIST000166,021-214-08,UMF Tepeaca,"8,596",No aplica,No aplica
+U_ISSSTE_691,PLIST000224,021-214-11,CAF Acatzingo de Hidalgo,"2,715",No aplica,No aplica
+U_ISSSTE_692,PLIST000130,021-214-12,UMF Cholula,"24,871",No aplica,No aplica
+U_ISSSTE_693,PLIST000113,021-214-13,UMF Col. Magisterial Federal México 68,60,No aplica,No aplica
+U_ISSSTE_694,PLIST000323,021-214-14,CAF UH. FOVISSSTE San Roque,299,No aplica,No aplica
+U_ISSSTE_695,PLIST000335,021-214-15,CMCT SNTE (Puebla),No disponible,No disponible,No disponible
+U_ISSSTE_696,PLIST000340,021-214-16,CAF Col. Reforma Sur,"2,422",No aplica,No aplica
+U_ISSSTE_697,PLIST000352,021-214-17,CAF UH FOVISSSTE Villa Verde,"1,229",No aplica,No aplica
+U_ISSSTE_698,PLIST000364,021-214-27,CMCT SAT Puebla Sur,No disponible,No disponible,No disponible
+U_ISSSTE_699,PLIST000376,021-214-28,CMCT Secretaría de Educación del Estado de Puebla-SEP,No disponible,No disponible,No disponible
+U_ISSSTE_700,PLIST000451,021-214-29,CMCT TFJA (San Andrés Cholula),No disponible,No disponible,No disponible
+U_ISSSTE_701,QTIST000051,022-205-00,CMF Querétaro,"92,364",No aplica,No aplica
+U_ISSSTE_702,QTIST000010,022-205-03,UMF Amealco,"3,203",No aplica,No aplica
+U_ISSSTE_703,QTIST000022,022-205-05,UMF Cadereyta de Montes,"6,253",No aplica,No aplica
+U_ISSSTE_704,QTIST000121,022-205-06,CAF Villa Colón,"2,206",No aplica,No aplica
+U_ISSSTE_705,QTIST000133,022-205-07,CAF Ezequiel Montes,"2,363",No aplica,No aplica
+U_ISSSTE_706,QTIST000034,022-205-08,UMF Jalpan de Serra,"7,861",No aplica,No aplica
+U_ISSSTE_707,QTIST000150,022-205-13,UMF Tequisquiapan,"5,231",No aplica,No aplica
+U_ISSSTE_708,QTIST000092,022-205-14,UMF Tolimán,"2,770",No aplica,No aplica
+U_ISSSTE_709,QTIST000145,022-205-16,CAF Pedro Escobedo,"2,827",No aplica,No aplica
+U_ISSSTE_710,QTIST000063,022-205-18,UMF Col. Satélite,"21,046",No aplica,No aplica
+U_ISSSTE_711,QTIST000075,022-205-19,UMF Azteca III,"12,544",No aplica,No aplica
+U_ISSSTE_712,QTIST000046,022-206-00,HG Querétaro,No aplica,"169,767",No aplica
+U_ISSSTE_713,PENDIENTE,022-207-00,CMFEQ San Juan del Río,"23,714","23,714",No aplica
+U_ISSSTE_714,QRIST000043,023-204-00,CH Chetumal,"85,111","107,372",No aplica
+U_ISSSTE_715,QRIST000026,023-204-01,UMF Felipe Carrillo Puerto,"11,017",No aplica,No aplica
+U_ISSSTE_716,QRIST000060,023-204-02,UMF José Ma. Morelos,"5,993",No aplica,No aplica
+U_ISSSTE_717,QRIST000096,023-204-03,CAF Bacalar,"5,251",No aplica,No aplica
+U_ISSSTE_718,QRIST000055,023-205-00,CH Cd. Cancún,"61,861","82,270",No aplica
+U_ISSSTE_719,QRIST000072,023-205-01,UMF Kantunilkín,"2,521",No aplica,No aplica
+U_ISSSTE_720,QRIST000031,023-205-02,UMF Isla Mujeres,"3,160",No aplica,No aplica
+U_ISSSTE_721,PENDIENTE,023-205-05,UMF Playa del Carmen,"14,728",No aplica,No aplica
+U_ISSSTE_722,QRIST000014,023-206-00,CMFEQ Cozumel,"13,261","13,261",No aplica
+U_ISSSTE_723,QRIST000084,023-207-00,CE Clidda Chetumal,No disponible,No disponible,No disponible
+U_ISSSTE_724,SPIST000113,024-204-00,"HG San Luis Potosí, S.L.P.",No aplica,"70,402",No aplica
+U_ISSSTE_725,SPIST000055,024-205-00,CH Ciudad Valles,"39,343","58,797",No aplica
+U_ISSSTE_726,SPIST000072,024-205-02,UMF Ébano,"3,187",No aplica,No aplica
+U_ISSSTE_727,SPIST000282,024-205-03,CAF Tamasopo,957,No aplica,No aplica
+U_ISSSTE_728,SPIST000154,024-205-04,UMF Tanquián de Escobedo,"4,183",No aplica,No aplica
+U_ISSSTE_729,SPIST000183,024-205-05,UMF Xilitla,"2,897",No aplica,No aplica
+U_ISSSTE_730,SPIST000043,024-205-10,UMF Tancanhuitz de Santos,"6,435",No aplica,No aplica
+U_ISSSTE_731,SPIST000294,024-205-11,CAF San Vicente,"1,679",No aplica,No aplica
+U_ISSSTE_732,SPIST000311,024-205-14,CAF El Naranjo,116,No aplica,No aplica
+U_ISSSTE_733,SPIST000212,024-206-00,"CMFEQ Dr. Pedro Bárcena Hiriart, S.L.P.","121,451","121,451",No aplica
+U_ISSSTE_734,SPIST000130,024-206-01,UMF Col. Burócratas,"27,540",No aplica,No aplica
+U_ISSSTE_735,SPIST000026,024-206-03,UMF Cerritos,"2,757",No aplica,No aplica
+U_ISSSTE_736,SPIST000060,024-206-04,UMF Cd. Charcas,"2,797",No aplica,No aplica
+U_ISSSTE_737,SPIST000101,024-206-05,UMF Salinas de Hidalgo,"2,676",No aplica,No aplica
+U_ISSSTE_738,SPIST000166,024-206-07,UMF Villa Hidalgo,569,No aplica,No aplica
+U_ISSSTE_739,SPIST000270,024-206-09,UMF Soledad de Graciano Sánchez,"31,376",No aplica,No aplica
+U_ISSSTE_740,SPIST000224,024-206-12,CMCT Casa de Moneda,No disponible,No disponible,No disponible
+U_ISSSTE_741,SPIST000265,024-206-14,CAF Santa María del Río,"2,687",No aplica,No aplica
+U_ISSSTE_742,SPIST000236,024-206-15,CMCT SNTE  (San Luís Potosí),No disponible,No disponible,No disponible
+U_ISSSTE_743,SPIST000241,024-206-16,CMCT Secretaría de Educación del Estado de San Luis Potosí-SEP,No disponible,No disponible,No disponible
+U_ISSSTE_744,SPIST000084,024-207-00,CH Matehuala,"23,514","23,514",No aplica
+U_ISSSTE_745,SPIST000142,024-208-00,CH Tamazunchale,"19,114","28,360",No aplica
+U_ISSSTE_746,SPIST000171,024-208-01,UMF Axtla de Terrazas,"4,614",No aplica,No aplica
+U_ISSSTE_747,SPIST000253,024-208-02,CAF San Martín Chalchicuautla,"1,062",No aplica,No aplica
+U_ISSSTE_748,SPIST000306,024-208-03,CAF Matlapa,"2,840",No aplica,No aplica
+U_ISSSTE_749,SPIST000096,024-209-00,CH Ríoverde,"19,787","26,177",No aplica
+U_ISSSTE_750,SPIST000014,024-209-01,UMF Cárdenas,"3,390",No aplica,No aplica
+U_ISSSTE_751,SPIST000031,024-209-02,UMF Cd. del Maíz,"2,349",No aplica,No aplica
+U_ISSSTE_752,SPIST000200,024-209-03,CAF San Ciro de Acosta,651,No aplica,No aplica
+U_ISSSTE_753,SLIST000196,025-204-00,CH Mazatlán,"82,642","116,237",No aplica
+U_ISSSTE_754,SLIST000056,025-204-01,UMF Concordia,"6,480",No aplica,No aplica
+U_ISSSTE_755,SLIST000225,025-204-03,UMF El Rosario,"9,568",No aplica,No aplica
+U_ISSSTE_756,SLIST000131,025-204-04,UMF Escuinapa,"11,860",No aplica,No aplica
+U_ISSSTE_757,SLIST000242,025-204-05,UMF San Ignacio,"2,146",No aplica,No aplica
+U_ISSSTE_758,SLIST000201,025-204-07,UMF La Esperanza,"3,541",No aplica,No aplica
+U_ISSSTE_759,SLIST000015,025-205-00,CH Los Mochis,"75,411","115,184",No aplica
+U_ISSSTE_760,SLIST000020,025-205-01,UMF Ahome,"4,437",No aplica,No aplica
+U_ISSSTE_761,SLIST000172,025-205-03,UMF Estación Bamoa,"2,021",No aplica,No aplica
+U_ISSSTE_762,SLIST000114,025-205-04,UMF Choix,"4,071",No aplica,No aplica
+U_ISSSTE_763,SLIST000283,025-205-05,CAF El Carrizo,"3,499",No aplica,No aplica
+U_ISSSTE_764,SLIST000143,025-205-06,UMF El Fuerte,"6,800",No aplica,No aplica
+U_ISSSTE_765,SLIST000370,025-205-07,CAF Estación Naranjo,"1,765",No aplica,No aplica
+U_ISSSTE_766,SLIST000295,025-205-09,CAF Higuera de Zaragoza,"2,449",No aplica,No aplica
+U_ISSSTE_767,SLIST000184,025-205-10,UMF Gral. Juan José Ríos,"3,907",No aplica,No aplica
+U_ISSSTE_768,SLIST000353,025-205-11,CAF Adolfo Ruíz Cortines,"3,009",No aplica,No aplica
+U_ISSSTE_769,SLIST000155,025-205-12,UMF San Blas,"2,273",No aplica,No aplica
+U_ISSSTE_770,SLIST000254,025-205-13,UMF Sinaloa de Leyva,"6,455",No aplica,No aplica
+U_ISSSTE_771,SLIST000266,025-205-14,UMF Ocoroni,"1,108",No aplica,No aplica
+U_ISSSTE_772,SLIST000073,025-206-00,CMF Culiacán,"165,446",No aplica,No aplica
+U_ISSSTE_773,SLIST000032,025-206-01,UMF Angostura,"5,022",No aplica,No aplica
+U_ISSSTE_774,SLIST000044,025-206-02,UMF Badiraguato,"2,475",No aplica,No aplica
+U_ISSSTE_775,SLIST000061,025-206-03,UMF Cosalá,"2,967",No aplica,No aplica
+U_ISSSTE_776,SLIST000102,025-206-04,UMF El Dorado,"4,010",No aplica,No aplica
+U_ISSSTE_777,SLIST000230,025-206-05,UMF Guamúchil,"15,035",No aplica,No aplica
+U_ISSSTE_778,SLIST000126,025-206-06,UMF Estación la Cruz,"7,986",No aplica,No aplica
+U_ISSSTE_779,SLIST000213,025-206-07,UMF Mocorito,"2,987",No aplica,No aplica
+U_ISSSTE_780,SLIST000271,025-206-08,UMF Navolato,"13,868",No aplica,No aplica
+U_ISSSTE_781,SLIST000365,025-206-09,UMF Pericos,"1,636",No aplica,No aplica
+U_ISSSTE_782,SLIST000336,025-206-10,UMF Quilá,"2,183",No aplica,No aplica
+U_ISSSTE_783,SLIST000312,025-206-12,CAF UH. FOVISSSTE CATRA (Casa del Trabajador),"13,984",No aplica,No aplica
+U_ISSSTE_784,SLIST000300,025-206-13,CAF Gato de Lara,841,No aplica,No aplica
+U_ISSSTE_785,SLIST000324,025-206-14,UMF Costa Rica,"4,586",No aplica,No aplica
+U_ISSSTE_786,SLIST000090,025-206-15,UMF Col. STASE,"52,312",No aplica,No aplica
+U_ISSSTE_787,PENDIENTE,025-208-00,CMFEQ Guasave,"34,227","59,292",No aplica
+U_ISSSTE_788,SRIST000133,026-204-00,"HG Dr. Fernando Ocaranza, Hermosillo",No aplica,"131,969",No aplica
+U_ISSSTE_789,SRIST000046,026-205-00,CH Cd. Obregón,"44,533","52,251",No aplica
+U_ISSSTE_790,SRIST000051,026-205-01,UMF Estación Esperanza,"2,174",No aplica,No aplica
+U_ISSSTE_791,SRIST000116,026-205-02,UMF Estación Vicam,"2,560",No aplica,No aplica
+U_ISSSTE_792,SRIST000080,026-205-03,UMF Villa Juárez,"1,382",No aplica,No aplica
+U_ISSSTE_793,SRIST000261,026-205-04,CAF UH. FOVISSSTE No. 2 Cd. Obregón,"1,405",No aplica,No aplica
+U_ISSSTE_794,SRIST000401,026-205-06,CAF Rosario Tesopaco,197,No aplica,No aplica
+U_ISSSTE_795,SRIST000162,026-206-00,CH Navojoa,"24,965","45,086",No aplica
+U_ISSSTE_796,SRIST000022,026-206-01,UMF Álamos,"1,733",No aplica,No aplica
+U_ISSSTE_797,SRIST000092,026-206-02,UMF Bacobampo,"2,867",No aplica,No aplica
+U_ISSSTE_798,SRIST000145,026-206-03,UMF Huatabampo,"10,603",No aplica,No aplica
+U_ISSSTE_799,SRIST000302,026-206-04,UMF Etchojoa,"4,231",No aplica,No aplica
+U_ISSSTE_800,SRIST000104,026-208-00,CH Guaymas,"13,295","18,141",No aplica
+U_ISSSTE_801,SRIST000075,026-208-01,UMF Empalme,"4,846",No aplica,No aplica
+U_ISSSTE_802,SRIST000203,026-211-00,CH San Luís Río Colorado,"15,393","21,664",No aplica
+U_ISSSTE_803,SRIST000186,026-211-01,UMF Puerto Peñasco,"4,969",No aplica,No aplica
+U_ISSSTE_804,SRIST000232,026-211-02,UMF Sonoyta,"1,302",No aplica,No aplica
+U_ISSSTE_805,SRIST000121,026-212-00,CMF Hermosillo,"79,773",No aplica,No aplica
+U_ISSSTE_806,SRIST000256,026-212-01,CAF Aconchi (Baviácora),340,No aplica,No aplica
+U_ISSSTE_807,SRIST000285,026-212-02,CAF Carbó,122,No aplica,No aplica
+U_ISSSTE_808,SRIST000290,026-212-03,CAF Cumpas,399,No aplica,No aplica
+U_ISSSTE_809,SRIST000150,026-212-04,UMF Moctezuma,"1,360",No aplica,No aplica
+U_ISSSTE_810,SRIST000220,026-212-05,UMF Ures,"1,611",No aplica,No aplica
+U_ISSSTE_811,SRIST000191,026-212-06,UMF Sahuaripa,526,No aplica,No aplica
+U_ISSSTE_812,SRIST000326,026-212-07,CAF Poblado Miguel Alemán,"1,064",No aplica,No aplica
+U_ISSSTE_813,SRIST000331,026-212-08,CAF UH. FOVISSSTE No. 1 Hermosillo,"25,971",No aplica,No aplica
+U_ISSSTE_814,SRIST000360,026-212-10,CAF Mazatán,183,No aplica,No aplica
+U_ISSSTE_815,SRIST000425,026-212-11,CAF Huépac,146,No aplica,No aplica
+U_ISSSTE_816,SRIST000174,026-215-00,CH Nogales,"20,399","23,937",No aplica
+U_ISSSTE_817,SRIST000034,026-215-01,UMF Caborca,"7,096",No aplica,No aplica
+U_ISSSTE_818,SRIST000244,026-215-02,CAF Cd. Magdalena de Kino,"2,495",No aplica,No aplica
+U_ISSSTE_819,SRIST000215,026-215-03,UMF Santa Ana,"1,552",No aplica,No aplica
+U_ISSSTE_820,SRIST000355,026-215-04,CAF Imuris,"1,043",No aplica,No aplica
+U_ISSSTE_821,SRIST000010,026-215-06,UMF Agua Prieta,"8,119",No aplica,No aplica
+U_ISSSTE_822,SRIST000063,026-215-09,UMF Cananea,"3,707",No aplica,No aplica
+U_ISSSTE_823,TCIST000273,027-204-00,HG Villahermosa,No aplica,"220,067",No aplica
+U_ISSSTE_824,TCIST000034,027-205-00,CMF Cárdenas,"19,292",No aplica,No aplica
+U_ISSSTE_825,TCIST000186,027-206-00,"CMF Casablanca, Villahermosa","92,119",No aplica,No aplica
+U_ISSSTE_826,TCIST000010,027-206-01,UMF Balancán de Domínguez,"4,657",No aplica,No aplica
+U_ISSSTE_827,TCIST000075,027-206-02,UMF Comalcalco,"10,138",No aplica,No aplica
+U_ISSSTE_828,TCIST000080,027-206-03,UMF Cunduacán,"7,961",No aplica,No aplica
+U_ISSSTE_829,TCIST000092,027-206-04,UMF Emiliano Zapata,"3,702",No aplica,No aplica
+U_ISSSTE_830,TCIST000051,027-206-05,UMF Frontera Centla,"7,072",No aplica,No aplica
+U_ISSSTE_831,TCIST000104,027-206-06,UMF Huimanguillo,"8,716",No aplica,No aplica
+U_ISSSTE_832,TCIST000116,027-206-07,UMF Jalpa de Méndez,"11,899",No aplica,No aplica
+U_ISSSTE_833,TCIST000121,027-206-08,UMF Macuspana,"13,299",No aplica,No aplica
+U_ISSSTE_834,TCIST000145,027-206-09,UMF Paraíso,"5,795",No aplica,No aplica
+U_ISSSTE_835,TCIST000162,027-206-10,UMF Teapa,"4,942",No aplica,No aplica
+U_ISSSTE_836,TCIST000174,027-206-11,UMF Tenosique de Pino Suárez,"5,805",No aplica,No aplica
+U_ISSSTE_837,TCIST000046,027-206-12,UMF Villa Benito Juárez (Cárdenas),851,No aplica,No aplica
+U_ISSSTE_838,TCIST000133,027-206-13,CAF Nacajuca,"9,349",No aplica,No aplica
+U_ISSSTE_839,TCIST000150,027-206-15,UMF Tacotalpa,"3,828",No aplica,No aplica
+U_ISSSTE_840,TCIST000244,027-206-17,CAF Jalapa,"1,858",No aplica,No aplica
+U_ISSSTE_841,TCIST000022,027-206-18,UMF El Triunfo,"1,007",No aplica,No aplica
+U_ISSSTE_842,TCIST000256,027-206-19,CAF Jonuta,"1,592",No aplica,No aplica
+U_ISSSTE_843,TCIST000261,027-206-20,CAF Villa Benito Juárez (Macuspana),No disponible,No disponible,No disponible
+U_ISSSTE_844,TCIST000215,027-206-22,CAF Tamulté de Las Sábanas,"11,594",No aplica,No aplica
+U_ISSSTE_845,TSIST000153,028-204-00,CH Cd. Victoria,No aplica,"127,738",No aplica
+U_ISSSTE_846,TSIST000013,028-204-01,UMF Abasolo,"1,416",No aplica,No aplica
+U_ISSSTE_847,TSIST000310,028-204-02,CAF El Barretal,661,No aplica,No aplica
+U_ISSSTE_848,TSIST000252,028-204-03,UMF Jaumave,"3,179",No aplica,No aplica
+U_ISSSTE_849,TSIST000264,028-204-04,CAF Santander Jiménez,"1,163",No aplica,No aplica
+U_ISSSTE_850,TSIST000240,028-204-05,CAF Hidalgo,"1,069",No aplica,No aplica
+U_ISSSTE_851,TSIST000042,028-204-06,UMF Llera de Canales,"1,464",No aplica,No aplica
+U_ISSSTE_852,TSIST000305,028-204-08,CAF Padilla,"1,992",No aplica,No aplica
+U_ISSSTE_853,TSIST000322,028-204-09,CAF Tula,"3,376",No aplica,No aplica
+U_ISSSTE_854,TSIST000334,028-204-10,CAF Villagrán,346,No aplica,No aplica
+U_ISSSTE_855,TSIST000124,028-204-12,CAF Soto La Marina,"2,224",No aplica,No aplica
+U_ISSSTE_856,TSIST000100,028-206-00,"CH Dr. Baudelio Villanueva, Reynosa","47,543","55,009",No aplica
+U_ISSSTE_857,TSIST000025,028-206-01,UMF Cd. Camargo,"1,549",No aplica,No aplica
+U_ISSSTE_858,TSIST000235,028-206-02,CAF Cd. Gustavo Díaz Ordaz,"2,161",No aplica,No aplica
+U_ISSSTE_859,TSIST000083,028-206-04,UMF Cd. Miguel Alemán,"3,151",No aplica,No aplica
+U_ISSSTE_860,TSIST000281,028-206-05,CAF Cd. Mier,605,No aplica,No aplica
+U_ISSSTE_861,TSIST000071,028-207-00,"CH Dr. Manuel F. Rodriguez, Matamoros","47,800","60,677",No aplica
+U_ISSSTE_862,TSIST000276,028-207-01,CAF Control,654,No aplica,No aplica
+U_ISSSTE_863,TSIST000141,028-207-02,UMF Valle Hermoso,"6,828",No aplica,No aplica
+U_ISSSTE_864,TSIST000112,028-207-03,UMF San Fernando,"5,395",No aplica,No aplica
+U_ISSSTE_865,TSIST000095,028-208-00,"CH Agosto 12, Nuevo Laredo","32,854","35,197",No aplica
+U_ISSSTE_866,TSIST000223,028-208-01,CAF Nueva Cd. Guerrero,381,No aplica,No aplica
+U_ISSSTE_867,TSIST000170,028-209-00,CH Río Bravo,"12,226","12,226",No aplica
+U_ISSSTE_868,TSIST000054,028-210-00,CH Cd. Mante,"17,941","25,493",No aplica
+U_ISSSTE_869,TSIST000066,028-210-01,UMF Los Aztecas,342,No aplica,No aplica
+U_ISSSTE_870,TSIST000293,028-210-02,UMF Ocampo,"1,426",No aplica,No aplica
+U_ISSSTE_871,TSIST000030,028-210-03,UMF Villa González,"2,401",No aplica,No aplica
+U_ISSSTE_872,TSIST000165,028-210-04,UMF Villa Xicoténcatl,"3,383",No aplica,No aplica
+U_ISSSTE_873,TSIST000136,028-211-00,CMFEQ Tampico,"57,036","57,036",No aplica
+U_ISSSTE_874,TSIST000194,028-211-01,CAF Villa Aldama,"3,929",No aplica,No aplica
+U_ISSSTE_875,TSIST000211,028-211-02,CAF UHF. Las Arboledas,"16,326",No aplica,No aplica
+U_ISSSTE_876,TSIST000206,028-211-03,UMF Altamira,"12,815",No aplica,No aplica
+U_ISSSTE_877,TSIST000345,028-214-00,CMF Cd. Victoria,"111,194",No aplica,No aplica
+U_ISSSTE_878,TSIST000363,028-215-00,HG Tampico,No aplica,"64,204",No aplica
+U_ISSSTE_879,TLIST000042,029-204-00,HG Tlaxcala,No aplica,"164,607",No aplica
+U_ISSSTE_880,TLIST000013,029-204-01,UMF Apizaco,"22,629",No aplica,No aplica
+U_ISSSTE_881,TLIST000025,029-204-02,UMF Calpulalpan,"5,330",No aplica,No aplica
+U_ISSSTE_882,TLIST000030,029-204-03,UMF Huamantla,"10,682",No aplica,No aplica
+U_ISSSTE_883,TLIST000054,029-204-04,UMF Zacatelco,"28,686",No aplica,No aplica
+U_ISSSTE_884,TLIST000066,029-205-00,CMF Tlaxcala,"97,280",No aplica,No aplica
+U_ISSSTE_885,VZIST000120,030-204-00,CH Xalapa,"116,112","154,609",No aplica
+U_ISSSTE_886,VZIST000050,030-204-01,UMF Coatepec,"9,533",No aplica,No aplica
+U_ISSSTE_887,VZIST000202,030-204-02,UMF Perote,"7,780",No aplica,No aplica
+U_ISSSTE_888,VZIST000470,030-204-03,CAF Rinconada,"2,479",No aplica,No aplica
+U_ISSSTE_889,VZIST000593,030-204-04,CAF Xico,"3,624",No aplica,No aplica
+U_ISSSTE_890,VZIST000540,030-204-06,CAF Inmecafé,"8,886",No aplica,No aplica
+U_ISSSTE_891,VZIST000552,030-204-07,CAF UH. FOVISSSTE No. 2 Xalapa,"1,971",No aplica,No aplica
+U_ISSSTE_892,VZIST000564,030-204-08,CMCT Secretaría de Educación del Estado de Veracruz-SEP,No disponible,No disponible,No disponible
+U_ISSSTE_893,VZIST000576,030-204-09,CMCT SNTE (Veracruz),No disponible,No disponible,No disponible
+U_ISSSTE_894,VZIST000330,030-204-10,CAF Altotonga,"2,664",No aplica,No aplica
+U_ISSSTE_895,VZIST000354,030-204-11,CAF Atzalan,475,No aplica,No aplica
+U_ISSSTE_896,VZIST000424,030-206-00,CMFEQ Córdoba,"33,006","33,006",No aplica
+U_ISSSTE_897,VZIST000506,030-206-01,UMF Huatusco de Chicuéllar,"4,835",No aplica,No aplica
+U_ISSSTE_898,VZIST000733,030-206-02,CAF Tezonapa,"1,826",No aplica,No aplica
+U_ISSSTE_899,VZIST000663,030-206-04,CAF Paso del Macho,977,No aplica,No aplica
+U_ISSSTE_900,VZIST000272,030-206-05,UMF Tierra Blanca,"8,660",No aplica,No aplica
+U_ISSSTE_901,VZIST000173,030-207-00,CH Orizaba,"52,679","72,889",No aplica
+U_ISSSTE_902,VZIST000313,030-207-02,UMF Zongolica,"3,912",No aplica,No aplica
+U_ISSSTE_903,VZIST000296,030-208-00,CH Tuxpan,"25,141","36,944",No aplica
+U_ISSSTE_904,VZIST000716,030-208-01,CAF Tamiahua,990,No aplica,No aplica
+U_ISSSTE_905,VZIST000774,030-208-02,CAF UH. FOVISSSTE No. 1 Tuxpan,816,No aplica,No aplica
+U_ISSSTE_906,VZIST000255,030-208-03,UMF Tantoyuca,"10,529",No aplica,No aplica
+U_ISSSTE_907,VZIST000366,030-208-04,CAF Benito Juárez,880,No aplica,No aplica
+U_ISSSTE_908,VZIST000091,030-208-05,UMF Chicontepec de Tejeda,"3,781",No aplica,No aplica
+U_ISSSTE_909,VZIST000675,030-208-06,CAF Platón Sánchez,"1,085",No aplica,No aplica
+U_ISSSTE_910,VZIST000721,030-208-07,CAF Tempoal de Sánchez,"1,909",No aplica,No aplica
+U_ISSSTE_911,VZIST000045,030-208-08,UMF Cerro Azul,"6,216",No aplica,No aplica
+U_ISSSTE_912,VZIST000864,030-208-09,UMF Naranjos,"7,523",No aplica,No aplica
+U_ISSSTE_913,VZIST000646,030-208-10,CAF Ozuluama,884,No aplica,No aplica
+U_ISSSTE_914,VZIST000185,030-208-11,UMF Pánuco,"8,044",No aplica,No aplica
+U_ISSSTE_915,VZIST000844,030-208-12,CAF El Higo,"1,609",No aplica,No aplica
+U_ISSSTE_916,VZIST000680,030-208-13,CAF Cd. Cuauhtémoc,636,No aplica,No aplica
+U_ISSSTE_917,VZIST000226,030-209-00,CH Poza Rica de Hidalgo,"38,446","93,960",No aplica
+U_ISSSTE_918,VZIST000651,030-209-01,UMF Álamo,"4,864",No aplica,No aplica
+U_ISSSTE_919,VZIST000400,030-209-02,CAF Cazones de Herrera,"1,798",No aplica,No aplica
+U_ISSSTE_920,VZIST000453,030-209-03,CAF Coyutla,"1,859",No aplica,No aplica
+U_ISSSTE_921,VZIST000103,030-209-05,UMF Gutiérrez Zamora,"3,008",No aplica,No aplica
+U_ISSSTE_922,VZIST000115,030-209-06,UMF Huayacocotla,"1,510",No aplica,No aplica
+U_ISSSTE_923,VZIST000535,030-209-07,CAF Ixhuatlán de Madero,"3,932",No aplica,No aplica
+U_ISSSTE_924,VZIST000190,030-209-09,UMF Papantla,"13,453",No aplica,No aplica
+U_ISSSTE_925,VZIST000086,030-209-11,UMF Cosamaloapan de Carpio,"8,216",No aplica,No aplica
+U_ISSSTE_926,VZIST000074,030-209-12,UMF Cd. Miguel Alemán,"3,455",No aplica,No aplica
+U_ISSSTE_927,VZIST000062,030-210-00,CH Coatzacoalcos,"27,242","84,275",No aplica
+U_ISSSTE_928,VZIST000832,030-210-01,CAF Agua Dulce,"2,558",No aplica,No aplica
+U_ISSSTE_929,VZIST000412,030-210-02,CAF UH. FOVISSSTE No. 3 Coatzacoalcos,"1,287",No aplica,No aplica
+U_ISSSTE_930,VZIST000465,030-210-03,CAF Las Choapas,"5,409",No aplica,No aplica
+U_ISSSTE_931,VZIST000231,030-213-00,CMF San Andrés Tuxtla,"10,975",No aplica,No aplica
+U_ISSSTE_932,VZIST000395,030-213-01,CAF Catemaco,"2,971",No aplica,No aplica
+U_ISSSTE_933,VZIST000511,030-213-02,CAF Juan Díaz Covarrubias,"1,910",No aplica,No aplica
+U_ISSSTE_934,VZIST000605,030-213-03,CAF Juan Rodríguez Clara,"1,648",No aplica,No aplica
+U_ISSSTE_935,VZIST000132,030-213-04,UMF Lerdo de Tejada,"2,857",No aplica,No aplica
+U_ISSSTE_936,VZIST000214,030-213-05,UMF Playa Vicente,"2,474",No aplica,No aplica
+U_ISSSTE_937,VZIST000243,030-213-06,UMF Santiago Tuxtla,"2,727",No aplica,No aplica
+U_ISSSTE_938,VZIST000260,030-213-07,UMF Villa Azueta,"1,046",No aplica,No aplica
+U_ISSSTE_939,VZIST000523,030-213-08,CAF Isla,"2,135",No aplica,No aplica
+U_ISSSTE_940,VZIST000156,030-214-00,CMF Minatitlán,"19,589",No aplica,No aplica
+U_ISSSTE_941,VZIST000436,030-214-01,CAF Cosoleacaque,"5,829",No aplica,No aplica
+U_ISSSTE_942,VZIST000494,030-214-02,CAF Hidalgotitlán,309,No aplica,No aplica
+U_ISSSTE_943,VZIST000581,030-214-03,CAF Jáltipan de Morelos,"2,722",No aplica,No aplica
+U_ISSSTE_944,VZIST000856,030-214-04,CAF Tatahuicapan,"3,812",No aplica,No aplica
+U_ISSSTE_945,VZIST000144,030-216-00,CMF Martínez de la Torre,"16,159",No aplica,No aplica
+U_ISSSTE_946,VZIST000161,030-216-03,UMF Misantla,"6,585",No aplica,No aplica
+U_ISSSTE_947,VZIST000622,030-216-04,CAF Nautla,"1,088",No aplica,No aplica
+U_ISSSTE_948,VZIST000284,030-216-05,UMF Tlapacoyan,"2,768",No aplica,No aplica
+U_ISSSTE_949,VZIST000791,030-216-06,CAF Vega de Alatorre,"1,085",No aplica,No aplica
+U_ISSSTE_950,VZIST000016,030-220-00,CMF Acayucan,"14,302",No aplica,No aplica
+U_ISSSTE_951,VZIST000325,030-220-03,CAF La Laguna,572,No aplica,No aplica
+U_ISSSTE_952,VZIST000692,030-220-04,CAF San Juan Evangelista,644,No aplica,No aplica
+U_ISSSTE_953,VZIST000820,030-223-00,CMF Heroica de Veracruz (Coyol),"79,655",No aplica,No aplica
+U_ISSSTE_954,VZIST000021,030-223-01,UMF Alvarado,"3,828",No aplica,No aplica
+U_ISSSTE_955,VZIST000441,030-223-02,CAF La Capilla,248,No aplica,No aplica
+U_ISSSTE_956,VZIST000762,030-223-03,CAF Piedras Negras,"2,254",No aplica,No aplica
+U_ISSSTE_957,VZIST000704,030-223-04,CAF Soledad de Doblado,"1,880",No aplica,No aplica
+U_ISSSTE_958,VZIST000750,030-223-05,CAF Tlacotalpan,"1,289",No aplica,No aplica
+U_ISSSTE_959,VZIST000033,030-223-06,UMF Cd. José Cardel,"4,240",No aplica,No aplica
+U_ISSSTE_960,VZIST000786,030-223-07,CAF Zempoala,"1,804",No aplica,No aplica
+U_ISSSTE_961,VZIST000610,030-223-08,CAF Paso del Toro,"2,645",No aplica,No aplica
+U_ISSSTE_962,VZIST000803,030-223-10,CAF UH. FOVISSSTE Estatuto Jurídico,"3,788",No aplica,No aplica
+U_ISSSTE_963,VZIST000815,030-223-11,CAF UH. FOVISSSTE Las Hortalizas,"14,739",No aplica,No aplica
+U_ISSSTE_964,VZIST000371,030-223-12,CAF UH. FOVISSSTE Floresta,"3,153",No aplica,No aplica
+U_ISSSTE_965,YNIST000112,031-201-00,CMFEQ Mérida (Col. Lindavista),"138,744","138,744",No aplica
+U_ISSSTE_966,YNIST000136,031-201-01,UMF UHF. San Carlos,"7,937",No aplica,No aplica
+U_ISSSTE_967,YNIST000071,031-201-02,UMF Progreso,"4,058",No aplica,No aplica
+U_ISSSTE_968,YNIST000013,031-201-03,UMF Dzidzantún,"5,187",No aplica,No aplica
+U_ISSSTE_969,YNIST000025,031-201-05,UMF Izamal,"3,237",No aplica,No aplica
+U_ISSSTE_970,YNIST000124,031-201-06,UMF Maxcanú,"3,464",No aplica,No aplica
+U_ISSSTE_971,YNIST000042,031-201-07,UMF Motul de Felipe Carrillo Puerto,"3,791",No aplica,No aplica
+U_ISSSTE_972,YNIST000182,031-201-08,UMF Muna de Leopoldo Arana Cabrera,"1,559",No aplica,No aplica
+U_ISSSTE_973,YNIST000054,031-201-09,UMF Oxkutzcab,"3,067",No aplica,No aplica
+U_ISSSTE_974,YNIST000066,031-201-10,UMF Peto,"3,818",No aplica,No aplica
+U_ISSSTE_975,YNIST000083,031-201-11,UMF Tekax de Álvaro Obregón,"6,786",No aplica,No aplica
+U_ISSSTE_976,YNIST000095,031-201-12,UMF Ticul,"8,907",No aplica,No aplica
+U_ISSSTE_977,YNIST000165,031-201-13,UMF Tizimín,"7,462",No aplica,No aplica
+U_ISSSTE_978,YNIST000153,031-201-14,CAF Tixkokob,"2,984",No aplica,No aplica
+U_ISSSTE_979,YNIST000100,031-201-15,UMF Valladolid,"15,143",No aplica,No aplica
+U_ISSSTE_980,YNIST000170,031-204-00,CH Mérida,No aplica,"77,400",No aplica
+U_ISSSTE_981,ZSIST000160,032-204-00,HG Zacatecas,No aplica,"178,674",No aplica
+U_ISSSTE_982,ZSIST000015,032-204-02,UMF Víctor Calera Rosales,"2,320",No aplica,No aplica
+U_ISSSTE_983,ZSIST000020,032-204-04,UMF Concepción del Oro,"1,215",No aplica,No aplica
+U_ISSSTE_984,ZSIST000196,032-204-08,CAF Estancia de Animas,"1,956",No aplica,No aplica
+U_ISSSTE_985,ZSIST000056,032-204-09,UMF Jalpa,"3,290",No aplica,No aplica
+U_ISSSTE_986,ZSIST000061,032-204-10,UMF Jerez,"9,227",No aplica,No aplica
+U_ISSSTE_987,ZSIST000085,032-204-12,UMF Juchipila,"3,576",No aplica,No aplica
+U_ISSSTE_988,ZSIST000090,032-204-13,UMF Loreto,"10,726",No aplica,No aplica
+U_ISSSTE_989,ZSIST000201,032-204-14,CAF Luis Moya,816,No aplica,No aplica
+U_ISSSTE_990,ZSIST000213,032-204-15,CAF Monte Escobedo,336,No aplica,No aplica
+U_ISSSTE_991,ZSIST000102,032-204-17,UMF Ojocaliente,"4,124",No aplica,No aplica
+U_ISSSTE_992,ZSIST000114,032-204-18,UMF Pinos,"5,189",No aplica,No aplica
+U_ISSSTE_993,ZSIST000225,032-204-22,CAF Tabasco,"1,404",No aplica,No aplica
+U_ISSSTE_994,PENDIENTE,032-204-23,CAF Teúl de González Ortega,945,No aplica,No aplica
+U_ISSSTE_995,ZSIST000143,032-204-24,UMF Tlaltenango de Sánchez Román,"3,804",No aplica,No aplica
+U_ISSSTE_996,ZSIST000184,032-204-25,UMF Hacienda Troncoso,"1,322",No aplica,No aplica
+U_ISSSTE_997,ZSIST000324,032-204-29,CAF Villanueva,"1,669",No aplica,No aplica
+U_ISSSTE_998,ZSIST000266,032-204-33,CAF Cd. Cuauhtémoc,873,No aplica,No aplica
+U_ISSSTE_999,ZSIST000353,032-204-34,UMF Nochistlán,"2,946",No aplica,No aplica
+U_ISSSTE_1000,ZSIST000271,032-204-40,CAF Villa García,"1,390",No aplica,No aplica
+U_ISSSTE_1001,ZSIST000032,032-205-00,CH Fresnillo,"25,891","50,981",No aplica
+U_ISSSTE_1002,ZSIST000394,032-205-01,CAF Cañitas de Felipe Pescador,586,No aplica,No aplica
+U_ISSSTE_1003,ZSIST000300,032-205-06,CAF Chalchihuites,738,No aplica,No aplica
+U_ISSSTE_1004,ZSIST000073,032-205-11,UMF Juan Aldama,"3,853",No aplica,No aplica
+U_ISSSTE_1005,ZSIST000312,032-205-16,CAF Nieves,"2,499",No aplica,No aplica
+U_ISSSTE_1006,ZSIST000126,032-205-19,UMF Río Grande,"8,573",No aplica,No aplica
+U_ISSSTE_1007,ZSIST000365,032-205-20,CAF Saín Alto,"1,347",No aplica,No aplica
+U_ISSSTE_1008,ZSIST000131,032-205-21,UMF Sombrerete,"4,118",No aplica,No aplica
+U_ISSSTE_1009,ZSIST000155,032-205-26,UMF Valparaíso,"3,376",No aplica,No aplica
+U_ISSSTE_1010,ZSIST000044,032-206-00,CMF Guadalupe,"56,262",No aplica,No aplica
+U_ISSSTE_1011,ZSIST000370,032-207-00,CMF Zacatecas,"57,888",No aplica,No aplica
+U_ISSSTE_1012,SLIST000085,033-203-00,"HR Dr. M.Cárdenas de la Vega, Culiacán",No aplica,"273,040","1,268,444"
+U_ISSSTE_1013,NLIST000105,035-203-00,HR Monterrey,No aplica,No aplica,"904,479"
+U_ISSSTE_1014,PLIST000101,036-203-00,HR Puebla,No aplica,"64,396","634,332"
+U_ISSSTE_1015,GTIST000091,037-203-00,HR León,No aplica,"13,867","533,225"
+U_ISSSTE_1016,YNIST000030,038-203-00,"HR ""Elvia Carrillo Puerto"", Mérida",No aplica,No aplica,"1,229,799"
+U_ISSSTE_1017,OCIST000112,039-203-00,"HR Presidente Benito Juárez, Oax.",No aplica,No aplica,"440,746"
+U_ISSSTE_1018,MCIST000425,042-203-00,HR Bicentenario de la Independencia,No aplica,"336,077","927,448"
+U_ISSSTE_1019,MSIST000293,043-203-00,HR Centenario de la Revolución Mexicana,No aplica,No aplica,"415,406"
+U_ISSSTE_1020,MNIST000120,044-203-00,HR Morelia,No aplica,"240,977","580,436"
+U_ISSSTE_1021,VZIST000301,045-203-00,HR Veracruz,No aplica,"149,179","687,028"
+U_ISSSTE_1022,GRIST000520,046-203-00,HR Acapulco,No aplica,"191,203","525,490"
+U_ISSSTE_1023,CLIST000350,047-203-00,HR Torreón,No aplica,No aplica,"922,481"
+U_ISSSTE_1024,JCIST000955,048-203-00,HR Tlajomulco de Zúñiga,No aplica,No aplica,"1,523,332"
+U_ISSSTE_1025,DFIST000090,090-201-00,HR Primero de Octubre,No aplica,"213,622","1,025,226"
+U_ISSSTE_1026,DFIST000073,091-205-00,CMF Gustavo A. Madero,"38,415",No aplica,No aplica
+U_ISSSTE_1027,DFIST000621,091-205-01,CMCT IPN-CIEA,No disponible,No disponible,No disponible
+U_ISSSTE_1028,DFIST000085,091-206-00,CMF Aragón,"78,344",No aplica,No aplica
+U_ISSSTE_1029,DFIST000645,091-206-02,CMCT No. 61 SAGARPA-OCAVM (CONAGUA),No disponible,No disponible,No disponible
+U_ISSSTE_1030,DFIST000370,091-207-00,CMF Guadalupe,"42,453",No aplica,No aplica
+U_ISSSTE_1031,DFIST000102,091-208-00,CEQ Centro de Cirugía Ambulatoria 1º de Octubre,No disponible,No disponible,No disponible
+U_ISSSTE_1032,DFIST000481,091-209-00,CE Centro de Apoyo Diagnóstico San Rafael,No disponible,No disponible,No disponible
+U_ISSSTE_1033,DFIST000341,091-210-00,CE Indianilla,No aplica,"119,494",No aplica
+U_ISSSTE_1034,DFIST000382,091-211-00,CMF Cinco de Febrero,"10,498",No aplica,No aplica
+U_ISSSTE_1035,DFIST000394,091-212-00,CMF Juárez,"33,849",No aplica,No aplica
+U_ISSSTE_1036,DFIST000785,091-212-03,CMCT No. 9 Junta de Conciliación y Arbitraje,No disponible,No disponible,No disponible
+U_ISSSTE_1037,DFIST000790,091-212-04,CMCT No. 19 SEGOB,No disponible,No disponible,No disponible
+U_ISSSTE_1038,DFIST000802,091-212-05,CMCT No. 22 COFAA-IPN,No disponible,No disponible,No disponible
+U_ISSSTE_1039,DFIST000406,091-213-00,CMF San Antonio Abad,"31,218",No aplica,No aplica
+U_ISSSTE_1040,DFIST000411,091-214-00,"CMF Dr. Javier Domínguez Estrada, Chapultepec","25,230",No aplica,No aplica
+U_ISSSTE_1041,DFIST000983,091-214-04,CMCT No. 50 SAGARPA-SIAP,No disponible,No disponible,No disponible
+U_ISSSTE_1042,DFIST000843,091-214-05,CMCT No. 55 PROFECO,No disponible,No disponible,No disponible
+U_ISSSTE_1043,DFIST001041,091-214-06,CMCT Presidencia (OPR),No disponible,No disponible,No disponible
+U_ISSSTE_1044,PENDIENTE,091-214-08,CMCT ISSSTE-DIRI,No disponible,No disponible,No disponible
+U_ISSSTE_1045,DFIST000423,091-216-00,CMF Peralvillo,"20,136",No aplica,No aplica
+U_ISSSTE_1046,DFIST000855,091-216-01,CMCT No. 20 SRE,No disponible,No disponible,No disponible
+U_ISSSTE_1047,PENDIENTE,091-216-02,CMCT SEGOB-Talleres Gráficos de México,No disponible,No disponible,No disponible
+U_ISSSTE_1048,DFIST000435,091-217-00,CMF Guerrero,"34,274",No aplica,No aplica
+U_ISSSTE_1049,DFIST000336,091-217-01,CMCT No. 51 ISSSTE-Dirección General,No disponible,No disponible,No disponible
+U_ISSSTE_1050,DFIST000860,091-217-02,CMCT SHCP Complejo Hidalgo No. 1,No disponible,No disponible,No disponible
+U_ISSSTE_1051,DFIST000872,091-217-03,CMCT Fomento Deportivo ISSSTE (Oficina de Represantación Regional Zona Norte CDMX),No disponible,No disponible,No disponible
+U_ISSSTE_1052,DFIST000884,091-217-04,CMCT Sindicato de SHCP,No disponible,No disponible,No disponible
+U_ISSSTE_1053,DFIST000896,091-217-05,CMCT SHCP Complejo Hidalgo No. 2,No disponible,No disponible,No disponible
+U_ISSSTE_1054,DFIST000901,091-217-06,CMCT SHCP-SAT (Antes Caballito),No disponible,No disponible,No disponible
+U_ISSSTE_1055,DFIST000440,091-218-00,CMF Santa María,"31,927",No aplica,No aplica
+U_ISSSTE_1056,DFIST000913,091-218-02,CMCT No. 28 SENASICA-SAGARPA,No disponible,No disponible,No disponible
+U_ISSSTE_1057,DFIST000925,091-218-03,CMCT No. 30 Sindicato de SAGARPA,No disponible,No disponible,No disponible
+U_ISSSTE_1058,DFIST000930,091-218-04,CMCT FSTSE,No disponible,No disponible,No disponible
+U_ISSSTE_1059,DFIST000942,091-218-05,CMCT Sindicato de SEMARNAT,No disponible,No disponible,No disponible
+U_ISSSTE_1060,DFIST000995,091-218-06,CMCT SRE (Tlatelolco),No disponible,No disponible,No disponible
+U_ISSSTE_1061,DFIST000452,091-219-00,CMF Perú,"12,002",No aplica,No aplica
+U_ISSSTE_1062,DFIST000954,091-219-01,CMCT No. 23 SEP,No disponible,No disponible,No disponible
+U_ISSSTE_1063,DFIST000971,091-219-09,CMCT Palacio Nacional,No disponible,No disponible,No disponible
+U_ISSSTE_1064,DFIST000353,091-220-00,CE Dentales Dr. Honorato Villa Acosta,No disponible,No disponible,No disponible
+U_ISSSTE_1065,DFIST000365,091-221-00,CE Neuropsiquiatría,No disponible,No disponible,No disponible
+U_ISSSTE_1066,DFIST000546,092-204-00,CMF Balbuena,"76,084",No aplica,No aplica
+U_ISSSTE_1067,DFIST000551,092-205-00,CMF Morelos,"34,158",No aplica,No aplica
+U_ISSSTE_1068,DFIST000114,092-206-00,CMF Oriente,"102,051",No aplica,No aplica
+U_ISSSTE_1069,DFIST000563,092-207-00,CMF Moctezuma,"70,071",No aplica,No aplica
+U_ISSSTE_1070,DFIST000126,092-209-00,CMF Iztapalapa I,"69,122",No aplica,No aplica
+U_ISSSTE_1071,DFIST000155,092-210-00,HG Gral. José Maria Morelos y Pavón,No aplica,"288,087",No aplica
+U_ISSSTE_1072,DFIST000131,092-211-00,CMF Iztapalapa II,"92,769",No aplica,No aplica
+U_ISSSTE_1073,DFIST000143,092-212-00,CMF Ermita Zaragoza,"78,640",No aplica,No aplica
+U_ISSSTE_1074,DFIST000650,092-214-00,CEQ Leonardo y Nicolás Bravo,No aplica,"266,120",No aplica
+U_ISSSTE_1075,DFIST000686,093-204-00,CE Medicina Física y Rehabilitación,No disponible,No disponible,No disponible
+U_ISSSTE_1076,DFIST000271,093-205-00,CMF Narvarte,"60,911",No aplica,No aplica
+U_ISSSTE_1077,DFIST000283,093-206-00,CMF Del Valle,"56,752",No aplica,No aplica
+U_ISSSTE_1078,DFIST000715,093-206-01,CAF Centro Urbano Pdte. Miguel Alemán,448,No aplica,No aplica
+U_ISSSTE_1079,DFIST000720,093-206-02,CMCT SHCP-PFF,No disponible,No disponible,No disponible
+U_ISSSTE_1080,PENDIENTE,093-206-03,CMCT SENER,No disponible,No disponible,No disponible
+U_ISSSTE_1081,PENDIENTE,093-206-09,CMCT SADER,No disponible,No disponible,No disponible
+U_ISSSTE_1082,DFIST000032,093-207-00,CEQ Churubusco,No aplica,"241,135",No aplica
+U_ISSSTE_1083,DFIST000044,093-208-00,CMF Dr. Ignacio Chávez,"107,384",No aplica,No aplica
+U_ISSSTE_1084,DFIST000580,093-208-01,CMCT No. 65 SHCP,No disponible,No disponible,No disponible
+U_ISSSTE_1085,PENDIENTE,093-208-02,CMCT SICT,No disponible,No disponible,No disponible
+U_ISSSTE_1086,DFIST000230,093-209-00,CMF Tlalpan,"71,664",No aplica,No aplica
+U_ISSSTE_1087,DFIST000225,093-209-01,CMCT No. 17 ISSSTE (San Fernando 547),No disponible,No disponible,No disponible
+U_ISSSTE_1088,PENDIENTE,093-209-05,CMCT Centro Cultural Ollin Yoliztli,No disponible,No disponible,No disponible
+U_ISSSTE_1089,DFIST000056,093-210-00,CMF División del Norte,"79,326",No aplica,No aplica
+U_ISSSTE_1090,DFIST000295,093-211-00,CMF Ermita,"85,591",No aplica,No aplica
+U_ISSSTE_1091,DFIST000061,093-212-00,CMF Coyoacán,"73,689",No aplica,No aplica
+U_ISSSTE_1092,DFIST000756,093-212-01,CMCT No. 27 DIF,No disponible,No disponible,No disponible
+U_ISSSTE_1093,PENDIENTE,093-212-02,CMCT Transparencia para el Pueblo (antes INAI),No disponible,No disponible,No disponible
+U_ISSSTE_1094,DFIST000592,093-212-03,CAF UHF. Integración Latinoamericana,"2,081",No aplica,No aplica
+U_ISSSTE_1095,PENDIENTE,093-212-04,CMCT UNAM,No disponible,No disponible,No disponible
+U_ISSSTE_1096,DFIST000254,093-213-00,CMF Xochimilco,"126,033",No aplica,No aplica
+U_ISSSTE_1097,DFIST000172,093-214-00,CMF Milpa Alta,"70,067",No aplica,No aplica
+U_ISSSTE_1098,DFIST000324,093-215-00,HG Dr. Darío Fernández Fierro,No aplica,"330,829",No aplica
+U_ISSSTE_1099,DFIST000242,093-217-00,CMF Fuentes Brotantes,"26,217",No aplica,No aplica
+U_ISSSTE_1100,DFIST000213,093-218-00,CE Clidda,No disponible,No disponible,No disponible
+U_ISSSTE_1101,DFIST000184,093-219-00,CMF Villa Álvaro Obregón,"115,285",No aplica,No aplica
+U_ISSSTE_1102,DFIST000662,093-219-01,CMCT SABG,No disponible,No disponible,No disponible
+U_ISSSTE_1103,PENDIENTE,093-219-03,CMCT CNBV,No disponible,No disponible,No disponible
+U_ISSSTE_1104,PENDIENTE,093-219-04,CMCT Subdirección de Personal ISSSTE,No disponible,No disponible,No disponible
+U_ISSSTE_1105,PENDIENTE,093-219-05,CMCT IMSS-BIENESTAR,No disponible,No disponible,No disponible
+U_ISSSTE_1106,DFIST001053,093-220-00,HG Dra. Matilde Petra Montoya Lafragua,No aplica,"303,484",No aplica
+U_ISSSTE_1107,DFIST000015,094-204-00,CMF Cuitláhuac,"102,455",No aplica,No aplica
+U_ISSSTE_1108,DFIST000196,094-205-00,HG Dr. Fernando Quiroz Gutiérrez,No aplica,"165,113",No aplica
+U_ISSSTE_1109,DFIST000505,094-206-00,CMF Marina Nacional,"36,100",No aplica,No aplica
+U_ISSSTE_1110,DFIST000020,094-207-00,CMF Azcapotzalco,"58,564",No aplica,No aplica
+U_ISSSTE_1111,DFIST000510,094-208-00,CMF Legaria,"28,678",No aplica,No aplica
+U_ISSSTE_1112,DFIST000534,094-209-00,HG Tacuba,No aplica,"289,397",No aplica
+U_ISSSTE_1113,DFIST000493,094-211-00,CEQ Dr. Alberto Pisanty Ovadia,No disponible,No disponible,No disponible
+U_ISSSTE_1114,DFIST000522,094-212-00,CMF Observatorio,"37,026",No aplica,No aplica
+U_ISSSTE_1115,DFIST000616,094-212-05,CAF Cuajimalpa,"31,801",No aplica,No aplica
+U_ISSSTE_1116,DFIST000300,094-214-00,CMF Revolución,"71,056",No aplica,No aplica
+U_ISSSTE_1117,DFIST000831,094-214-01,CMCT No. 62 SHCP,No disponible,No disponible,No disponible
+U_ISSSTE_1118,PENDIENTE,094-214-02,CMCT Secretaría de las Mujeres,No disponible,No disponible,No disponible
+U_ISSSTE_1119,DFIST000312,096-201-00,CMN 20 de Noviembre,No disponible,No disponible,No disponible
+U_ISSSTE_1120,DFIST000160,097-201-00,HR Gral. Ignacio Zaragoza,No aplica,"379,454","933,661"
+U_ISSSTE_1121,DFIST000201,098-201-00,HR Lic. Adolfo López Mateos,No aplica,No aplica,"1,040,561"
