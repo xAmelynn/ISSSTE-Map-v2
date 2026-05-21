@@ -1610,3 +1610,231 @@ a:focus-visible {
     grid-column: 2 / -1;
   }
 }
+
+/* =========================================================
+   MODO APP EN MÓVIL
+   Mantiene escritorio igual y cambia solo pantallas <= 700px.
+   ========================================================= */
+
+.btn-filtros-movil,
+.overlay-movil {
+  display: none;
+}
+
+@media (max-width: 700px) {
+  .btn-header {
+    display: none;
+  }
+
+  .btn-filtros-movil {
+    position: absolute;
+    left: 12px;
+    top: 74px;
+    z-index: 975;
+
+    min-height: 44px;
+    padding: 0 14px;
+    border: none;
+    border-radius: 999px;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+
+    background: rgba(255, 255, 255, 0.97);
+    color: var(--vino);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.16);
+
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 0.86rem;
+    font-weight: 900;
+    cursor: pointer;
+  }
+
+  .btn-filtros-movil .icono-boton {
+    width: 18px;
+    height: 18px;
+    color: currentColor;
+  }
+
+  .overlay-movil {
+    position: fixed;
+    inset: 0;
+    z-index: 940;
+    background: rgba(0, 0, 0, 0.28);
+    display: block;
+  }
+
+  .overlay-movil[hidden] {
+    display: none !important;
+  }
+
+  .toolbar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 970;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+
+    max-height: min(78dvh, 620px);
+    padding: 18px 14px calc(16px + env(safe-area-inset-bottom));
+    border-radius: 22px 22px 0 0;
+    border-bottom: none;
+
+    transform: translateY(105%);
+    transition: transform 0.25s ease;
+    box-shadow: 0 -16px 36px rgba(0, 0, 0, 0.22);
+  }
+
+  .toolbar::before {
+    content: '';
+    grid-column: 1 / -1;
+    width: 44px;
+    height: 5px;
+    margin: -4px auto 2px;
+    border-radius: 999px;
+    background: #d7d7d7;
+  }
+
+  body.filtros-movil-abiertos .toolbar {
+    transform: translateY(0);
+  }
+
+  .contador-resultados {
+    order: -1;
+  }
+
+  .map-container {
+    height: auto;
+  }
+
+  .floating-tools {
+    position: fixed;
+    left: 10px;
+    right: 10px;
+    top: auto;
+    bottom: calc(10px + env(safe-area-inset-bottom));
+    z-index: 930;
+
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 8px;
+    pointer-events: none;
+  }
+
+  .floating-btn {
+    min-height: 54px;
+    width: 100%;
+    border-radius: 18px;
+    padding: 6px 4px;
+    flex-direction: column;
+    gap: 4px;
+    pointer-events: auto;
+  }
+
+  .floating-icon {
+    width: 24px;
+    height: 24px;
+  }
+
+  .floating-btn span:last-child {
+    display: inline;
+    font-size: 0.68rem;
+    line-height: 1.05;
+  }
+
+  body.filtros-movil-abiertos .floating-tools,
+  body.panel-movil-abierto .floating-tools {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .zoom-custom {
+    display: none;
+  }
+
+  .nearest-menu {
+    position: fixed;
+    left: 12px;
+    right: 12px;
+    top: auto;
+    bottom: calc(78px + env(safe-area-inset-bottom));
+    width: auto;
+    z-index: 980;
+
+    border-radius: 22px;
+    padding: 16px;
+  }
+
+  .nearest-menu p {
+    text-align: center;
+    font-size: 0.92rem;
+  }
+
+  .nearest-menu button {
+    min-height: 46px;
+  }
+
+  .panel {
+    position: fixed;
+    max-height: min(72dvh, 560px);
+    padding: 16px 16px calc(16px + env(safe-area-inset-bottom));
+    z-index: 960;
+    box-shadow: 0 -16px 36px rgba(0, 0, 0, 0.22);
+  }
+
+  .panel::before {
+    content: '';
+    display: block;
+    width: 44px;
+    height: 5px;
+    margin: -4px auto 12px;
+    border-radius: 999px;
+    background: #d7d7d7;
+  }
+
+  .panel-header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background: var(--blanco);
+  }
+
+  .panel-actions {
+    position: sticky;
+    bottom: 0;
+    padding-top: 10px;
+    background: linear-gradient(to top, var(--blanco) 82%, rgba(255,255,255,0));
+  }
+
+  .leaflet-control-scale {
+    margin-bottom: 78px !important;
+  }
+
+  body.filtros-movil-abiertos .btn-filtros-movil {
+    background: var(--vino);
+    color: #ffffff;
+  }
+}
+
+@media (max-width: 390px) {
+  .btn-filtros-movil {
+    top: 66px;
+    min-height: 40px;
+    font-size: 0.8rem;
+  }
+
+  .floating-tools {
+    left: 8px;
+    right: 8px;
+  }
+
+  .floating-btn {
+    min-height: 50px;
+  }
+}

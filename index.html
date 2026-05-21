@@ -29,8 +29,14 @@
     Encuentra la unidad más cercana a ti
     </button>
   </header>
+  <button id="btnFiltrosMovil" class="btn-filtros-movil" type="button" aria-expanded="false" aria-controls="toolbarFiltros">
+    <span class="icono-boton" style="--icon: url('assets/icons/filtro.svg');" aria-hidden="true"></span>
+    Filtros
+  </button>
 
-<section class="toolbar">
+  <div id="overlayMovil" class="overlay-movil" hidden></div>
+
+<section id="toolbarFiltros" class="toolbar">
 
   <div class="filtro-grupo">
     <label for="filtroEntidad">Entidad</label>

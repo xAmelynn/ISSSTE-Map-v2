@@ -86,6 +86,8 @@ const contadorResultados = document.getElementById('contadorResultados');
 const contadorTexto = document.getElementById('contadorTexto');
 const mensajeVacio = document.getElementById('mensajeVacio');
 const btnRestablecer = document.getElementById('btnRestablecer');
+const btnFiltrosMovil = document.getElementById('btnFiltrosMovil');
+const overlayMovil = document.getElementById('overlayMovil');
 // ======================
 // VARIABLES
 // ======================
@@ -105,11 +107,54 @@ let serviciosPorClave = new Map();
 let serviciosPorClues = new Map();
 
 // ======================
+// INTERFAZ RESPONSIVA
+// ======================
+
+function esPantallaMovil() {
+  return window.matchMedia('(max-width: 700px)').matches;
+}
+
+function abrirFiltrosMovil() {
+  if (!btnFiltrosMovil || !overlayMovil) return;
+
+  document.body.classList.add('filtros-movil-abiertos');
+  document.body.classList.remove('panel-movil-abierto');
+  btnFiltrosMovil.setAttribute('aria-expanded', 'true');
+  overlayMovil.hidden = false;
+
+  setTimeout(() => map.invalidateSize(), 260);
+}
+
+function cerrarFiltrosMovil() {
+  if (!btnFiltrosMovil || !overlayMovil) return;
+
+  document.body.classList.remove('filtros-movil-abiertos');
+  btnFiltrosMovil.setAttribute('aria-expanded', 'false');
+  overlayMovil.hidden = true;
+
+  setTimeout(() => map.invalidateSize(), 260);
+}
+
+function alternarFiltrosMovil() {
+  if (document.body.classList.contains('filtros-movil-abiertos')) {
+    cerrarFiltrosMovil();
+  } else {
+    cerrarFiltrosMovil();
+    abrirFiltrosMovil();
+    panel.classList.remove('activo');
+    document.body.classList.remove('panel-movil-abierto');
+    nearestMenu.hidden = true;
+  }
+}
+
+// ======================
 // CERRAR PANEL
 // ======================
 
 cerrarPanelBtn.addEventListener('click', () => {
   panel.classList.remove('activo');
+  document.body.classList.remove('panel-movil-abierto');
+  setTimeout(() => map.invalidateSize(), 260);
 });
 
 document
@@ -339,7 +384,13 @@ async function mostrarPanel(props) {
 
   renderServicios(servicios);
 
+  cerrarFiltrosMovil();
+  nearestMenu.hidden = true;
   panel.classList.add('activo');
+  if (esPantallaMovil()) {
+    document.body.classList.add('panel-movil-abierto');
+  }
+  setTimeout(() => map.invalidateSize(), 260);
 }
 
 // ======================
@@ -404,7 +455,7 @@ function poblarMunicipios() {
 // ======================
 
 function aplicarFiltros(opciones = {}) {
-  const { ajustarVista = true } = opciones;
+  const { ajustarVista = !esPantallaMovil() } = opciones;
 
   clusters.clearLayers();
 
@@ -521,9 +572,11 @@ function limpiarFiltros() {
   busqueda.value = '';
 
   panel.classList.remove('activo');
+  document.body.classList.remove('panel-movil-abierto');
 
-  aplicarFiltros();
+  aplicarFiltros({ ajustarVista: true });
 }
+
 
 // ======================
 // UNIDAD CERCANA
@@ -707,6 +760,9 @@ btnUbicacion.addEventListener('click', () => {
 });
 
 function alternarMenuUnidadCercana() {
+  cerrarFiltrosMovil();
+  panel.classList.remove('activo');
+  document.body.classList.remove('panel-movil-abierto');
   nearestMenu.hidden = !nearestMenu.hidden;
 }
 
@@ -727,7 +783,26 @@ document.addEventListener('click', event => {
   }
 });
 
-window.addEventListener('resize', ajustarMapaDespuesDeCambios);
+if (btnFiltrosMovil) {
+  btnFiltrosMovil.addEventListener('click', alternarFiltrosMovil);
+}
+
+if (overlayMovil) {
+  overlayMovil.addEventListener('click', () => {
+    cerrarFiltrosMovil();
+    nearestMenu.hidden = true;
+  });
+}
+
+window.addEventListener('resize', () => {
+  if (!esPantallaMovil()) {
+    cerrarFiltrosMovil();
+    document.body.classList.remove('panel-movil-abierto');
+    nearestMenu.hidden = true;
+  }
+
+  ajustarMapaDespuesDeCambios();
+});
 
 nearestMenu.querySelectorAll('button').forEach(button => {
   button.addEventListener('click', () => {
@@ -1124,7 +1199,7 @@ async function cargarGeojson() {
     datosGeojson = data;
 
     poblarFiltros();
-    aplicarFiltros();
+    aplicarFiltros({ ajustarVista: true });
 
     console.log('GeoJSON cargado correctamente');
   } catch (error) {
