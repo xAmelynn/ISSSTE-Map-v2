@@ -1,0 +1,1122 @@
+﻿id_unidad,clues,clave_presupuestal,nombre_corto,servicio_medicina_general,servicio_gineco_obstetria,servicio_pediatria,servicio_geriatria,servicio_oncologia,servicio_traumatologia_ortopedia,servicio_odontologia,servicio_urgencias,servicio_hemodialisis,servicio_hemodinamia,servicio_quimioterapia,servicio_banco_sangre,servicio_rayos_x,servicio_quirofano,servicio_farmacia
+U_ISSSTE_01,ASIST000016,001-204-00,HG Aguascalientes,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_02,ASIST000021,001-205-00,CMF Aguascalientes,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_03,ASIST000050,001-205-01,UMF Calvillo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_04,ASIST000033,001-205-03,UMF Pabellón de Arteaga,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_05,ASIST000045,001-205-04,UMF Rincón de Romos,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_06,ASIST000074,001-205-05,UMF Villa Juárez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_07,ASIST000103,001-205-08,CAF San José de Gracia,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_08,ASIST000115,001-205-09,CAF Cosío,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_09,ASIST000120,001-205-10,CAF Palo Alto,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_10,ASIST000131,001-205-11,CAF San Francisco de los Romo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_11,ASIST000062,001-206-00,CMF Ojocaliente,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_12,BCIST000040,002-204-00,"HG 5 de Diciembre, Mexicali",Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_13,BCIST000076,002-204-01,UMF Los Algodones,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_14,BCIST000052,002-204-02,CAF Estación Delta,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_15,BCIST000064,002-204-03,UMF San Felipe,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_16,BCIST000011,002-206-00,CH Ensenada,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_17,BCIST000023,002-206-02,CAF Isla de Cedros,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_18,BCIST000035,002-206-03,UMF San Quintín,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_19,BCIST000105,002-206-04,CAF San Vicente,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_20,BCIST000110,002-206-05,CAF Valle de la Trinidad,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_21,BCIST000122,002-206-08,CAF El Rosario,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_22,BCIST000146,002-208-00,CMF Mesa de Otay,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_23,BCIST000093,002-209-00,"HG Fray Junípero Serra, Tijuana",No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_24,BCIST000134,002-209-01,CAF Rosarito,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_25,BCIST000081,002-209-02,UMF Tecate,Sí,No,No,No,No,No,Sí,Sí,No,No,No,No,No,No,Sí
+U_ISSSTE_26,BSIST000014,003-205-00,CH Cd. Constitución,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_27,BSIST000113,003-205-01,UMF Loreto,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_28,BSIST000130,003-205-02,CAF Puerto Adolfo López Mateos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_29,BSIST000031,003-205-03,UMF Puerto San Carlos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_30,BSIST000166,003-205-04,CAF San Isidro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_31,BSIST000142,003-205-05,CAF San José de Comondú,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_32,BSIST000026,003-205-06,UMF Villa Insurgentes,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_33,BSIST000154,003-205-07,CAF Ignacio Zaragoza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_34,BSIST000043,003-206-00,CH Santa Rosalía,Sí,Sí,Sí,No,No,No,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_35,BSIST000171,003-206-01,CAF Bahía Asunción,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_36,BSIST000183,003-206-02,CAF Bahía Tortugas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_37,BSIST000055,003-206-03,UMF Guerrero Negro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_38,BSIST000195,003-206-04,CAF Mulegé,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_39,BSIST000200,003-206-05,CAF Punta Abreojos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_40,BSIST000212,003-206-06,CAF San Ignacio,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_41,BSIST000060,003-206-07,UMF Sebastián Vizcaíno,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_42,BSIST000330,003-207-00,HG La Paz,No,Sí,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_43,BSIST000270,003-207-02,CAF El Pescadero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_44,BSIST000265,003-207-03,"CAF UH. FOVISSSTE Catra, La Paz.",Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_45,BSIST000294,003-207-04,CAF La Ribera,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_46,BSIST000241,003-207-05,CAF Los Barriles,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_47,BSIST000306,003-207-06,CAF San Antonio,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_48,BSIST000282,003-207-07,CAF Miraflores,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_49,BSIST000236,003-207-09,CAF San Juan de los Planes,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_50,BSIST000311,003-207-10,CAF Santiago,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_51,BSIST000084,003-207-11,UMF Todos Santos,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_52,BSIST000224,003-207-12,"CAF UH. FOVISSSTE Cihuatán Costa Azul, La Paz",Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_53,BSIST000253,003-207-13,CAF Las Pocitas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_54,BSIST000101,003-208-00,CH San José del Cabo,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_55,BSIST000321,003-209-00,CMF La Paz,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_56,BSIST000352,003-211-00,CH Cabo San Lucas,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_57,CCIST000021,004-204-00,"CH Dr. Patricio Trueba Regil, Camp.",Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_58,CCIST000016,004-204-01,UMF Calkiní,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_59,CCIST000086,004-204-02,CAF Candelaria,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_60,CCIST000045,004-204-03,UMF Champotón,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_61,CCIST000074,004-204-04,UMF Escárcega,Sí,No,No,No,No,No,Sí,Sí,No,No,No,No,Sí,No,Sí
+U_ISSSTE_62,CCIST000050,004-204-05,UMF Hecelchakán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_63,CCIST000062,004-204-06,UMF Hopelchén,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_64,CCIST000091,004-204-07,CAF Seybaplaya,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_65,CCIST000115,004-204-08,CAF Tenabo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_66,CCIST000033,004-205-00,CH Cd. del Carmen,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_67,CCIST000103,004-205-01,CAF Palizada,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_68,CLIST000065,005-206-00,CH Monclova,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_69,CLIST000210,005-206-01,CAF Castaños,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_70,CLIST000036,005-206-02,UMF Cuatrociénegas de Carranza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_71,CLIST000321,005-206-03,CAF La Esmeralda,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_72,CLIST000251,005-206-04,CAF Ocampo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_73,CLIST000304,005-206-05,CAF San Buenaventura,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_74,CLIST000094,005-207-00,CH Piedras Negras,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_75,CLIST000024,005-207-01,UMF Cd. Allende,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_76,CLIST000135,005-207-03,UMF Zaragoza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_77,CLIST000012,005-208-00,CMF Cd. Acuña,Sí,Sí,Sí,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_78,CLIST000193,005-209-00,"CH Dr. Francisco Z Cruz, Nueva Rosita",Sí,Sí,Sí,No,No,No,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_79,CLIST000070,005-209-01,UMF Cd. Melchor Muzquiz,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_80,CLIST000181,005-210-00,"CH Dra. Esperanza Flores Alvarado, Cd. Sabinas",Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_81,CLIST000111,005-211-00,CH San Pedro de las Colonias,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_82,CLIST000041,005-211-01,UMF Francisco I. Madero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_83,CLIST000140,005-216-00,CMFEQ Torreón,Sí,No,No,No,No,Sí,Sí,No,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_84,CLIST000053,005-216-01,UMF Matamoros,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_85,CLIST000333,005-220-00,HG Saltillo,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_86,CLIST000222,005-220-01,CAF General Cepeda,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_87,CLIST000275,005-220-02,CAF UH. FOVISSSTE Chapultepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_88,CLIST000292,005-220-05,CAF UHF. Lomas del Bosque,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_89,CLIST000263,005-220-06,CAF Ramos Arizpe,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_90,CLIST000082,005-220-07,UMF Parras de la Fuente,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_91,CLIST000106,005-221-00,CMF Saltillo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_92,CMIST000010,006-204-00,"CH Dr. Miguel Trejo Ochoa, Colima",Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,No,Sí,Sí,Sí
+U_ISSSTE_93,CMIST000046,006-204-01,CAF Armería,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_94,CMIST000051,006-204-02,CAF Minatitlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_95,CMIST000034,006-204-03,UMF Tecomán,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_96,CMIST000022,006-205-00,CH Manzanillo,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_97,CSIST000251,007-204-00,"HG Dr. Belisario Domínguez, Tuxtla Gutiérrez.",No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,No,Sí,No,Sí,Sí,Sí
+U_ISSSTE_98,CSIST000210,007-205-00,"CH Dr. Roberto Nettel F., Tapachula",Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_99,CSIST000041,007-205-01,UMF Cacahoatán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_100,CSIST000205,007-205-02,UMF Cd. Hidalgo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_101,CSIST000106,007-205-03,UMF Huixtla,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_102,CSIST000123,007-205-04,UMF Mapastepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_103,CSIST000135,007-205-05,UMF Motozintla de Mendoza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_104,CSIST000012,007-205-06,UMF Acapetahua,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_105,CSIST000403,007-205-07,CAF Pijijiapan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_106,CSIST000193,007-206-00,CH San Cristóbal de las Casas,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_107,CSIST000140,007-206-01,UMF Ocosingo,Sí,No,No,No,No,No,Sí,Sí,No,No,No,No,Sí,No,Sí
+U_ISSSTE_108,CSIST000275,007-206-03,UMF Yajalón,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_109,CSIST000181,007-206-04,UMF Salto de Agua,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_110,CSIST000350,007-206-05,CAF Altamirano,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_111,CSIST000065,007-207-00,CH Comitán de Domínguez,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_112,CSIST000094,007-207-01,UMF Frontera Comalapa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_113,CSIST000391,007-207-02,UMF Las Margaritas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_114,CSIST000246,007-208-00,CMF Tuxtla Gutiérrez,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_115,CSIST000024,007-208-01,UMF Arriaga,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_116,CSIST000036,007-208-02,UMF Bochil,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_117,CSIST000053,007-208-03,UMF Cintalapa de Figueroa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_118,CSIST000070,007-208-05,UMF Copainalá,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_119,CSIST000082,007-208-06,UMF Chiapa de Corzo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_120,CSIST000111,007-208-08,UMF Jiquipilas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_121,CSIST000152,007-208-09,UMF Ocozocoautla de Espinosa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_122,CSIST000176,007-208-11,UMF Pichucalco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_123,CSIST000222,007-208-16,UMF Tapilula,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_124,CSIST000234,007-208-17,UMF Tonalá,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_125,CSIST000304,007-208-18,CAF Venustiano Carranza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_126,CSIST000263,007-208-20,UMF Villa Flores,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_127,CSIST000432,007-208-22,CMCT Palacio Federal (Tuxtla Gutiérrez),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_128,CSIST000444,007-208-23,CMCT SAGARPA,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_129,CSIST000456,007-208-24,CMCT Bienestar,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_130,CSIST000461,007-208-25,CMCT SECH (SEF),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_131,CSIST000321,007-208-26,CAF Reforma,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_132,CSIST000473,007-208-28,CAF UH. FOVISSSTE Paraíso,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_133,CSIST000420,007-208-30,CAF Simojovel,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_134,CSIST000362,007-208-32,CAF Berriozábal,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_135,CSIST000490,007-208-33,CAF Villa Corzo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_136,CSIST000514,007-211-00,CH Palenque ,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_137,CHIST000030,008-204-00,"HG Presidente Gral. Lázaro Cárdenas, Chihuahua",No,Sí,Sí,Sí,No,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_138,CHIST000310,008-204-01,CAF Dr. Belisario Domínguez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_139,CHIST000182,008-204-04,CAF Villa Aldama,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_140,CHIST000153,008-204-08,UMF Ojinaga,Sí,No,No,No,No,No,Sí,Sí,No,No,No,No,No,No,Sí
+U_ISSSTE_141,CHIST000112,008-205-00,HG Cd. Juárez,No,Sí,Sí,No,No,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_142,CHIST000515,008-206-00,CH Cd. Delicias,No,Sí,Sí,No,No,Sí,No,No,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_143,CHIST000095,008-207-00,CH Hidalgo del Parral,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_144,CHIST000223,008-207-01,CAF Balleza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_145,CHIST000334,008-207-03,CAF Guadalupe y Calvo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_146,CHIST000066,008-207-04,UMF Guachochi,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_147,CHIST000450,008-207-05,CAF San Francisco del Oro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_148,CHIST000462,008-207-06,CAF Santa Bárbara,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_149,CHIST000194,008-207-07,CAF Valle de Allende,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_150,CHIST000491,008-207-08,CAF Valle de Zaragoza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_151,CHIST000136,008-207-09,UMF Villa Matamoros,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_152,CHIST000100,008-207-13,UMF Cd. Jiménez,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,Sí
+U_ISSSTE_153,CHIST000025,008-210-00,CH Cd. Cuauhtémoc,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_154,CHIST000474,008-210-01,CAF Bahuichivo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_155,CHIST000404,008-210-03,CAF El Terrero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_156,CHIST000305,008-210-04,CAF Chínipas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_157,CHIST000240,008-210-06,CAF San Juanito,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_158,CHIST000392,008-210-09,CAF Matachí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_159,CHIST000071,008-210-10,UMF Adolfo López Mateos (La Junta),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_160,CHIST000083,008-210-11,UMF Cd. Guerrero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_161,CHIST000124,008-210-13,UMF Madera,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_162,CHIST000346,008-210-16,CAF Tomochi,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_163,PENDIENTE,008-210-17,CAF Gómez Farias,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_164,CHIST000416,008-210-18,CAF Óscar Soto Maynez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_165,CHIST000276,008-210-19,CAF Carichí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_166,CHIST000235,008-210-20,CAF Creel,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_167,CHIST000380,008-210-21,CAF El Largo Maderal,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_168,CHIST000486,008-210-23,CAF San Rafael Urique,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_169,CHIST000520,008-210-25,CAF Témoris,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_170,CHIST000363,008-211-00,CMF Cd. Juárez,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_171,CHIST000211,008-211-01,CAF Ascensión,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_172,CHIST000445,008-211-03,CAF Praxedis G. Guerrero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_173,CHIST000206,008-211-04,CAF Gral. Rodrigo M. Quevedo (Palomas),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_174,CHIST000141,008-211-05,UMF Nuevo Casas Grandes,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_175,CHIST000170,008-211-06,CAF Villa Ahumada,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_176,CHIST000264,008-211-07,CAF Ricardo Flores Magón,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_177,CHIST000252,008-211-08,CAF Valle de San Buenaventura,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_178,CHIST000351,008-211-09,CAF Ignacio Zaragoza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_179,CHIST000054,008-213-00,CMF Cd. Delicias,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_180,CHIST000165,008-213-02,UMF Saucillo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_181,CHIST000013,008-213-03,UMF Cd. Camargo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_182,CHIST000293,008-217-00,CMF Chihuahua,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_183,DGIST000042,010-204-00,"HG Dr. Santiago Ramon y Cajal, Dgo.",No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_184,DGIST000346,010-205-00,CMF Cd. Lerdo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_185,DGIST000054,010-206-00,CH Gómez Palacio,No,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_186,DGIST000025,010-206-01,UMF Cuencamé,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_187,DGIST000136,010-206-03,UMF Rodeo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_188,DGIST000100,010-206-05,UMF Las Nieves,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_189,DGIST000071,010-206-06,UMF Mapimí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_190,DGIST000083,010-206-07,UMF Paso Nacional,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_191,DGIST000380,010-206-08,CAF Peñón Blanco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_192,DGIST000416,010-206-09,CAF San Juan de Guadalupe,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_193,DGIST000112,010-206-10,UMF Santa María del Oro,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_194,DGIST000170,010-206-11,UMF Tlahualilo de Zaragoza,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_195,DGIST000363,010-206-12,CAF Cd. Juárez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_196,DGIST000404,010-206-13,CAF Santa Clara,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_197,DGIST000351,010-206-14,CAF Bermejillo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_198,DGIST000433,010-206-15,CAF General Simón Bolívar,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_199,DGIST000450,010-206-16,CAF San Bernardo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_200,DGIST000030,010-207-00,CMF Durango,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_201,DGIST000013,010-207-01,UMF Canatlán de las Manzanas,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_202,DGIST000206,010-207-02,CAF Canelas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_203,DGIST000124,010-207-03,UMF El Salto,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_204,DGIST000223,010-207-04,CAF Francisco I. Madero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_205,DGIST000066,010-207-05,UMF Guadalupe Victoria,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_206,DGIST000235,010-207-06,CAF Guanaceví,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_207,DGIST000445,010-207-07,UMF José Guadalupe Aguilera,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_208,DGIST000095,010-207-08,UMF Nombre de Dios,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_209,DGIST000194,010-207-09,UMF Nuevo Ideal,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_210,DGIST000141,010-207-10,UMF San Juan del Río,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_211,DGIST000281,010-207-11,CAF San Lucas de Ocampo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_212,DGIST000153,010-207-12,UMF Santiago Papasquíaro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_213,DGIST000293,010-207-13,CAF Súchil,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_214,DGIST000305,010-207-14,CAF Tamazula de Victoria,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_215,DGIST000310,010-207-15,CAF Tayoltita,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_216,DGIST000165,010-207-16,UMF Tepehuanes,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_217,DGIST000322,010-207-17,CAF Topia,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_218,DGIST000182,010-207-18,UMF Vicente Guerrero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_219,DGIST000334,010-207-19,UMF Villa Unión,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_220,DGIST000240,010-207-26,CAF Los Remedios,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_221,DGIST000252,010-207-29,CAF El Mezquital,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_222,GTIST000086,011-204-00,CH Irapuato,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_223,GTIST000016,011-204-01,UMF Abasolo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_224,GTIST000260,011-204-02,CAF Cuerámaro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_225,GTIST000103,011-204-03,UMF Moroleón,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_226,GTIST000115,011-204-04,UMF Pénjamo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_227,GTIST000185,011-204-05,UMF Uriangato,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_228,GTIST000190,011-204-06,UMF Valle de Santiago,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_229,GTIST000202,011-204-07,UMF Yuriria,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_230,GTIST000243,011-204-08,UMF Cd. Manuel Doblado,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_231,GTIST000313,011-204-09,CAF Romita,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_232,GTIST000144,011-204-10,UMF San Francisco del Rincón,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_233,GTIST000325,011-205-00,CMF Salamanca,Sí,Sí,Sí,No,No,No,Sí,Sí,No,No,No,No,Sí,No,Sí
+U_ISSSTE_234,GTIST000074,011-206-00,"CH Guanajuato, Gto.",Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_235,GTIST000062,011-206-01,UMF Dolores Hidalgo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_236,GTIST000330,011-206-02,CAF San Diego de la Unión,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_237,GTIST000161,011-206-03,UMF San Luís de La Paz,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_238,GTIST000156,011-206-04,UMF San José Iturbide,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_239,GTIST000383,011-206-05,CAF Tierra Blanca,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_240,GTIST000395,011-206-06,UMF Villa Victoria,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_241,GTIST000272,011-206-07,CAF Dr. Mora,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_242,GTIST000412,011-206-08,CAF Xichú,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_243,GTIST000301,011-206-09,CAF Ocampo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_244,GTIST000132,011-206-10,UMF San Felipe Torres Mochas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_245,GTIST000173,011-206-11,UMF Silao,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_246,GTIST000045,011-207-00,CH Celaya,Sí,Sí,Sí,No,No,Sí,Sí,No,No,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_247,GTIST000021,011-207-01,UMF Acámbaro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_248,GTIST000214,011-207-02,UMF Apaseo el Alto,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_249,GTIST000226,011-207-03,UMF Apaseo el Grande,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_250,GTIST000255,011-207-04,UMF Comonfort,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_251,GTIST000050,011-207-05,UMF Cortázar,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_252,GTIST000284,011-207-06,CAF Jaral del Progreso,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_253,GTIST000296,011-207-07,CAF Jerécuaro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_254,GTIST000342,011-207-08,UMF Juventino Rosas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_255,GTIST000231,011-207-09,CAF Roque,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_256,GTIST000120,011-207-10,UMF Salvatierra,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_257,GTIST000033,011-207-11,UMF San Miguel de Allende,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_258,GTIST000354,011-207-12,CAF Santiago Maravatío,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_259,GTIST000366,011-207-13,CAF Tarandacuao,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_260,GTIST000371,011-207-14,CAF Tarimoro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_261,GTIST000400,011-207-15,UMF Villagrán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_262,GTIST000423,011-209-00,CMFEQ León,Sí,Sí,Sí,No,No,No,Sí,No,No,No,No,No,No,Sí,Sí
+U_ISSSTE_263,GRIST000112,012-205-00,CH Chilpancingo de los Bravo,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_264,GRIST000100,012-205-01,UMF Chilapa de Álvarez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_265,GRIST000450,012-205-02,UMF Mochitlán,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_266,GRIST000124,012-205-03,UMF El Ocotito,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_267,GRIST000182,012-205-04,UMF Olinalá,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_268,GRIST000170,012-205-05,UMF Tierra Colorada,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_269,GRIST000281,012-205-06,UMF Tixtla de Guerrero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_270,GRIST000136,012-205-09,UMF Huamuxtitlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_271,GRIST000433,012-205-10,CAF Malinaltepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_272,GRIST000503,012-205-13,CAF Iliatenco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_273,GRIST000153,012-206-00,CH Iguala de la Independencia,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_274,GRIST000030,012-206-01,UMF Ajuchitlán del Progreso,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_275,GRIST000363,012-206-03,UMF Apaxtla de Castrejón,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_276,GRIST000042,012-206-04,UMF Arcelia,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_277,GRIST000380,012-206-05,CAF Buenavista de Cuéllar,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_278,GRIST000095,012-206-06,UMF Coyuca de Catalán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_279,GRIST000404,012-206-07,CAF Cutzamala de Pinzón,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_280,GRIST000141,012-206-08,UMF Huitzuco de los Figueroa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_281,GRIST000276,012-206-09,UMF Teloloapan,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_282,GRIST000305,012-206-10,UMF Tlapehuala,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_283,GRIST000491,012-206-12,CAF Zirándaro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_284,GRIST000252,012-206-13,UMF Taxco de Alarcón,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_285,GRIST000194,012-207-00,CMFEQ Ometepec,Sí,Sí,Sí,No,No,No,Sí,Sí,No,No,No,No,Sí,No,Sí
+U_ISSSTE_286,GRIST000013,012-208-00,CMF Acapulco,Sí,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_287,GRIST000310,012-208-01,UMF Lic. Adolfo López Mateos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_288,GRIST000054,012-208-02,UMF Atoyac de Álvarez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_289,GRIST000322,012-208-03,CAF Cd. Renacimiento,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_290,GRIST000066,012-208-04,UMF Ayutla de los Libres,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_291,GRIST000083,012-208-05,UMF Coyuca de Benítez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_292,GRIST000416,012-208-06,CAF Cruz Grande,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_293,GRIST000392,012-208-07,UMF Cuajinicuilapa,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_294,GRIST000240,012-208-10,UMF Las Vigas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_295,GRIST000071,012-208-11,UMF Marquelia,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_296,GRIST000206,012-208-12,UMF Petatlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_297,GRIST000375,012-208-13,CAF San Jerónimo de Juárez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_298,GRIST000223,012-208-14,UMF San Luis Acatlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_299,GRIST000235,012-208-15,UMF San Marcos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_300,GRIST000474,012-208-16,UMF Tecoanapa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_301,GRIST000351,012-208-18,CAF Xaltianguis,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_302,GRIST000165,012-208-19,UMF Zihuatanejo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_303,GRIST000334,012-208-20,CAF UHF. Acapulco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_304,GRIST000346,012-208-21,CAF UHF. Vicente Guerrero 200,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_305,GRIST000211,012-209-00,CMFEQ Cd. Altamirano,Sí,Sí,Sí,No,No,No,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_306,GRIST000264,012-210-00,CMFEQ Técpan de Galeana,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_307,GRIST000293,012-212-00,CMFEQ Tlapa de Comonfort,Sí,No,No,No,No,No,Sí,Sí,No,No,No,No,Sí,No,Sí
+U_ISSSTE_308,HGIST000106,013-204-00,"HG Dra. Columba Rivera Osorio, Pachuca",No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_309,HGIST000065,013-205-00,CH Ixmiquilpan,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_310,HGIST000053,013-205-03,UMF Huichapan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_311,HGIST000205,013-205-04,UMF Jacala,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_312,HGIST000234,013-205-06,CAF Nopala,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_313,HGIST000275,013-205-08,UMF Tasquillo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_314,HGIST000280,013-205-09,UMF Tecozautla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_315,HGIST000362,013-205-10,CAF Zimapán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_316,HGIST000140,013-206-00,CMF Tulancingo,Sí,Sí,Sí,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_317,HGIST000292,013-206-02,CAF Tenango de Doria,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_318,HGIST000041,013-207-00,CH Huejutla de Reyes,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_319,HGIST000193,013-207-01,CAF Huautla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_320,HGIST000246,013-207-02,CAF San Felipe Orizatlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_321,HGIST000321,013-207-03,UMF Tlanchinol,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_322,HGIST000176,013-207-05,CAF Calnali,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_323,HGIST000094,013-207-06,UMF Molango,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_324,HGIST000345,013-207-09,CAF Xochicoatlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_325,HGIST000181,013-207-12,CAF Chapulhuacán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_326,HGIST000082,013-208-00,CMF Mixquiahuala,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_327,HGIST000036,013-208-01,UMF Tepatepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_328,HGIST000111,013-208-02,UMF Tepeji del Río,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_329,HGIST000316,013-208-03,UMF Tezontepec de Aldama,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_330,HGIST000333,013-208-04,UMF Tlaxcoapan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_331,HGIST000135,013-208-05,UMF Tula de Allende,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_332,HGIST000386,013-210-00,CMFE Pachuca,Sí,Sí,No,No,No,Sí,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_333,HGIST000012,013-210-01,UMF Actopan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_334,HGIST000024,013-210-02,UMF Apan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_335,HGIST000164,013-210-03,CAF Atotonilco el Grande,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_336,HGIST000070,013-210-04,UMF Metztitlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_337,HGIST000210,013-210-05,UMF Mineral del Monte,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_338,HGIST000304,013-210-06,UMF Tepeapulco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_339,HGIST000123,013-210-07,UMF Tizayuca,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_340,HGIST000152,013-210-08,UMF Zacualtipán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_341,HGIST000350,013-210-09,CAF Zapotlán de Juárez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_342,HGIST000251,013-210-10,CMCT Servicio Geológico Mexicano (Los Arcos),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_343,HGIST000263,013-210-11,CMCT Pensionados y Jubilados (ISSSTE),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_344,JCIST000074,014-204-00,"CMF Dr. Arturo Glez, Guadalajara No. 1",Sí,Sí,Sí,Sí,No,Sí,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_345,JCIST000161,014-204-01,UMF Ahualulco de Mercado,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_346,JCIST000016,014-204-02,UMF Ameca,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_347,JCIST000272,014-204-03,CAF Colotlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_348,JCIST000820,014-204-04,CAF Villa Guerrero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_349,JCIST000511,014-204-05,CAF Magdalena,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_350,JCIST000680,014-204-06,CAF Tala,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_351,JCIST000342,014-204-07,CMCT Palacio Federal (Guadalajara),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_352,JCIST000436,014-204-08,CAF Huejúcar,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_353,JCIST000144,014-204-09,CAF Tequila,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_354,JCIST000330,014-204-10,CAF Etzatlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_355,JCIST000441,014-204-11,CAF Huejuquilla El Alto,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_356,JCIST000354,014-204-12,CMCT FSTSE (Guadalajara),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_357,JCIST000185,014-204-14,CAF El Arenal,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_358,JCIST000226,014-204-15,CAF Bolaños,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_359,JCIST000540,014-204-16,CAF Mezquitic,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_360,JCIST000296,014-204-17,CAF Cuquío,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_361,JCIST000366,014-205-00,CMF Guadalajara No. 2,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_362,JCIST000091,014-205-02,UMF Tecolotlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_363,JCIST000050,014-205-04,UMF Cocula,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_364,JCIST000856,014-205-09,CAF UHF. Estatuto Jurídico Tuzania,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_365,JCIST000371,014-205-10,CAF UH. FOVISSSTE Miravalle,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_366,JCIST000383,014-205-11,CMCT Secretaría de Educación del Estado de Jalisco-SEP,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_367,JCIST000156,014-205-15,CAF Acatlán de Juárez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_368,JCIST000651,014-205-16,CAF San Martín Hidalgo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_369,JCIST000844,014-205-19,CAF Zacoalco de Torres,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_370,JCIST000885,014-205-20,CMCT SAT,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_371,JCIST000890,014-205-21,CMCT TFJA,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_372,JCIST000901,014-205-22,CAF Guachinango,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_373,JCIST000931,014-205-24,CMCT Sindicato Nacional de Trabajadores de la Secretaría de Salud,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_374,JCIST000395,014-206-00,CMF Guadalajara No. 3,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_375,JCIST000465,014-206-01,UMF Atequiza,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_376,JCIST000301,014-206-02,CAF Chapala,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_377,JCIST000494,014-206-03,CAF Jocotepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_378,JCIST000033,014-206-04,UMF La Barca,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_379,JCIST000564,014-206-05,UMF Ocotlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_380,JCIST000861,014-206-06,CAF Zapotlanejo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_381,JCIST000190,014-206-07,CAF Atotonilco el Alto,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_382,JCIST000115,014-206-08,UMF Tepatitlán de Morelos,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_383,JCIST000622,014-206-09,CAF El Salto,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_384,JCIST000750,014-206-11,UMF San Martín de las Flores,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_385,JCIST000733,014-206-12,CAF Tizapán el Alto,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_386,JCIST000173,014-206-13,CAF Arandas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_387,JCIST000202,014-206-14,CAF Ayotlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_388,JCIST000400,014-206-15,CMCT SNTE (Guadalajara),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_389,JCIST000593,014-206-17,CAF Poncitlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_390,JCIST000482,014-206-18,CAF Jesús María,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_391,JCIST000832,014-206-19,UMF Yahualica de González Gallo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_392,JCIST000745,014-206-21,CMCT SAGARPA (El Álamo),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_393,JCIST000313,014-206-23,CAF Degollado,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_394,JCIST000424,014-206-27,CAF UHF. Unidad Modelo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_395,JCIST000506,014-207-00,CMF Lagos de Moreno,Sí,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_396,JCIST000325,014-207-01,CAF Encarnación de Díaz,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_397,JCIST000470,014-207-02,CAF Jalostotitlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_398,JCIST000576,014-207-03,CAF Ojuelos de Jalisco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_399,JCIST000634,014-207-04,CAF San Juan de los Lagos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_400,JCIST000663,014-207-05,UMF San Miguel el Alto,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_401,JCIST000103,014-207-06,UMF Teocaltiche,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_402,JCIST000646,014-207-07,CAF San Julián,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_403,JCIST000045,014-208-00,CH Cd. Guzmán,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_404,JCIST000791,014-208-01,UMF Tuxpan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_405,JCIST000721,014-208-02,CAF Tecalitlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_406,JCIST000704,014-208-03,CAF Tamazula de Gordiano,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_407,JCIST000535,014-208-04,CAF Mazamitla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_408,JCIST000716,014-208-05,CAF Tapalpa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_409,JCIST000675,014-208-08,CAF Sayula,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_410,JCIST000815,014-208-09,CAF San Gabriel,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_411,JCIST000021,014-209-00,CMF Autlán de Navarro,Sí,Sí,Sí,No,No,No,Sí,Sí,No,No,No,No,Sí,No,Sí
+U_ISSSTE_412,JCIST000214,014-209-01,CAF Ayutla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_413,JCIST000062,014-209-02,UMF El Grullo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_414,JCIST000453,014-209-03,UMF La Huerta,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_415,JCIST000925,014-209-04,UMF Unión de Tula,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_416,JCIST000255,014-209-07,CAF Cihuatlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_417,JCIST000610,014-209-12,CAF Villa Purificación,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_418,JCIST000260,014-209-13,CAF San Patricio Melaque,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_419,JCIST000243,014-209-14,CAF Casimiro Castillo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_420,JCIST000284,014-209-15,CAF Cuautitlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_421,JCIST000086,014-210-00,CH Puerto Vallarta,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_422,JCIST000120,014-210-01,UMF Tomatlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_423,JCIST000762,014-210-02,CAF Tomatlán Campamento SAGARPA,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_424,JCIST000231,014-210-04,CAF El Tuito,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_425,JCIST000692,014-210-05,CAF Talpa de Allende,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_426,JCIST000523,014-210-06,UMF Mascota,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_427,JCIST000873,014-213-00,CEQ Guadalajara,No,Sí,No,Sí,No,Sí,No,No,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_428,PENDIENTE,014-219-00,"HG Dr. Valentín Gómez Farías, Zapopan",No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_429,MCIST000215,015-204-00,HG Toluca,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,No,Sí,No,Sí,Sí,Sí
+U_ISSSTE_430,MCIST000075,015-205-00,CMF Ecatepec de Morelos,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_431,MCIST000174,015-205-01,UMF San Juan Teotihuacán,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_432,MCIST000220,015-205-02,UMF Zumpango de Ocampo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_433,MCIST000010,015-205-03,UMF Tepexpan,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_434,MCIST000396,015-205-04,CAF UH. FOVISSSTE Ecatepec de Morelos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_435,MCIST000116,015-206-00,CMF Valle de Aragón,Sí,Sí,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_436,MCIST000355,015-207-00,CMF Satélite Naucalpan,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_437,MCIST000203,015-208-00,CMF Tlalnepantla,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_438,MCIST000186,015-210-00,CMF Texcoco de Mora,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_439,MCIST000022,015-210-01,UMF Amecameca de Juárez,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_440,MCIST000051,015-210-02,UMF Chalco de Díaz Covarrubias,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_441,MCIST000063,015-211-00,CMFEQ Xalostoc,Sí,No,No,No,No,Sí,Sí,No,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_442,MCIST000401,015-213-00,CMF Nueva Oxtotitlán,Sí,No,No,Sí,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_443,MCIST000034,015-213-02,UMF Atlacomulco de Fabela,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,No
+U_ISSSTE_444,MCIST000290,015-213-03,CAF Ixtapan de la Sal,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_445,MCIST000080,015-213-04,UMF Ixtlahuaca de Rayón,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_446,MCIST000092,015-213-05,UMF Jilotepec de Abasolo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_447,MCIST000162,015-213-06,UMF Tenancingo de Degollado,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_448,MCIST000133,015-213-08,UMF Polotitlán de Ilustración,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_449,MCIST000145,015-213-09,UMF San Felipe del Progreso,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_450,MCIST000191,015-213-10,UMF Santiago Tianguistengo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_451,MCIST000273,015-213-11,CAF San Pedro Limón,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_452,MCIST000150,015-213-12,UMF Tejupilco de Hidalgo,Sí,No,No,No,No,No,No,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_453,MCIST000413,015-213-13,CAF Texcaltitlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_454,MCIST000471,015-213-14,CAF Valle de Bravo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_455,MCIST000104,015-213-16,UMF Lerma de Villada (Villa Carmela),Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_456,MCIST000256,015-213-17,CAF Villa Cuauhtémoc,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_457,MCIST000121,015-213-18,UMF San Jerónimo Acazulco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_458,MCIST000046,015-213-19,UMF Capulhuac de Mirafuentes,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_459,MCIST000244,015-213-20,CMCT SAGARPA (Zinacantepec),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_460,PENDIENTE,015-213-23,CMCT Delegación del ISSSTE en el Estado de México,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_461,MCIST000454,015-213-24,CMCT Conalep,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_462,MCIST000384,015-214-00,CMF Pantitlán,Sí,No,No,Sí,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_463,MCIST000442,015-216-00,CMF Cuautitlán Izcalli,Sí,No,No,Sí,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_464,MCIST000331,015-216-01,CAF Cuautitlán de Romero Rubio,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_465,MCIST000326,015-216-02,CAF Villa Nicolás Romero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_466,MCIST000483,015-219-00,CMFEQ Héroes Tecámac,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_467,MCIST000495,015-220-00,CMFEQ Juana Belén Gutiérrez de Mendoza,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_468,MNIST000202,016-205-00,CH Uruapan del Progreso,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_469,MNIST000366,016-205-02,CAF Gabriel Zamora,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_470,MNIST000552,016-205-05,CAF Tingambato,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_471,MNIST000330,016-205-06,CAF Cherán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_472,MNIST000441,016-205-07,CAF Nahuatzen,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_473,MNIST000465,016-205-08,UMF Paracho de Verduzco,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_474,PENDIENTE,016-205-09,CAF Nuevo Parangaricutiro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_475,MNIST000016,016-206-00,CH Apatzingán de la Constitución,Sí,Sí,No,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_476,MNIST000243,016-206-01,CAF Aguililla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_477,MNIST000284,016-206-02,CAF Coalcomán de Matamoros,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_478,MNIST000540,016-206-03,UMF Tepalcatepec,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_479,MNIST000132,016-206-04,UMF Nueva Italia de Ruiz,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_480,MNIST000062,016-206-07,UMF La Huacana,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_481,MNIST000156,016-207-00,CMF La Piedad de Cabadas,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,No,Sí
+U_ISSSTE_482,MNIST000255,016-207-01,CAF Angamacútiro de la Unión,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_483,MNIST000675,016-207-02,CAF Pastor Ortíz,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_484,MNIST000470,016-207-03,CAF Penjamillo de Degollado,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_485,MNIST000535,016-207-04,CAF Tanhuato de Guerrero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_486,MNIST000646,016-207-05,CAF Yurécuaro No. 1,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_487,MNIST000231,016-208-00,CH Zitácuaro,Sí,Sí,Sí,No,No,Sí,Sí,No,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_488,MNIST000260,016-208-01,CAF Angangueo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_489,MNIST000605,016-208-07,CAF Tuxpan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_490,MNIST000050,016-208-09,UMF Cd. Hidalgo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_491,MNIST000074,016-208-10,UMF Huetamo de Nuñez ,Sí,No,Sí,No,No,No,Sí,Sí,No,No,No,No,No,No,Sí
+U_ISSSTE_492,MNIST000226,016-209-00,CH Zamora,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_493,MNIST000325,016-209-01,CAF Cotija de la Paz,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_494,MNIST000045,016-209-02,UMF Chilchota,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_495,MNIST000395,016-209-03,CAF Ixtlán de los Herbores,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_496,MNIST000173,016-209-04,UMF Los Reyes de Salgado,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_497,MNIST000482,016-209-05,CAF Purépero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_498,MNIST000523,016-209-06,CAF Tangancícuaro de Arista,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_499,MNIST000634,016-209-07,CAF Vista Hermosa de Negrete,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_500,MNIST000144,016-210-00,CH Pátzcuaro,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_501,MNIST000342,016-210-01,CAF Churumuco de Morelos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_502,MNIST000506,016-210-03,CAF Quiroga,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_503,MNIST000593,016-210-04,CAF Puruarán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_504,MNIST000511,016-210-05,CAF Villa Escalante (Santa Clara),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_505,MNIST000190,016-210-06,UMF Tacámbaro de Codallos,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_506,MNIST000021,016-210-07,UMF Ario de Rosales,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_507,MNIST000185,016-211-00,CH Sahuayo,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,No,Sí,Sí
+U_ISSSTE_508,MNIST000086,016-211-01,UMF Jiquilpan de Juárez,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_509,MNIST000453,016-211-02,CAF Pajacuarán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_510,MNIST000412,016-211-03,CAF San José de Gracia,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_511,MNIST000622,016-211-04,CAF Venustiano Carranza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_512,MNIST000103,016-212-00,"CH R. Flores Magón, Lázaro Cárdenas",Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_513,MNIST000033,016-212-01,UMF Arteaga,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_514,MNIST000115,016-212-04,UMF El Ranchito,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_515,MNIST000214,016-213-00,CH Zacapu,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_516,MNIST000301,016-213-01,CAF Coeneo de la Libertad,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_517,MNIST000383,016-213-02,CAF Huaniqueo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_518,MNIST000424,016-214-00,CMF Morelia,Sí,Sí,Sí,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_519,MNIST000313,016-214-01,CAF Contepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_520,MNIST000091,016-214-02,UMF Maravatío de Ocampo,Sí,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_521,MNIST000161,016-214-03,UMF Puruándiro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_522,MNIST000494,016-214-04,CAF Queréndaro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_523,MNIST000576,016-214-05,CAF Tlalpujahua,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_524,MNIST000436,016-214-06,CAF Villa Morelos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_525,MNIST000663,016-214-08,CAF Zinapécuaro de Figueroa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_526,MNIST000354,016-214-09,CAF Epitacio Huerta,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_527,MNIST000371,016-214-10,CAF Huandacareo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_528,PENDIENTE,016-214-11,CAF Acuitzio,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_529,PENDIENTE,016-214-12,CAF Cuitzeo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_530,PENDIENTE,016-214-13,CMCT SEP (Morelia),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_531,MSIST000025,017-205-00,"CH Dr. Rafael Barba Ocampo, Cuautla",Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_532,MSIST000071,017-205-01,UMF Jonacatepec,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_533,MSIST000211,017-205-02,CAF Tepalcingo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_534,MSIST000252,017-205-03,CAF Tlayacapan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_535,MSIST000141,017-205-04,CAF Cd. Ayala,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_536,MSIST000112,017-205-05,UMF Yautepec,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_537,MSIST000276,017-205-06,UMF Yecapixtla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_538,MSIST000281,017-205-07,CAF Zacualpan de Amilpas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_539,MSIST000235,017-205-08,CAF Tetela del Volcán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_540,MSIST000136,017-205-09,CAF Axochiapan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_541,MSIST000310,017-205-11,CAF Atlatlahucan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_542,MSIST000322,017-205-12,CAF Ocuituco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_543,PENDIENTE,017-206-00,CMF Cuernavaca,Sí,Sí,No,Sí,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_544,MSIST000165,017-206-02,CAF Emiliano Zapata,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_545,MSIST000182,017-206-03,CAF Jiutepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_546,MSIST000194,017-206-06,CAF Puente de Ixtla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_547,MSIST000153,017-206-07,CMCT SEP (Cuernavaca),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_548,MSIST000083,017-206-08,UMF Temixco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_549,MSIST000223,017-206-09,CAF Tepoztlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_550,MSIST000095,017-206-10,UMF Tetecala,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_551,MSIST000170,017-206-13,CAF Tres Marías,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_552,MSIST000264,017-206-14,CAF Xochitepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_553,MSIST000054,017-208-00,CMFEQ Jojutla de Juárez,Sí,Sí,Sí,No,No,No,Sí,No,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_554,MSIST000013,017-208-01,UMF Amacuzac,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_555,MSIST000100,017-208-02,UMF Tlaquiltenango,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_556,MSIST000240,017-208-03,CAF Tlaltizapán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_557,MSIST000206,017-208-04,CAF Xoxocotla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_558,MSIST000124,017-208-05,UMF Zacatepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_559,PENDIENTE,017-209-00,HG Dr. Carlos Calero Elorduy,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_560,NTIST000260,018-204-00,HG Tepic,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_561,NTIST000016,018-205-00,CMF Acaponeta,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_562,NTIST000231,018-205-01,CAF San Felipe Aztatán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_563,NTIST000086,018-205-03,UMF Rosamorada,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_564,NTIST000173,018-205-04,CAF Ruíz,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_565,NTIST000115,018-205-05,UMF Tecuala,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_566,NTIST000132,018-205-06,UMF Tuxpan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_567,NTIST000161,018-205-07,CAF Huajicori,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_568,NTIST000243,018-206-00,"CMF Dr. Joaquín Cánovas Puchades,Tepic",Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_569,NTIST000021,018-206-01,UMF Ahuacatlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_570,NTIST000156,018-206-02,CAF Amatlán de Cañas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_571,NTIST000033,018-206-03,UMF Compostela,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_572,NTIST000062,018-206-04,UMF Ixtlán del Río,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_573,NTIST000050,018-206-06,UMF Las Varas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_574,NTIST000074,018-206-07,UMF Jala,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_575,NTIST000202,018-206-08,CAF San Blas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_576,NTIST000045,018-206-09,UMF Peñita de Jaltemba,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_577,NTIST000144,018-206-10,UMF San Juan de Abajo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_578,NTIST000226,018-206-11,CAF Santa María del Oro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_579,NTIST000091,018-206-12,UMF Santiago Ixcuintla,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_580,NTIST000103,018-206-13,UMF Villa Hidalgo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_581,NTIST000214,018-206-16,CAF San Pedro Lagunillas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_582,PENDIENTE,018-206-17,CAF Islas Marías ,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_583,NLIST000093,019-204-00,CH Constitución,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_584,NLIST000233,019-204-01,CAF Aramberri,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_585,NLIST000315,019-204-02,CAF Cd. Allende,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_586,NLIST000146,019-204-03,CAF UHF. Col. Burócratas Federales,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_587,NLIST000023,019-204-04,UMF Cadereyta de Jiménez,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_588,NLIST000011,019-204-05,UMF Cd. Anáhuac,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_589,NLIST000035,019-204-07,UMF Doctor Arroyo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_590,NLIST000040,019-204-08,UMF Galeana,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_591,NLIST000064,019-204-09,UMF Gral. Bravo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_592,NLIST000320,019-204-10,CAF Gral. Terán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_593,NLIST000262,019-204-12,CAF Iturbide,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_594,NLIST000245,019-204-13,CAF La Ascensión,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_595,NLIST000303,019-204-14,CAF Lampazos de Naranjo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_596,NLIST000081,019-204-16,UMF Montemorelos,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_597,NLIST000274,019-204-17,CMCT Palacio Federal (Monterrey),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_598,NLIST000180,019-204-18,CMCT SAT Administración Fiscal,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_599,NLIST000110,019-204-19,UMF Sabinas Hidalgo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_600,NLIST000122,019-204-23,UMF Villa de Santiago,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_601,NLIST000361,019-204-24,CAF Cerralvo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_602,NLIST000332,019-204-25,CAF Hualahuises,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_603,PENDIENTE,019-204-26,CMCT Sindicato de SARH (SADER),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_604,NLIST000052,019-204-27,UMF El Potosí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_605,NLIST000175,019-204-29,CAF Villa Dorada,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_606,NLIST000250,019-204-31,CAF San José de Raíces,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_607,NLIST000151,019-204-32,CMCT INEGI,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_608,NLIST000076,019-205-00,CMFEQ Linares,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_609,NLIST000373,019-206-00,CMF Guadalupe Col. de Maestros,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_610,NLIST000385,019-208-00,CMF Escobedo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_611,OCIST000136,020-204-00,CMF Salina Cruz,Sí,No,No,No,No,No,Sí,Sí,No,No,No,No,No,No,Sí
+U_ISSSTE_612,OCIST000025,020-204-01,UMF Ciudad Ixtepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_613,OCIST000066,020-204-02,UMF Juchitán de Zaragoza,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_614,OCIST000585,020-204-03,UMF Unión Hidalgo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_615,OCIST000544,020-204-04,CAF Santiago Laollaga,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_616,OCIST000515,020-204-05,CAF Santiago Astata,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_617,OCIST000322,020-204-06,CAF El Espinal,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_618,OCIST000252,020-205-00,CH Tehuantepec,Sí,Sí,Sí,No,No,Sí,No,Sí,No,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_619,OCIST000083,020-205-01,UMF Matías Romero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_620,OCIST000211,020-205-02,UMF San Pedro Tapanatepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_621,OCIST000141,020-205-03,UMF San Francisco Ixhuatán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_622,OCIST000392,020-205-04,CAF San Francisco del Mar,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_623,OCIST000346,020-205-05,CAF Palomares,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_624,OCIST000556,020-205-06,CAF Santo Domingo Zanatepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_625,PENDIENTE,020-205-07,CAF San Pedro Comitancillo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_626,OCIST000165,020-206-00,CH Tuxtepec,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_627,OCIST000305,020-206-01,UMF Acatlán de Pérez Figueroa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_628,OCIST000071,020-206-02,UMF Loma Bonita,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_629,OCIST000170,020-206-04,UMF San Lucas Ojitlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_630,OCIST000182,020-206-05,UMF Temascal,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_631,OCIST000590,020-206-06,CAF Valle Nacional,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_632,OCIST000380,020-206-08,CAF San Felipe Usila,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_633,OCIST000042,020-207-00,CH Huajuapan de León,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_634,OCIST000532,020-207-02,CAF Juxtlahuaca,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_635,OCIST000264,020-207-05,UMF Silacayoápam,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_636,OCIST000276,020-207-06,UMF Tamazulapam,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_637,OCIST000124,020-207-08,UMF Putla Villa de Guerrero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_638,OCIST000462,020-208-00,CMFEQ Puerto Escondido,Sí,No,Sí,No,No,No,Sí,No,No,No,No,No,No,Sí,Sí
+U_ISSSTE_639,OCIST000206,020-208-02,UMF Pochutla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_640,OCIST000474,020-208-03,UMF Río Grande,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_641,OCIST000223,020-208-04,UMF Santa Rosa de Lima,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_642,OCIST000486,020-208-05,CAF Juquila,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_643,OCIST000491,020-208-09,CAF Santa María Huatulco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_644,OCIST000503,020-208-12,CAF Santa Cruz Huatulco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_645,OCIST000100,020-209-00,CMFEQ Oaxaca,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_646,OCIST000351,020-209-01,CAF Ayutla Mixe,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_647,OCIST000404,020-209-02,CAF Cuicatlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_648,OCIST000030,020-209-04,UMF Guelatao de Juárez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_649,OCIST000054,020-209-05,UMF Huautla de Jiménez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_650,OCIST000095,020-209-06,UMF Miahuatlán de Porfirio Díaz,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_651,OCIST000363,020-209-07,CAF Ocotlán de Morelos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_652,OCIST000450,020-209-08,UMF San Pablo Huixtepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_653,OCIST000281,020-209-10,UMF Teotitlán de Flores Magón,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_654,OCIST000153,020-209-11,UMF Telixtlahuaca,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_655,OCIST000573,020-209-12,CAF Tlacolula de Matamoros,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_656,OCIST000013,020-209-14,UMF Asunción Nochixtlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_657,OCIST000614,020-209-17,CAF Tamazulápam del Espíritu Santo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_658,OCIST000240,020-210-00,CH Pinotepa Nacional,Sí,No,No,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_659,PENDIENTE,020-210-01,CAF Cacahuatepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_660,OCIST000235,020-211-00,CMFEQ Tlaxiaco,Sí,No,Sí,No,No,Sí,Sí,Sí,No,No,No,No,No,Sí,Sí
+U_ISSSTE_661,OCIST000310,020-211-01,CAF Chalcatongo de Hidalgo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_662,PLIST000014,021-205-00,CMF Acatlán de Osorio,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_663,PLIST000026,021-206-00,CMF Atlixco,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_664,PLIST000253,021-206-01,CAF Estación Atencingo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_665,PLIST000241,021-206-02,UMF Chiautla de Tapia,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_666,PLIST000096,021-206-03,UMF Izúcar de Matamoros,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_667,PLIST000072,021-207-00,CH Huauchinango,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_668,PLIST000311,021-207-01,CAF Pahuatlán del Valle,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_669,PLIST000195,021-207-02,UMF Xicotepec de Juárez,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_670,PLIST000055,021-207-03,UMF Chignahuapan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_671,PLIST000393,021-207-04,CAF Tetela de Ocampo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_672,PLIST000200,021-207-05,UMF Zacatlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_673,PLIST000154,021-208-00,CH Tehuacán,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_674,PLIST000043,021-208-01,UMF Cd. Serdán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_675,PLIST000060,021-208-02,UMF Esperanza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_676,PLIST000270,021-208-05,CAF Guadalupe Victoria,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_677,PLIST000125,021-209-00,CMF San Martín Texmelucan,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_678,PLIST000282,021-209-01,CAF Huejotzingo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_679,PLIST000171,021-210-00,CH Teziutlán,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_680,PLIST000031,021-210-01,UMF Cuetzalan del Progreso,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_681,PLIST000183,021-210-04,UMF Tlatlauquitepec,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_682,PLIST000422,021-210-06,CAF Zacapoaxtla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_683,PLIST000460,021-210-07,UMF Zaragoza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_684,PLIST000480,021-210-11,CAF Huehuetla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_685,PLIST000212,021-214-00,CMFEQ Puebla,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_686,PLIST000381,021-214-04,CAF Villa Rafael Lara Grajales,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_687,PLIST000306,021-214-05,CAF Libres,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_688,PLIST000084,021-214-06,UMF San Juan Ixcaquixtla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_689,PLIST000142,021-214-07,UMF Tecamachalco,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_690,PLIST000166,021-214-08,UMF Tepeaca,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_691,PLIST000224,021-214-11,CAF Acatzingo de Hidalgo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_692,PLIST000130,021-214-12,UMF Cholula,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_693,PLIST000113,021-214-13,UMF Col. Magisterial Federal México 68,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_694,PLIST000323,021-214-14,CAF UH. FOVISSSTE San Roque,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_695,PLIST000335,021-214-15,CMCT SNTE (Puebla),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_696,PLIST000340,021-214-16,CAF Col. Reforma Sur,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_697,PLIST000352,021-214-17,CAF UH FOVISSSTE Villa Verde,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_698,PLIST000364,021-214-27,CMCT SAT Puebla Sur,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_699,PLIST000376,021-214-28,CMCT Secretaría de Educación del Estado de Puebla-SEP,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_700,PLIST000451,021-214-29,CMCT TFJA (San Andrés Cholula),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_701,QTIST000051,022-205-00,CMF Querétaro,Sí,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_702,QTIST000010,022-205-03,UMF Amealco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_703,QTIST000022,022-205-05,UMF Cadereyta de Montes,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_704,QTIST000121,022-205-06,CAF Villa Colón,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_705,QTIST000133,022-205-07,CAF Ezequiel Montes,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_706,QTIST000034,022-205-08,UMF Jalpan de Serra,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_707,QTIST000150,022-205-13,UMF Tequisquiapan,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_708,QTIST000092,022-205-14,UMF Tolimán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_709,QTIST000145,022-205-16,CAF Pedro Escobedo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_710,QTIST000063,022-205-18,UMF Col. Satélite,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_711,QTIST000075,022-205-19,UMF Azteca III,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_712,QTIST000046,022-206-00,HG Querétaro,No,Sí,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_713,PENDIENTE,022-207-00,CMFEQ San Juan del Río,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_714,QRIST000043,023-204-00,CH Chetumal,No,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_715,QRIST000026,023-204-01,UMF Felipe Carrillo Puerto,Sí,Sí,No,No,No,No,Sí,No,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_716,QRIST000060,023-204-02,UMF José Ma. Morelos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_717,QRIST000096,023-204-03,CAF Bacalar,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_718,QRIST000055,023-205-00,CH Cd. Cancún,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_719,QRIST000072,023-205-01,UMF Kantunilkín,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_720,QRIST000031,023-205-02,UMF Isla Mujeres,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_721,PENDIENTE,023-205-05,UMF Playa del Carmen,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_722,QRIST000014,023-206-00,CMFEQ Cozumel,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_723,QRIST000084,023-207-00,CE Clidda Chetumal,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_724,SPIST000113,024-204-00,"HG San Luis Potosí, S.L.P.",No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí
+U_ISSSTE_725,SPIST000055,024-205-00,CH Ciudad Valles,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_726,SPIST000072,024-205-02,UMF Ébano,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_727,SPIST000282,024-205-03,CAF Tamasopo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_728,SPIST000154,024-205-04,UMF Tanquián de Escobedo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_729,SPIST000183,024-205-05,UMF Xilitla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_730,SPIST000043,024-205-10,UMF Tancanhuitz de Santos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_731,SPIST000294,024-205-11,CAF San Vicente,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_732,SPIST000311,024-205-14,CAF El Naranjo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_733,SPIST000212,024-206-00,"CMFEQ Dr. Pedro Bárcena Hiriart, S.L.P.",Sí,Sí,No,Sí,Sí,Sí,Sí,No,Sí,No,Sí,No,Sí,Sí,Sí
+U_ISSSTE_734,SPIST000130,024-206-01,UMF Col. Burócratas,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_735,SPIST000026,024-206-03,UMF Cerritos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_736,SPIST000060,024-206-04,UMF Cd. Charcas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_737,SPIST000101,024-206-05,UMF Salinas de Hidalgo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_738,SPIST000166,024-206-07,UMF Villa Hidalgo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_739,SPIST000270,024-206-09,UMF Soledad de Graciano Sánchez,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_740,SPIST000224,024-206-12,CMCT Casa de Moneda,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_741,SPIST000265,024-206-14,CAF Santa María del Río,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_742,SPIST000236,024-206-15,CMCT SNTE  (San Luís Potosí),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_743,SPIST000241,024-206-16,CMCT Secretaría de Educación del Estado de San Luis Potosí-SEP,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_744,SPIST000084,024-207-00,CH Matehuala,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_745,SPIST000142,024-208-00,CH Tamazunchale,Sí,Sí,Sí,No,No,No,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_746,SPIST000171,024-208-01,UMF Axtla de Terrazas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_747,SPIST000253,024-208-02,CAF San Martín Chalchicuautla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_748,SPIST000306,024-208-03,CAF Matlapa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_749,SPIST000096,024-209-00,CH Ríoverde,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_750,SPIST000014,024-209-01,UMF Cárdenas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_751,SPIST000031,024-209-02,UMF Cd. del Maíz,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_752,SPIST000200,024-209-03,CAF San Ciro de Acosta,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_753,SLIST000196,025-204-00,CH Mazatlán,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_754,SLIST000056,025-204-01,UMF Concordia,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_755,SLIST000225,025-204-03,UMF El Rosario,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_756,SLIST000131,025-204-04,UMF Escuinapa,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,No
+U_ISSSTE_757,SLIST000242,025-204-05,UMF San Ignacio,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_758,SLIST000201,025-204-07,UMF La Esperanza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_759,SLIST000015,025-205-00,CH Los Mochis,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_760,SLIST000020,025-205-01,UMF Ahome,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_761,SLIST000172,025-205-03,UMF Estación Bamoa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_762,SLIST000114,025-205-04,UMF Choix,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_763,SLIST000283,025-205-05,CAF El Carrizo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_764,SLIST000143,025-205-06,UMF El Fuerte,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_765,SLIST000370,025-205-07,CAF Estación Naranjo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_766,SLIST000295,025-205-09,CAF Higuera de Zaragoza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_767,SLIST000184,025-205-10,UMF Gral. Juan José Ríos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_768,SLIST000353,025-205-11,CAF Adolfo Ruíz Cortines,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_769,SLIST000155,025-205-12,UMF San Blas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_770,SLIST000254,025-205-13,UMF Sinaloa de Leyva,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_771,SLIST000266,025-205-14,UMF Ocoroni,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_772,SLIST000073,025-206-00,CMF Culiacán,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_773,SLIST000032,025-206-01,UMF Angostura,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_774,SLIST000044,025-206-02,UMF Badiraguato,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_775,SLIST000061,025-206-03,UMF Cosalá,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_776,SLIST000102,025-206-04,UMF El Dorado,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_777,SLIST000230,025-206-05,UMF Guamúchil,Sí,Sí,No,No,No,No,Sí,Sí,No,No,No,No,No,No,No
+U_ISSSTE_778,SLIST000126,025-206-06,UMF Estación la Cruz,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_779,SLIST000213,025-206-07,UMF Mocorito,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_780,SLIST000271,025-206-08,UMF Navolato,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_781,SLIST000365,025-206-09,UMF Pericos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_782,SLIST000336,025-206-10,UMF Quilá,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_783,SLIST000312,025-206-12,CAF UH. FOVISSSTE CATRA (Casa del Trabajador),Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_784,SLIST000300,025-206-13,CAF Gato de Lara,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_785,SLIST000324,025-206-14,UMF Costa Rica,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_786,SLIST000090,025-206-15,UMF Col. STASE,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_787,PENDIENTE,025-208-00,CMFEQ Guasave,Sí,Sí,Sí,No,No,No,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_788,SRIST000133,026-204-00,"HG Dr. Fernando Ocaranza, Hermosillo",No,Sí,Sí,No,Sí,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_789,SRIST000046,026-205-00,CH Cd. Obregón,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_790,SRIST000051,026-205-01,UMF Estación Esperanza,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_791,SRIST000116,026-205-02,UMF Estación Vicam,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_792,SRIST000080,026-205-03,UMF Villa Juárez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_793,SRIST000261,026-205-04,CAF UH. FOVISSSTE No. 2 Cd. Obregón,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_794,SRIST000401,026-205-06,CAF Rosario Tesopaco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_795,SRIST000162,026-206-00,CH Navojoa,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_796,SRIST000022,026-206-01,UMF Álamos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_797,SRIST000092,026-206-02,UMF Bacobampo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_798,SRIST000145,026-206-03,UMF Huatabampo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_799,SRIST000302,026-206-04,UMF Etchojoa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_800,SRIST000104,026-208-00,CH Guaymas,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_801,SRIST000075,026-208-01,UMF Empalme,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_802,SRIST000203,026-211-00,CH San Luís Río Colorado,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_803,SRIST000186,026-211-01,UMF Puerto Peñasco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_804,SRIST000232,026-211-02,UMF Sonoyta,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_805,SRIST000121,026-212-00,CMF Hermosillo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_806,SRIST000256,026-212-01,CAF Aconchi (Baviácora),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_807,SRIST000285,026-212-02,CAF Carbó,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_808,SRIST000290,026-212-03,CAF Cumpas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_809,SRIST000150,026-212-04,UMF Moctezuma,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_810,SRIST000220,026-212-05,UMF Ures,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_811,SRIST000191,026-212-06,UMF Sahuaripa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_812,SRIST000326,026-212-07,CAF Poblado Miguel Alemán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_813,SRIST000331,026-212-08,CAF UH. FOVISSSTE No. 1 Hermosillo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_814,SRIST000360,026-212-10,CAF Mazatán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_815,SRIST000425,026-212-11,CAF Huépac,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_816,SRIST000174,026-215-00,CH Nogales,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_817,SRIST000034,026-215-01,UMF Caborca,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_818,SRIST000244,026-215-02,CAF Cd. Magdalena de Kino,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_819,SRIST000215,026-215-03,UMF Santa Ana,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_820,SRIST000355,026-215-04,CAF Imuris,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_821,SRIST000010,026-215-06,UMF Agua Prieta,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_822,SRIST000063,026-215-09,UMF Cananea,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_823,TCIST000273,027-204-00,HG Villahermosa,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_824,TCIST000034,027-205-00,CMF Cárdenas,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_825,TCIST000186,027-206-00,"CMF Casablanca, Villahermosa",Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_826,TCIST000010,027-206-01,UMF Balancán de Domínguez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_827,TCIST000075,027-206-02,UMF Comalcalco,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_828,TCIST000080,027-206-03,UMF Cunduacán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_829,TCIST000092,027-206-04,UMF Emiliano Zapata,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_830,TCIST000051,027-206-05,UMF Frontera Centla,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_831,TCIST000104,027-206-06,UMF Huimanguillo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_832,TCIST000116,027-206-07,UMF Jalpa de Méndez,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_833,TCIST000121,027-206-08,UMF Macuspana,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_834,TCIST000145,027-206-09,UMF Paraíso,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_835,TCIST000162,027-206-10,UMF Teapa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_836,TCIST000174,027-206-11,UMF Tenosique de Pino Suárez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_837,TCIST000046,027-206-12,UMF Villa Benito Juárez (Cárdenas),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_838,TCIST000133,027-206-13,CAF Nacajuca,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_839,TCIST000150,027-206-15,UMF Tacotalpa,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_840,TCIST000244,027-206-17,CAF Jalapa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_841,TCIST000022,027-206-18,UMF El Triunfo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_842,TCIST000256,027-206-19,CAF Jonuta,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_843,TCIST000261,027-206-20,CAF Villa Benito Juárez (Macuspana),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_844,TCIST000215,027-206-22,CAF Tamulté de Las Sábanas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_845,TSIST000153,028-204-00,CH Cd. Victoria,No,Sí,Sí,No,No,Sí,No,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_846,TSIST000013,028-204-01,UMF Abasolo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_847,TSIST000310,028-204-02,CAF El Barretal,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_848,TSIST000252,028-204-03,UMF Jaumave,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_849,TSIST000264,028-204-04,CAF Santander Jiménez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_850,TSIST000240,028-204-05,CAF Hidalgo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_851,TSIST000042,028-204-06,UMF Llera de Canales,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_852,TSIST000305,028-204-08,CAF Padilla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_853,TSIST000322,028-204-09,CAF Tula,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_854,TSIST000334,028-204-10,CAF Villagrán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_855,TSIST000124,028-204-12,CAF Soto La Marina,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_856,TSIST000100,028-206-00,"CH Dr. Baudelio Villanueva, Reynosa",Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_857,TSIST000025,028-206-01,UMF Cd. Camargo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_858,TSIST000235,028-206-02,CAF Cd. Gustavo Díaz Ordaz,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_859,TSIST000083,028-206-04,UMF Cd. Miguel Alemán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_860,TSIST000281,028-206-05,CAF Cd. Mier,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_861,TSIST000071,028-207-00,"CH Dr. Manuel F. Rodriguez, Matamoros",Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_862,TSIST000276,028-207-01,CAF Control,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_863,TSIST000141,028-207-02,UMF Valle Hermoso,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_864,TSIST000112,028-207-03,UMF San Fernando,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_865,TSIST000095,028-208-00,"CH Agosto 12, Nuevo Laredo",Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_866,TSIST000223,028-208-01,CAF Nueva Cd. Guerrero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_867,TSIST000170,028-209-00,CH Río Bravo,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_868,TSIST000054,028-210-00,CH Cd. Mante,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_869,TSIST000066,028-210-01,UMF Los Aztecas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_870,TSIST000293,028-210-02,UMF Ocampo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_871,TSIST000030,028-210-03,UMF Villa González,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_872,TSIST000165,028-210-04,UMF Villa Xicoténcatl,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_873,TSIST000136,028-211-00,CMFEQ Tampico,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_874,TSIST000194,028-211-01,CAF Villa Aldama,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_875,TSIST000211,028-211-02,CAF UHF. Las Arboledas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_876,TSIST000206,028-211-03,UMF Altamira,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_877,TSIST000345,028-214-00,CMF Cd. Victoria,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_878,TSIST000363,028-215-00,HG Tampico,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_879,TLIST000042,029-204-00,HG Tlaxcala,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_880,TLIST000013,029-204-01,UMF Apizaco,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_881,TLIST000025,029-204-02,UMF Calpulalpan,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_882,TLIST000030,029-204-03,UMF Huamantla,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_883,TLIST000054,029-204-04,UMF Zacatelco,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_884,TLIST000066,029-205-00,CMF Tlaxcala,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_885,VZIST000120,030-204-00,CH Xalapa,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_886,VZIST000050,030-204-01,UMF Coatepec,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_887,VZIST000202,030-204-02,UMF Perote,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_888,VZIST000470,030-204-03,CAF Rinconada,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_889,VZIST000593,030-204-04,CAF Xico,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_890,VZIST000540,030-204-06,CAF Inmecafé,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_891,VZIST000552,030-204-07,CAF UH. FOVISSSTE No. 2 Xalapa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_892,VZIST000564,030-204-08,CMCT Secretaría de Educación del Estado de Veracruz-SEP,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_893,VZIST000576,030-204-09,CMCT SNTE (Veracruz),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_894,VZIST000330,030-204-10,CAF Altotonga,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_895,VZIST000354,030-204-11,CAF Atzalan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_896,VZIST000424,030-206-00,CMFEQ Córdoba,Sí,Sí,Sí,No,No,No,Sí,Sí,No,No,No,No,No,Sí,Sí
+U_ISSSTE_897,VZIST000506,030-206-01,UMF Huatusco de Chicuéllar,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_898,VZIST000733,030-206-02,CAF Tezonapa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_899,VZIST000663,030-206-04,CAF Paso del Macho,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_900,VZIST000272,030-206-05,UMF Tierra Blanca,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_901,VZIST000173,030-207-00,CH Orizaba,Sí,Sí,Sí,No,No,Sí,Sí,No,No,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_902,VZIST000313,030-207-02,UMF Zongolica,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_903,VZIST000296,030-208-00,CH Tuxpan,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_904,VZIST000716,030-208-01,CAF Tamiahua,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_905,VZIST000774,030-208-02,CAF UH. FOVISSSTE No. 1 Tuxpan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_906,VZIST000255,030-208-03,UMF Tantoyuca,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_907,VZIST000366,030-208-04,CAF Benito Juárez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_908,VZIST000091,030-208-05,UMF Chicontepec de Tejeda,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_909,VZIST000675,030-208-06,CAF Platón Sánchez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_910,VZIST000721,030-208-07,CAF Tempoal de Sánchez,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_911,VZIST000045,030-208-08,UMF Cerro Azul,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_912,VZIST000864,030-208-09,UMF Naranjos,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_913,VZIST000646,030-208-10,CAF Ozuluama,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_914,VZIST000185,030-208-11,UMF Pánuco,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_915,VZIST000844,030-208-12,CAF El Higo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_916,VZIST000680,030-208-13,CAF Cd. Cuauhtémoc,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_917,VZIST000226,030-209-00,CH Poza Rica de Hidalgo,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_918,VZIST000651,030-209-01,UMF Álamo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_919,VZIST000400,030-209-02,CAF Cazones de Herrera,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_920,VZIST000453,030-209-03,CAF Coyutla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_921,VZIST000103,030-209-05,UMF Gutiérrez Zamora,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_922,VZIST000115,030-209-06,UMF Huayacocotla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_923,VZIST000535,030-209-07,CAF Ixhuatlán de Madero,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_924,VZIST000190,030-209-09,UMF Papantla,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_925,VZIST000086,030-209-11,UMF Cosamaloapan de Carpio,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_926,VZIST000074,030-209-12,UMF Cd. Miguel Alemán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_927,VZIST000062,030-210-00,CH Coatzacoalcos,Sí,Sí,Sí,No,No,Sí,Sí,No,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_928,VZIST000832,030-210-01,CAF Agua Dulce,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_929,VZIST000412,030-210-02,CAF UH. FOVISSSTE No. 3 Coatzacoalcos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_930,VZIST000465,030-210-03,CAF Las Choapas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_931,VZIST000231,030-213-00,CMF San Andrés Tuxtla,Sí,Sí,No,No,No,No,Sí,Sí,No,No,No,No,No,No,Sí
+U_ISSSTE_932,VZIST000395,030-213-01,CAF Catemaco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_933,VZIST000511,030-213-02,CAF Juan Díaz Covarrubias,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_934,VZIST000605,030-213-03,CAF Juan Rodríguez Clara,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_935,VZIST000132,030-213-04,UMF Lerdo de Tejada,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_936,VZIST000214,030-213-05,UMF Playa Vicente,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_937,VZIST000243,030-213-06,UMF Santiago Tuxtla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_938,VZIST000260,030-213-07,UMF Villa Azueta,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_939,VZIST000523,030-213-08,CAF Isla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_940,VZIST000156,030-214-00,CMF Minatitlán,Sí,Sí,No,No,No,Sí,Sí,Sí,No,No,No,No,Sí,No,Sí
+U_ISSSTE_941,VZIST000436,030-214-01,CAF Cosoleacaque,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_942,VZIST000494,030-214-02,CAF Hidalgotitlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_943,VZIST000581,030-214-03,CAF Jáltipan de Morelos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_944,VZIST000856,030-214-04,CAF Tatahuicapan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_945,VZIST000144,030-216-00,CMF Martínez de la Torre,Sí,Sí,Sí,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_946,VZIST000161,030-216-03,UMF Misantla,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_947,VZIST000622,030-216-04,CAF Nautla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_948,VZIST000284,030-216-05,UMF Tlapacoyan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_949,VZIST000791,030-216-06,CAF Vega de Alatorre,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_950,VZIST000016,030-220-00,CMF Acayucan,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_951,VZIST000325,030-220-03,CAF La Laguna,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_952,VZIST000692,030-220-04,CAF San Juan Evangelista,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_953,VZIST000820,030-223-00,CMF Heroica de Veracruz (Coyol),Sí,No,No,Sí,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_954,VZIST000021,030-223-01,UMF Alvarado,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_955,VZIST000441,030-223-02,CAF La Capilla,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_956,VZIST000762,030-223-03,CAF Piedras Negras,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_957,VZIST000704,030-223-04,CAF Soledad de Doblado,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_958,VZIST000750,030-223-05,CAF Tlacotalpan,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_959,VZIST000033,030-223-06,UMF Cd. José Cardel,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_960,VZIST000786,030-223-07,CAF Zempoala,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_961,VZIST000610,030-223-08,CAF Paso del Toro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_962,VZIST000803,030-223-10,CAF UH. FOVISSSTE Estatuto Jurídico,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_963,VZIST000815,030-223-11,CAF UH. FOVISSSTE Las Hortalizas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_964,VZIST000371,030-223-12,CAF UH. FOVISSSTE Floresta,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+U_ISSSTE_965,YNIST000112,031-201-00,CMFEQ Mérida (Col. Lindavista),Sí,Sí,No,No,No,Sí,Sí,No,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_966,YNIST000136,031-201-01,UMF UHF. San Carlos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_967,YNIST000071,031-201-02,UMF Progreso,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_968,YNIST000013,031-201-03,UMF Dzidzantún,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_969,YNIST000025,031-201-05,UMF Izamal,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_970,YNIST000124,031-201-06,UMF Maxcanú,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_971,YNIST000042,031-201-07,UMF Motul de Felipe Carrillo Puerto,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_972,YNIST000182,031-201-08,UMF Muna de Leopoldo Arana Cabrera,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_973,YNIST000054,031-201-09,UMF Oxkutzcab,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_974,YNIST000066,031-201-10,UMF Peto,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_975,YNIST000083,031-201-11,UMF Tekax de Álvaro Obregón,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_976,YNIST000095,031-201-12,UMF Ticul,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_977,YNIST000165,031-201-13,UMF Tizimín,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_978,YNIST000153,031-201-14,CAF Tixkokob,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_979,YNIST000100,031-201-15,UMF Valladolid,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_980,YNIST000170,031-204-00,CH Mérida,No,Sí,Sí,No,No,Sí,No,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_981,ZSIST000160,032-204-00,HG Zacatecas,No,Sí,Sí,No,Sí,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_982,ZSIST000015,032-204-02,UMF Víctor Calera Rosales,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_983,ZSIST000020,032-204-04,UMF Concepción del Oro,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_984,ZSIST000196,032-204-08,CAF Estancia de Animas,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_985,ZSIST000056,032-204-09,UMF Jalpa,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_986,ZSIST000061,032-204-10,UMF Jerez,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_987,ZSIST000085,032-204-12,UMF Juchipila,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_988,ZSIST000090,032-204-13,UMF Loreto,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_989,ZSIST000201,032-204-14,CAF Luis Moya,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_990,ZSIST000213,032-204-15,CAF Monte Escobedo,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_991,ZSIST000102,032-204-17,UMF Ojocaliente,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_992,ZSIST000114,032-204-18,UMF Pinos,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_993,ZSIST000225,032-204-22,CAF Tabasco,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_994,PENDIENTE,032-204-23,CAF Teúl de González Ortega,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_995,ZSIST000143,032-204-24,UMF Tlaltenango de Sánchez Román,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_996,ZSIST000184,032-204-25,UMF Hacienda Troncoso,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_997,ZSIST000324,032-204-29,CAF Villanueva,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_998,ZSIST000266,032-204-33,CAF Cd. Cuauhtémoc,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_999,ZSIST000353,032-204-34,UMF Nochistlán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1000,ZSIST000271,032-204-40,CAF Villa García,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1001,ZSIST000032,032-205-00,CH Fresnillo,Sí,Sí,Sí,No,No,Sí,Sí,Sí,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_1002,ZSIST000394,032-205-01,CAF Cañitas de Felipe Pescador,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1003,ZSIST000300,032-205-06,CAF Chalchihuites,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1004,ZSIST000073,032-205-11,UMF Juan Aldama,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1005,ZSIST000312,032-205-16,CAF Nieves,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1006,ZSIST000126,032-205-19,UMF Río Grande,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1007,ZSIST000365,032-205-20,CAF Saín Alto,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1008,ZSIST000131,032-205-21,UMF Sombrerete,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1009,ZSIST000155,032-205-26,UMF Valparaíso,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1010,ZSIST000044,032-206-00,CMF Guadalupe,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1011,ZSIST000370,032-207-00,CMF Zacatecas,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1012,SLIST000085,033-203-00,"HR Dr. M.Cárdenas de la Vega, Culiacán",No,Sí,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1013,NLIST000105,035-203-00,HR Monterrey,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1014,PLIST000101,036-203-00,HR Puebla,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1015,GTIST000091,037-203-00,HR León,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1016,YNIST000030,038-203-00,"HR ""Elvia Carrillo Puerto"", Mérida",No,Sí,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1017,OCIST000112,039-203-00,"HR Presidente Benito Juárez, Oax.",No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1018,MCIST000425,042-203-00,HR Bicentenario de la Independencia,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1019,MSIST000293,043-203-00,HR Centenario de la Revolución Mexicana,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1020,MNIST000120,044-203-00,HR Morelia,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1021,VZIST000301,045-203-00,HR Veracruz,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1022,GRIST000520,046-203-00,HR Acapulco,No,Sí,Sí,Sí,Sí,Sí,No,Sí,No,No,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1023,CLIST000350,047-203-00,HR Torreón,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1024,JCIST000955,048-203-00,HR Tlajomulco de Zúñiga,No,Sí,Sí,Sí,Sí,Sí,No,Sí,No,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_1025,DFIST000090,090-201-00,HR Primero de Octubre,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1026,DFIST000073,091-205-00,CMF Gustavo A. Madero,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1027,DFIST000621,091-205-01,CMCT IPN-CIEA,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1028,DFIST000085,091-206-00,CMF Aragón,Sí,No,Sí,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1029,DFIST000645,091-206-02,CMCT No. 61 SAGARPA-OCAVM (CONAGUA),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1030,DFIST000370,091-207-00,CMF Guadalupe,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1031,DFIST000102,091-208-00,CEQ Centro de Cirugía Ambulatoria 1º de Octubre,No,Sí,No,No,No,Sí,No,No,No,No,No,No,No,Sí,Sí
+U_ISSSTE_1032,DFIST000481,091-209-00,CE Centro de Apoyo Diagnóstico San Rafael,No,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No
+U_ISSSTE_1033,DFIST000341,091-210-00,CE Indianilla,Sí,Sí,Sí,No,No,Sí,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1034,DFIST000382,091-211-00,CMF Cinco de Febrero,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1035,DFIST000394,091-212-00,CMF Juárez,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1036,DFIST000785,091-212-03,CMCT No. 9 Junta de Conciliación y Arbitraje,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1037,DFIST000790,091-212-04,CMCT No. 19 SEGOB,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1038,DFIST000802,091-212-05,CMCT No. 22 COFAA-IPN,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1039,DFIST000406,091-213-00,CMF San Antonio Abad,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1040,DFIST000411,091-214-00,"CMF Dr. Javier Domínguez Estrada, Chapultepec",Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1041,DFIST000983,091-214-04,CMCT No. 50 SAGARPA-SIAP,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1042,DFIST000843,091-214-05,CMCT No. 55 PROFECO,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1043,DFIST001041,091-214-06,CMCT Presidencia (OPR),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1044,PENDIENTE,091-214-08,CMCT ISSSTE-DIRI,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1045,DFIST000423,091-216-00,CMF Peralvillo,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1046,DFIST000855,091-216-01,CMCT No. 20 SRE,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1047,PENDIENTE,091-216-02,CMCT SEGOB-Talleres Gráficos de México,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1048,DFIST000435,091-217-00,CMF Guerrero,Sí,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1049,DFIST000336,091-217-01,CMCT No. 51 ISSSTE-Dirección General,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1050,DFIST000860,091-217-02,CMCT SHCP Complejo Hidalgo No. 1,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1051,DFIST000872,091-217-03,CMCT Fomento Deportivo ISSSTE (Oficina de Represantación Regional Zona Norte CDMX),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1052,DFIST000884,091-217-04,CMCT Sindicato de SHCP,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1053,DFIST000896,091-217-05,CMCT SHCP Complejo Hidalgo No. 2,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1054,DFIST000901,091-217-06,CMCT SHCP-SAT (Antes Caballito),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1055,DFIST000440,091-218-00,CMF Santa María,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1056,DFIST000913,091-218-02,CMCT No. 28 SENASICA-SAGARPA,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1057,DFIST000925,091-218-03,CMCT No. 30 Sindicato de SAGARPA,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1058,DFIST000930,091-218-04,CMCT FSTSE,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1059,DFIST000942,091-218-05,CMCT Sindicato de SEMARNAT,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1060,DFIST000995,091-218-06,CMCT SRE (Tlatelolco),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1061,DFIST000452,091-219-00,CMF Perú,Sí,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1062,DFIST000954,091-219-01,CMCT No. 23 SEP,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1063,DFIST000971,091-219-09,CMCT Palacio Nacional,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1064,DFIST000353,091-220-00,CE Dentales Dr. Honorato Villa Acosta,No,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1065,DFIST000365,091-221-00,CE Neuropsiquiatría,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1066,DFIST000546,092-204-00,CMF Balbuena,Sí,No,Sí,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1067,DFIST000551,092-205-00,CMF Morelos,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1068,DFIST000114,092-206-00,CMF Oriente,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1069,DFIST000563,092-207-00,CMF Moctezuma,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1070,DFIST000126,092-209-00,CMF Iztapalapa I,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1071,DFIST000155,092-210-00,HG Gral. José Maria Morelos y Pavón,No,Sí,Sí,Sí,No,Sí,No,Sí,Sí,No,No,No,Sí,Sí,Sí
+U_ISSSTE_1072,DFIST000131,092-211-00,CMF Iztapalapa II,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1073,DFIST000143,092-212-00,CMF Ermita Zaragoza,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1074,DFIST000650,092-214-00,CEQ Leonardo y Nicolás Bravo,No,Sí,Sí,No,Sí,Sí,No,No,Sí,No,Sí,No,Sí,Sí,Sí
+U_ISSSTE_1075,DFIST000686,093-204-00,CE Medicina Física y Rehabilitación,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1076,DFIST000271,093-205-00,CMF Narvarte,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1077,DFIST000283,093-206-00,CMF Del Valle,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1078,DFIST000715,093-206-01,CAF Centro Urbano Pdte. Miguel Alemán,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1079,DFIST000720,093-206-02,CMCT SHCP-PFF,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1080,PENDIENTE,093-206-03,CMCT SENER,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1081,PENDIENTE,093-206-09,CMCT SADER,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1082,DFIST000032,093-207-00,CEQ Churubusco,No,Sí,Sí,No,No,Sí,Sí,No,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_1083,DFIST000044,093-208-00,CMF Dr. Ignacio Chávez,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1084,DFIST000580,093-208-01,CMCT No. 65 SHCP,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1085,PENDIENTE,093-208-02,CMCT SICT,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1086,DFIST000230,093-209-00,CMF Tlalpan,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1087,DFIST000225,093-209-01,CMCT No. 17 ISSSTE (San Fernando 547),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1088,PENDIENTE,093-209-05,CMCT Centro Cultural Ollin Yoliztli,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1089,DFIST000056,093-210-00,CMF División del Norte,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1090,DFIST000295,093-211-00,CMF Ermita,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1091,DFIST000061,093-212-00,CMF Coyoacán,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1092,DFIST000756,093-212-01,CMCT No. 27 DIF,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1093,PENDIENTE,093-212-02,CMCT Transparencia para el Pueblo (antes INAI),Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1094,DFIST000592,093-212-03,CAF UHF. Integración Latinoamericana,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1095,PENDIENTE,093-212-04,CMCT UNAM,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1096,DFIST000254,093-213-00,CMF Xochimilco,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1097,DFIST000172,093-214-00,CMF Milpa Alta,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1098,DFIST000324,093-215-00,HG Dr. Darío Fernández Fierro,No,Sí,Sí,No,Sí,Sí,No,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+U_ISSSTE_1099,DFIST000242,093-217-00,CMF Fuentes Brotantes,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1100,DFIST000213,093-218-00,CE Clidda,No,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,No
+U_ISSSTE_1101,DFIST000184,093-219-00,CMF Villa Álvaro Obregón,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1102,DFIST000662,093-219-01,CMCT SABG,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1103,PENDIENTE,093-219-03,CMCT CNBV,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1104,PENDIENTE,093-219-04,CMCT Subdirección de Personal ISSSTE,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1105,PENDIENTE,093-219-05,CMCT IMSS-BIENESTAR,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1106,DFIST001053,093-220-00,HG Dra. Matilde Petra Montoya Lafragua,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1107,DFIST000015,094-204-00,CMF Cuitláhuac,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1108,DFIST000196,094-205-00,HG Dr. Fernando Quiroz Gutiérrez,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,No,Sí,No,Sí,Sí,Sí
+U_ISSSTE_1109,DFIST000505,094-206-00,CMF Marina Nacional,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1110,DFIST000020,094-207-00,CMF Azcapotzalco,Sí,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1111,DFIST000510,094-208-00,CMF Legaria,Sí,No,No,No,No,No,Sí,No,No,No,No,No,Sí,No,Sí
+U_ISSSTE_1112,DFIST000534,094-209-00,HG Tacuba,No,Sí,Sí,Sí,No,Sí,No,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí
+U_ISSSTE_1113,DFIST000493,094-211-00,CEQ Dr. Alberto Pisanty Ovadia,No,Sí,Sí,No,No,Sí,Sí,No,No,No,No,No,Sí,Sí,Sí
+U_ISSSTE_1114,DFIST000522,094-212-00,CMF Observatorio,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1115,DFIST000616,094-212-05,CAF Cuajimalpa,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1116,DFIST000300,094-214-00,CMF Revolución,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí
+U_ISSSTE_1117,DFIST000831,094-214-01,CMCT No. 62 SHCP,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1118,PENDIENTE,094-214-02,CMCT Secretaría de las Mujeres,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+U_ISSSTE_1119,DFIST000312,096-201-00,CMN 20 de Noviembre,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1120,DFIST000160,097-201-00,HR Gral. Ignacio Zaragoza,No,Sí,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+U_ISSSTE_1121,DFIST000201,098-201-00,HR Lic. Adolfo López Mateos,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí

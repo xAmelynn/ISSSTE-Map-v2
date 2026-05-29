@@ -1,0 +1,568 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mapa de Unidades Médicas ISSSTE</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="header-brand">
+        <div class="logo-marca">
+          <img src="assets/logos/issste.svg" alt="ISSSTE" />
+        </div>
+
+        <div class="header-title">
+          <h1>Mapa de Unidades Médicas</h1>
+          <p>Localiza unidades médicas del ISSSTE</p>
+        </div>
+      </div>
+
+      <div class="selector-modo">
+        <button id="btnModoUsuario" class="modo-btn activo" type="button">
+          <span
+            class="modo-icono svg-inline-icon"
+            data-src="assets/icons/usuario.svg"
+            aria-hidden="true"
+          ></span>
+          <span>Usuario</span>
+        </button>
+
+        <button id="btnModoAnalisis" class="modo-btn" type="button">
+          <span
+            class="modo-icono svg-inline-icon"
+            data-src="assets/icons/analisis.svg"
+            aria-hidden="true"
+          ></span>
+          <span>Análisis</span>
+        </button>
+      </div>
+    </header>
+
+    <section class="toolbar">
+      <div class="filtro-grupo">
+        <label for="filtroEntidad">Entidad</label>
+        <div class="control-con-icono">
+          <span
+            class="icono-control"
+            style="--icon: url(&quot;assets/icons/ubicacion.svg&quot;)"
+            aria-hidden="true"
+          ></span>
+          <select id="filtroEntidad">
+            <option value="TODOS">Todas las entidades</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="filtro-grupo">
+        <label for="filtroMunicipio">Municipio</label>
+        <div class="control-con-icono">
+          <span
+            class="icono-control"
+            style="--icon: url(&quot;assets/icons/ubicacion.svg&quot;)"
+            aria-hidden="true"
+          ></span>
+          <select id="filtroMunicipio">
+            <option value="TODOS">Todos los municipios</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="filtro-grupo">
+        <label for="filtroTipo">Tipo de unidad</label>
+        <div class="control-con-icono">
+          <span
+            class="icono-control"
+            style="--icon: url(&quot;assets/icons/tipo-unidad.svg&quot;)"
+            aria-hidden="true"
+          ></span>
+          <select id="filtroTipo">
+            <option value="TODOS">Todos los tipos</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="filtro-grupo">
+        <label for="filtroNivel">Nivel de atención</label>
+        <div class="control-con-icono">
+          <span
+            class="icono-control"
+            style="--icon: url(&quot;assets/icons/nivel-atencion.svg&quot;)"
+            aria-hidden="true"
+          ></span>
+          <select id="filtroNivel">
+            <option value="TODOS">Todos los niveles</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="filtro-grupo filtro-busqueda">
+        <label for="busqueda">&nbsp;</label>
+        <div class="control-con-icono">
+          <input
+            id="busqueda"
+            type="text"
+            placeholder="Buscar por nombre, CLUES o dirección"
+          />
+          <span
+            class="icono-control icono-derecha"
+            style="--icon: url(&quot;assets/icons/busqueda.svg&quot;)"
+            aria-hidden="true"
+          ></span>
+        </div>
+      </div>
+
+      <button id="btnLimpiar" class="btn-limpiar" type="button">
+        <span
+          class="icono-boton"
+          style="--icon: url(&quot;assets/icons/limpiar.svg&quot;)"
+          aria-hidden="true"
+        ></span>
+        Limpiar filtros
+      </button>
+
+      <span id="contadorResultados" class="contador-resultados">
+        <span class="icono-contador icono-hospital" aria-hidden="true"></span>
+        <span id="contadorTexto">0 unidades</span>
+      </span>
+    </section>
+
+    <main class="map-container">
+      <div class="floating-tools">
+        <button id="btnUbicacion" class="floating-btn" type="button">
+          <span
+            class="floating-icon svg-inline-icon"
+            data-src="assets/icons/ubicacion2.svg"
+            aria-hidden="true"
+          ></span>
+          <span>Mi ubicación</span>
+        </button>
+
+        <button id="btnNearestToggle" class="floating-btn" type="button">
+          <span
+            class="floating-icon svg-inline-icon"
+            data-src="assets/icons/tipo-unidad.svg"
+            aria-hidden="true"
+          ></span>
+          <span>Unidad cercana</span>
+        </button>
+
+        <button id="btnVista" class="floating-btn" type="button">
+          <span
+            class="floating-icon svg-inline-icon"
+            data-src="assets/icons/recargar.svg"
+            aria-hidden="true"
+          ></span>
+          <span>Ver todo</span>
+        </button>
+      </div>
+
+      <div class="zoom-custom">
+        <button id="zoomInBtn" class="zoom-btn" type="button">
+          <span
+            class="zoom-icon svg-inline-icon"
+            data-src="assets/icons/zoom-in.svg"
+            aria-hidden="true"
+          ></span>
+        </button>
+
+        <button id="zoomOutBtn" class="zoom-btn" type="button">
+          <span
+            class="zoom-icon svg-inline-icon"
+            data-src="assets/icons/zoom-out.svg"
+            aria-hidden="true"
+          ></span>
+        </button>
+      </div>
+
+      <div id="nearestMenu" class="nearest-menu" hidden>
+        <p>Buscar unidad más cercana</p>
+        <button data-nivel="Primer Nivel" type="button">Primer Nivel</button>
+        <button data-nivel="Segundo Nivel" type="button">Segundo Nivel</button>
+        <button data-nivel="Tercer Nivel" type="button">Tercer Nivel</button>
+      </div>
+
+      <aside id="panelAnalisisIzq" class="panel-analisis panel-analisis-izq">
+        <div class="analisis-header">
+          <h2>Capas analíticas</h2>
+          <p>Activa herramientas de visualización territorial. (Por Programar)</p>
+        </div>
+
+        <section class="analisis-bloque">
+          <div class="analisis-bloque-titulo">
+            <span>Mapa de calor</span>
+            <input type="checkbox" id="toggleHeatmap" />
+          </div>
+
+          <label>Indicador</label>
+          <select>
+            <option>Derechohabientes</option>
+            <option>Servicios</option>
+            <option>Unidades médicas</option>
+          </select>
+        </section>
+
+        <section class="analisis-bloque">
+          <div class="analisis-bloque-titulo">
+            <span>Radios de cobertura</span>
+            <input type="checkbox" id="toggleCobertura" />
+          </div>
+
+          <label>Distancia</label>
+          <select>
+            <option>5 km</option>
+            <option>10 km</option>
+            <option>15 km</option>
+            <option>30 km</option>
+          </select>
+        </section>
+      </aside>
+
+      <aside id="panelAnalisisDer" class="panel-analisis-der">
+        <div class="analisis-unidad-header">
+          <button id="cerrarPanelAnalisis" class="analisis-cerrar" type="button">×</button>
+
+          <div id="analisisIconoNivel" class="analisis-icono-nivel"></div>
+
+          <div class="analisis-unidad-texto">
+            <h2 id="analisisNombreUnidad">Selecciona una unidad</h2>
+            <div class="analisis-badges">
+              <span id="analisisTipo">-</span>
+              <span id="analisisNivel">-</span>
+              <span id="analisisEstatus">-</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="analisis-datos-unidad">
+          <div>
+            <strong>CLUES:</strong>
+            <span id="analisisClues">-</span>
+          </div>
+
+          <div>
+            <strong>Clave presupuestal:</strong>
+            <span id="analisisClavePresupuestal">-</span>
+          </div>
+
+          <div>
+            <strong>Subdelegación:</strong>
+            <span id="analisisSubdelegacion">-</span>
+          </div>
+
+          <div>
+            <strong>Situación jurídica:</strong>
+            <span id="analisisSituacionJuridica">-</span>
+          </div>
+
+          <div>
+            <strong>Tipo de unidad:</strong>
+            <span id="analisisTipoUnidadTexto">-</span>
+          </div>
+        </div>
+
+        <div class="analisis-selector-dh" hidden>
+          <div class="analisis-selector-dh-texto">
+            <span>Derechohabientes</span>
+            <strong>Nivel de atención</strong>
+          </div>
+          <div class="analisis-select-wrapper">
+            <select
+              id="selectorNivelDh"
+              aria-label="Derechohabientes según nivel de atención"
+            ></select>
+          </div>
+        </div>
+
+        <div class="analisis-tabs">
+          <button id="tabResumen" class="activo" type="button">Resumen</button>
+          <button id="tabCapacidad" type="button">Capacidad</button>
+          <button id="tabPersonal" type="button">Personal</button>
+          <button id="tabEquipo" type="button">Equipo</button>
+          <button id="tabCobertura" type="button">Cobertura</button>
+        </div>
+
+        <div id="contenidoResumen" class="tab-contenido activo">
+          <section class="analisis-seccion-panel">
+            <h3>Indicadores clave</h3>
+            <div class="analisis-kpi-grid">
+              <div class="analisis-kpi-card">
+                <span class="analisis-kpi-label">Derechohabientes</span>
+                <div class="analisis-kpi-footer">
+                  <strong id="kpiDerechohabientes">-</strong>
+                  <span class="kpi-icono svg-inline-icon" data-src="assets/icons/derechohabientes.svg" aria-hidden="true"></span>
+                </div>
+              </div>
+              <div class="analisis-kpi-card">
+                <span class="analisis-kpi-label">Consultorios</span>
+                <div class="analisis-kpi-footer">
+                  <strong id="kpiConsultorios">-</strong>
+                  <span class="kpi-icono svg-inline-icon" data-src="assets/icons/consultorios.svg" aria-hidden="true"></span>
+                </div>
+              </div>
+
+              <div class="analisis-kpi-card">
+                <span class="analisis-kpi-label">Médicos</span>
+                <div class="analisis-kpi-footer">
+                  <strong id="kpiMedicos">-</strong>
+                  <span class="kpi-icono svg-inline-icon" data-src="assets/icons/personal-medico.svg" aria-hidden="true"></span>
+                </div>
+              </div>
+
+              <div class="analisis-kpi-card">
+                <span class="analisis-kpi-label">DH por consultorio</span>
+                <div class="analisis-kpi-footer">
+                  <strong id="kpiDhConsultorio">-</strong>
+                  <span class="kpi-icono svg-inline-icon" data-src="assets/icons/analisis.svg" aria-hidden="true"></span>
+                </div>
+              </div>
+
+              <div class="analisis-kpi-card">
+                <span class="analisis-kpi-label">DH por médico</span>
+                <div class="analisis-kpi-footer">
+                  <strong id="kpiDhMedico">-</strong>
+                  <span class="kpi-icono svg-inline-icon" data-src="assets/icons/analisis.svg" aria-hidden="true"></span>
+                </div>
+              </div>
+
+              <div class="analisis-kpi-card">
+                <span class="analisis-kpi-label">Camas totales</span>
+                <div class="analisis-kpi-footer">
+                  <strong id="kpiCamas">-</strong>
+                  <span class="kpi-icono svg-inline-icon" data-src="assets/icons/camas.svg" aria-hidden="true"></span>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="analisis-seccion-panel">
+            <h3>Comparativa</h3>
+            <div id="comparativaDhMedico"></div>
+            <div id="comparativaDhConsultorio"></div>
+            <div id="comparativaCamas"></div>
+          </section>
+
+          <button class="btn-reporte-unidad" type="button">
+            Descargar ficha (proximamente)
+          </button>
+        </div>
+
+        <div id="contenidoCapacidad" class="tab-contenido">
+          <section class="analisis-seccion-panel">
+            <h3>Hospitalización</h3>
+
+            <div class="capacidad-desglose-lista">
+              <div
+                id="detalleCamasCensables"
+                class="capacidad-desglose-card"
+              ></div>
+
+              <div
+                id="detalleCamasTransito"
+                class="capacidad-desglose-card"
+              ></div>
+            </div>
+          </section>
+
+          <section class="analisis-seccion-panel">
+            <h3>Infraestructura</h3>
+
+            <div class="capacidad-desglose-lista">
+              <div
+                id="detalleConsultorios"
+                class="capacidad-desglose-card"
+              ></div>
+
+              <div
+                id="detalleLaboratorios"
+                class="capacidad-desglose-card"
+              ></div>
+
+              <div
+                id="detalleSalas"
+                class="capacidad-desglose-card"
+              ></div>
+
+              <div
+                id="detalleApoyoClinico"
+                class="capacidad-desglose-card"
+              ></div>
+            </div>
+          </section>
+        </div>
+        <div id="contenidoPersonal" class="tab-contenido">
+    <section class="analisis-seccion-panel">
+      <h3>Personal de la unidad</h3>
+
+      <div class="capacidad-desglose-lista">
+        <div id="detallePersonalMedico" class="capacidad-desglose-card"></div>
+        <div id="detalleEnfermeria" class="capacidad-desglose-card"></div>
+        <div id="detalleParamedico" class="capacidad-desglose-card"></div>
+        <div id="detalleApoyoAdministrativo" class="capacidad-desglose-card"></div>
+      </div>
+    </section>
+  </div>
+
+
+
+        <div id="contenidoEquipo" class="tab-contenido">
+          <section class="analisis-seccion-panel">
+            <h3>Equipo médico</h3>
+            <div class="capacidad-desglose-lista">
+              <div id="detalleImagenologia" class="capacidad-desglose-card"></div>
+              <div id="detalleUrgenciasEquipo" class="capacidad-desglose-card"></div>
+              <div id="detalleNeonatal" class="capacidad-desglose-card"></div>
+              <div id="detalleTransporte" class="capacidad-desglose-card"></div>
+              <div id="detalleEspecializado" class="capacidad-desglose-card"></div>
+            </div>
+          </section>
+        </div>
+</aside>
+
+      <div id="map"></div>
+
+      <div id="mensajeVacio" class="mensaje-vacio" hidden>
+        <div>
+          <h3>No se encontraron unidades</h3>
+          <p>Intenta cambiar los filtros o limpiar la búsqueda.</p>
+          <button id="btnRestablecer" type="button">Restablecer filtros</button>
+        </div>
+      </div>
+
+      <aside id="panelInfo" class="panel">
+        <button id="cerrarPanel" class="cerrar" type="button">✕</button>
+        <div class="panel-header">
+          <div id="panelIconoNivel" class="panel-icono-nivel"></div>
+          <div class="panel-header-texto">
+            <h2 id="panelNombre">Selecciona una unidad</h2>
+            <div class="panel-badges">
+              <span id="panelTipoBadge" class="panel-badge panel-badge-tipo"
+                >-</span
+              >
+              <span id="panelNivel" class="panel-badge panel-badge-soft"
+                >-</span
+              >
+              <span id="panelEstatus" class="panel-badge panel-badge-ok"
+                >-</span
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="panel-detalles">
+          <div class="panel-row">
+            <span
+              class="panel-row-icon svg-inline-icon"
+              data-src="assets/icons/clues.svg"
+              aria-hidden="true"
+            ></span
+            ><span class="panel-row-label">CLUES:</span
+            ><span id="panelClues" class="panel-row-value">-</span>
+          </div>
+          <div class="panel-row">
+            <span
+              class="panel-row-icon svg-inline-icon"
+              data-src="assets/icons/tipo-unidad.svg"
+              aria-hidden="true"
+            ></span
+            ><span class="panel-row-label">Tipo:</span
+            ><span id="panelTipo" class="panel-row-value">-</span>
+          </div>
+          <div class="panel-row">
+            <span
+              class="panel-row-icon svg-inline-icon"
+              data-src="assets/icons/nivel-atencion.svg"
+              aria-hidden="true"
+            ></span
+            ><span class="panel-row-label">Nivel:</span
+            ><span id="panelNivelTexto" class="panel-row-value">-</span>
+          </div>
+          <div class="panel-row">
+            <span
+              class="panel-row-icon svg-inline-icon"
+              data-src="assets/icons/ubicacion.svg"
+              aria-hidden="true"
+            ></span
+            ><span class="panel-row-label">Ubicación:</span
+            ><span id="panelUbicacion" class="panel-row-value">-</span>
+          </div>
+          <div class="panel-row">
+            <span
+              class="panel-row-icon svg-inline-icon"
+              data-src="assets/icons/ubicacion.svg"
+              aria-hidden="true"
+            ></span
+            ><span class="panel-row-label">Dirección:</span
+            ><span id="panelDireccion" class="panel-row-value">-</span>
+          </div>
+        </div>
+
+        <div class="panel-actions">
+          <a
+            id="panelRuta"
+            class="btn-ruta"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span
+              class="btn-icon svg-inline-icon"
+              data-src="assets/icons/ubicacion2.svg"
+              aria-hidden="true"
+            ></span>
+            <span>Cómo llegar</span>
+          </a>
+          <button
+            id="btnCopiarDireccion"
+            class="btn-panel-secundario"
+            type="button"
+          >
+            <span
+              class="btn-icon svg-inline-icon"
+              data-src="assets/icons/copiar.svg"
+              aria-hidden="true"
+            ></span>
+            <span id="btnCopiarDireccionTexto">Copiar dirección</span>
+          </button>
+        </div>
+
+        <div class="panel-servicios">
+          <div class="panel-servicios-titulo">
+            <span
+              class="panel-servicios-icono svg-inline-icon"
+              data-src="assets/icons/servicios.svg"
+              aria-hidden="true"
+            ></span>
+            <h3>Servicios disponibles</h3>
+          </div>
+          <div id="panelServiciosIconos" class="servicios-iconos">
+            <span class="servicio-placeholder">Próximamente</span>
+          </div>
+          <button class="btn-ver-mas" type="button">
+            <span>Ver más</span>
+            <span
+              class="btn-ver-mas-icono svg-inline-icon"
+              data-src="assets/icons/flecha-abajo.svg"
+              aria-hidden="true"
+            ></span>
+          </button>
+        </div>
+      </aside>
+    </main>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
